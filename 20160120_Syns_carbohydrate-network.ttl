@@ -1,0 +1,4207 @@
+@prefix ns0:	<http://syns.glyconavi.org/> .
+@prefix ns1:	<http://glyconavi.org/Mole/> .
+ns1:N-0000-000001	ns0:carbohydrate-network	ns1:N-0000-000004 ,
+		ns1:N-0000-000005 ,
+		ns1:N-0000-000011 ,
+		ns1:N-0000-000013 .
+ns1:N-0000-000014	ns0:carbohydrate-network	ns1:N-0000-000015 ,
+		ns1:N-0000-000016 ,
+		ns1:N-0000-000017 ,
+		ns1:N-0000-000018 ,
+		ns1:N-0000-000019 ,
+		ns1:N-0000-000020 .
+ns1:N-0000-000021	ns0:carbohydrate-network	ns1:N-0000-000022 ,
+		ns1:N-0000-000023 .
+ns1:N-0000-000024	ns0:carbohydrate-network	ns1:N-0000-004055 ,
+		ns1:N-0000-000025 ,
+		ns1:N-0000-000026 .
+ns1:N-0000-000027	ns0:carbohydrate-network	ns1:N-0000-000030 ,
+		ns1:N-0000-002416 ,
+		ns1:N-0000-002420 ,
+		ns1:N-0000-005233 ,
+		ns1:N-0000-005235 ,
+		ns1:N-0000-005224 ,
+		ns1:N-0000-005226 ,
+		ns1:N-0000-005229 ,
+		ns1:N-0000-005215 ,
+		ns1:N-0000-005217 ,
+		ns1:N-0000-005219 ,
+		ns1:N-0000-005221 ,
+		ns1:N-0000-005213 .
+ns1:N-0000-000030	ns0:carbohydrate-network	ns1:N-0000-000038 ,
+		ns1:N-0000-000039 ,
+		ns1:N-0000-000033 ,
+		ns1:N-0000-000034 ,
+		ns1:N-0000-000045 ,
+		ns1:N-0000-000041 ,
+		ns1:N-0000-000042 ,
+		ns1:N-0000-000044 .
+ns1:N-0000-000040	ns0:carbohydrate-network	ns1:N-0000-000041 ,
+		ns1:N-0000-000042 .
+ns1:N-0000-000043	ns0:carbohydrate-network	ns1:N-0000-004268 ,
+		ns1:N-0000-004269 ,
+		ns1:N-0000-004271 ,
+		ns1:N-0000-004272 ,
+		ns1:N-0000-004274 ,
+		ns1:N-0000-004275 ,
+		ns1:N-0000-004353 ,
+		ns1:N-0000-004343 ,
+		ns1:N-0000-004326 ,
+		ns1:N-0000-004327 ,
+		ns1:N-0000-003092 ,
+		ns1:N-0000-002985 ,
+		ns1:N-0000-000274 ,
+		ns1:N-0000-000273 ,
+		ns1:N-0000-000389 ,
+		ns1:N-0000-000390 ,
+		ns1:N-0000-000381 ,
+		ns1:N-0000-000383 ,
+		ns1:N-0000-000044 ,
+		ns1:N-0000-000045 ,
+		ns1:N-0000-000145 ,
+		ns1:N-0000-000146 ,
+		ns1:N-0000-000106 ,
+		ns1:N-0000-000107 ,
+		ns1:N-0000-000108 ,
+		ns1:N-0000-000104 ,
+		ns1:N-0000-000105 ,
+		ns1:N-0000-000082 ,
+		ns1:N-0000-000083 ,
+		ns1:N-0000-002254 ,
+		ns1:N-0000-002332 ,
+		ns1:N-0000-002335 ,
+		ns1:N-0000-002349 ,
+		ns1:N-0000-001245 ,
+		ns1:N-0000-001259 ,
+		ns1:N-0000-001253 ,
+		ns1:N-0000-001256 .
+ns1:N-0000-000046	ns0:carbohydrate-network	ns1:N-0000-000801 ,
+		ns1:N-0000-003775 ,
+		ns1:N-0000-003768 ,
+		ns1:N-0000-003769 ,
+		ns1:N-0000-003770 ,
+		ns1:N-0000-003771 ,
+		ns1:N-0000-003776 ,
+		ns1:N-0000-003779 ,
+		ns1:N-0000-000261 ,
+		ns1:N-0000-000258 ,
+		ns1:N-0000-000259 ,
+		ns1:N-0000-000260 ,
+		ns1:N-0000-000288 ,
+		ns1:N-0000-000289 ,
+		ns1:N-0000-000290 ,
+		ns1:N-0000-000252 ,
+		ns1:N-0000-000251 ,
+		ns1:N-0000-000327 ,
+		ns1:N-0000-000328 ,
+		ns1:N-0000-000329 ,
+		ns1:N-0000-000330 ,
+		ns1:N-0000-000344 ,
+		ns1:N-0000-000351 ,
+		ns1:N-0000-000296 ,
+		ns1:N-0000-000297 ,
+		ns1:N-0000-000291 ,
+		ns1:N-0000-000292 ,
+		ns1:N-0000-000294 ,
+		ns1:N-0000-000313 ,
+		ns1:N-0000-000321 ,
+		ns1:N-0000-000322 ,
+		ns1:N-0000-000456 ,
+		ns1:N-0000-000457 ,
+		ns1:N-0000-000467 ,
+		ns1:N-0000-000468 ,
+		ns1:N-0000-000465 ,
+		ns1:N-0000-000466 ,
+		ns1:N-0000-000015 ,
+		ns1:N-0000-000016 ,
+		ns1:N-0000-000049 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-000072 ,
+		ns1:N-0000-000048 ,
+		ns1:N-0000-002143 ,
+		ns1:N-0000-005051 ,
+		ns1:N-0000-005052 ,
+		ns1:N-0000-002144 ,
+		ns1:N-0000-002649 ,
+		ns1:N-0000-001237 ,
+		ns1:N-0000-001238 ,
+		ns1:N-0000-001234 ,
+		ns1:N-0000-001235 .
+ns1:N-0000-000048	ns0:carbohydrate-network	ns1:N-0000-000273 ,
+		ns1:N-0000-000274 ,
+		ns1:N-0000-000015 ,
+		ns1:N-0000-000016 ,
+		ns1:N-0000-000061 ,
+		ns1:N-0000-000062 ,
+		ns1:N-0000-000063 ,
+		ns1:N-0000-000064 ,
+		ns1:N-0000-000058 ,
+		ns1:N-0000-000059 ,
+		ns1:N-0000-000073 ,
+		ns1:N-0000-000075 ,
+		ns1:N-0000-000076 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-000072 ,
+		ns1:N-0000-000066 ,
+		ns1:N-0000-000067 ,
+		ns1:N-0000-000019 ,
+		ns1:N-0000-000020 ,
+		ns1:N-0000-000202 ,
+		ns1:N-0000-000198 ,
+		ns1:N-0000-000199 ,
+		ns1:N-0000-000194 ,
+		ns1:N-0000-000195 ,
+		ns1:N-0000-000196 ,
+		ns1:N-0000-000190 ,
+		ns1:N-0000-000191 ,
+		ns1:N-0000-000209 ,
+		ns1:N-0000-000211 ,
+		ns1:N-0000-000212 ,
+		ns1:N-0000-000208 .
+ns1:N-0000-000051	ns0:carbohydrate-network	ns1:N-0000-000052 ,
+		ns1:N-0000-000053 ,
+		ns1:N-0000-005059 ,
+		ns1:N-0000-005060 .
+ns1:N-0000-000054	ns0:carbohydrate-network	ns1:N-0000-000307 ,
+		ns1:N-0000-000308 ,
+		ns1:N-0000-000309 ,
+		ns1:N-0000-000324 ,
+		ns1:N-0000-000325 ,
+		ns1:N-0000-000346 ,
+		ns1:N-0000-000347 ,
+		ns1:N-0000-000263 ,
+		ns1:N-0000-000264 ,
+		ns1:N-0000-000265 ,
+		ns1:N-0000-000266 ,
+		ns1:N-0000-000055 ,
+		ns1:N-0000-000056 ,
+		ns1:N-0000-001241 .
+ns1:N-0000-000068	ns0:carbohydrate-network	ns1:N-0000-004328 ,
+		ns1:N-0000-004345 ,
+		ns1:N-0000-004257 ,
+		ns1:N-0000-004258 ,
+		ns1:N-0000-004280 ,
+		ns1:N-0000-004281 ,
+		ns1:N-0000-004133 ,
+		ns1:N-0000-004134 ,
+		ns1:N-0000-004128 ,
+		ns1:N-0000-004127 ,
+		ns1:N-0000-004120 ,
+		ns1:N-0000-004121 ,
+		ns1:N-0000-002921 ,
+		ns1:N-0000-000384 ,
+		ns1:N-0000-000385 ,
+		ns1:N-0000-000387 ,
+		ns1:N-0000-000388 ,
+		ns1:N-0000-000461 ,
+		ns1:N-0000-000462 ,
+		ns1:N-0000-000242 ,
+		ns1:N-0000-000244 ,
+		ns1:N-0000-000241 ,
+		ns1:N-0000-000290 ,
+		ns1:N-0000-000144 ,
+		ns1:N-0000-000143 ,
+		ns1:N-0000-000133 ,
+		ns1:N-0000-000117 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-002502 ,
+		ns1:N-0000-002498 ,
+		ns1:N-0000-002494 ,
+		ns1:N-0000-002480 ,
+		ns1:N-0000-002506 ,
+		ns1:N-0000-002418 ,
+		ns1:N-0000-002419 ,
+		ns1:N-0000-001642 ,
+		ns1:N-0000-002028 ,
+		ns1:N-0000-002025 ,
+		ns1:N-0000-002014 ,
+		ns1:N-0000-005444 ,
+		ns1:N-0000-005445 ,
+		ns1:N-0000-005442 ,
+		ns1:N-0000-005436 ,
+		ns1:N-0000-005438 ,
+		ns1:N-0000-005477 ,
+		ns1:N-0000-005478 ,
+		ns1:N-0000-005463 ,
+		ns1:N-0000-005465 ,
+		ns1:N-0000-005466 ,
+		ns1:N-0000-005459 ,
+		ns1:N-0000-005460 ,
+		ns1:N-0000-005462 ,
+		ns1:N-0000-005455 ,
+		ns1:N-0000-005457 ,
+		ns1:N-0000-005458 ,
+		ns1:N-0000-005451 ,
+		ns1:N-0000-005454 ,
+		ns1:N-0000-005447 ,
+		ns1:N-0000-005448 ,
+		ns1:N-0000-005450 ,
+		ns1:N-0000-005483 ,
+		ns1:N-0000-005484 ,
+		ns1:N-0000-005480 ,
+		ns1:N-0000-005481 ,
+		ns1:N-0000-001234 ,
+		ns1:N-0000-004474 ,
+		ns1:N-0000-004528 ,
+		ns1:N-0000-004524 ,
+		ns1:N-0000-004526 ,
+		ns1:N-0000-004527 ,
+		ns1:N-0000-004521 ,
+		ns1:N-0000-004522 ,
+		ns1:N-0000-004329 .
+ns1:N-0000-000071	ns0:carbohydrate-network	ns1:N-0000-004122 ,
+		ns1:N-0000-004123 ,
+		ns1:N-0000-004135 ,
+		ns1:N-0000-004136 ,
+		ns1:N-0000-004129 ,
+		ns1:N-0000-004130 ,
+		ns1:N-0000-000463 ,
+		ns1:N-0000-000464 ,
+		ns1:N-0000-000134 ,
+		ns1:N-0000-000135 ,
+		ns1:N-0000-000073 ,
+		ns1:N-0000-000072 ,
+		ns1:N-0000-002499 ,
+		ns1:N-0000-002503 ,
+		ns1:N-0000-002495 ,
+		ns1:N-0000-002507 ,
+		ns1:N-0000-002414 ,
+		ns1:N-0000-002252 ,
+		ns1:N-0000-002307 ,
+		ns1:N-0000-001642 ,
+		ns1:N-0000-002029 ,
+		ns1:N-0000-001453 ,
+		ns1:N-0000-001454 ,
+		ns1:N-0000-001455 ,
+		ns1:N-0000-001458 ,
+		ns1:N-0000-005512 ,
+		ns1:N-0000-005513 ,
+		ns1:N-0000-005471 ,
+		ns1:N-0000-005472 ,
+		ns1:N-0000-005474 ,
+		ns1:N-0000-005476 ,
+		ns1:N-0000-005477 ,
+		ns1:N-0000-005478 ,
+		ns1:N-0000-005480 ,
+		ns1:N-0000-004961 .
+ns1:N-0000-000077	ns0:carbohydrate-network	ns1:N-0000-000081 ,
+		ns1:N-0000-000082 ,
+		ns1:N-0000-000083 ,
+		ns1:N-0000-000078 ,
+		ns1:N-0000-000079 ,
+		ns1:N-0000-000080 .
+ns1:N-0000-000085	ns0:carbohydrate-network	ns1:N-0000-000174 ,
+		ns1:N-0000-000175 ,
+		ns1:N-0000-000187 ,
+		ns1:N-0000-000214 ,
+		ns1:N-0000-000220 ,
+		ns1:N-0000-000087 ,
+		ns1:N-0000-000098 ,
+		ns1:N-0000-000105 ,
+		ns1:N-0000-000116 ,
+		ns1:N-0000-000119 ,
+		ns1:N-0000-000344 ,
+		ns1:N-0000-000346 ,
+		ns1:N-0000-000347 ,
+		ns1:N-0000-000348 ,
+		ns1:N-0000-000349 ,
+		ns1:N-0000-000275 ,
+		ns1:N-0000-000431 ,
+		ns1:N-0000-000801 .
+ns1:N-0000-000087	ns0:carbohydrate-network	ns1:N-0000-000106 ,
+		ns1:N-0000-000109 ,
+		ns1:N-0000-000098 ,
+		ns1:N-0000-000100 ,
+		ns1:N-0000-000105 .
+ns1:N-0000-000088	ns0:carbohydrate-network	ns1:N-0000-000091 ,
+		ns1:N-0000-000087 .
+ns1:N-0000-000091	ns0:carbohydrate-network	ns1:N-0000-000101 ,
+		ns1:N-0000-000104 .
+ns1:N-0000-000092	ns0:carbohydrate-network	ns1:N-0000-000216 ,
+		ns1:N-0000-000177 ,
+		ns1:N-0000-000102 ,
+		ns1:N-0000-000093 ,
+		ns1:N-0000-000222 ,
+		ns1:N-0000-000433 ,
+		ns1:N-0000-000430 ,
+		ns1:N-0000-001327 .
+ns1:N-0000-000093	ns0:carbohydrate-network	ns1:N-0000-000102 ,
+		ns1:N-0000-000107 .
+ns1:N-0000-000094	ns0:carbohydrate-network	ns1:N-0000-000206 ,
+		ns1:N-0000-000218 ,
+		ns1:N-0000-000183 ,
+		ns1:N-0000-000117 ,
+		ns1:N-0000-000095 ,
+		ns1:N-0000-000103 ,
+		ns1:N-0000-000224 ,
+		ns1:N-0000-000435 .
+ns1:N-0000-000095	ns0:carbohydrate-network	ns1:N-0000-000218 ,
+		ns1:N-0000-000206 ,
+		ns1:N-0000-000183 ,
+		ns1:N-0000-000108 ,
+		ns1:N-0000-000103 ,
+		ns1:N-0000-000267 ,
+		ns1:N-0000-000224 ,
+		ns1:N-0000-000435 .
+ns1:N-0000-000115	ns0:carbohydrate-network	ns1:N-0000-000176 ,
+		ns1:N-0000-000215 ,
+		ns1:N-0000-000203 ,
+		ns1:N-0000-000101 ,
+		ns1:N-0000-000432 ,
+		ns1:N-0000-000221 .
+ns1:N-0000-000118	ns0:carbohydrate-network	ns1:N-0000-000119 ,
+		ns1:N-0000-001327 .
+ns1:N-0000-000120	ns0:carbohydrate-network	ns1:N-0000-000121 .
+ns1:N-0000-000122	ns0:carbohydrate-network	ns1:N-0000-000130 ,
+		ns1:N-0000-000133 ,
+		ns1:N-0000-000134 ,
+		ns1:N-0000-000135 ,
+		ns1:N-0000-000123 ,
+		ns1:N-0000-004859 .
+ns1:N-0000-000136	ns0:carbohydrate-network	ns1:N-0000-000137 ,
+		ns1:N-0000-000138 ,
+		ns1:N-0000-000141 ,
+		ns1:N-0000-000142 ,
+		ns1:N-0000-000143 ,
+		ns1:N-0000-000144 ,
+		ns1:N-0000-000145 ,
+		ns1:N-0000-000146 ,
+		ns1:N-0000-000382 .
+ns1:N-0000-000140	ns0:carbohydrate-network	ns1:N-0000-000141 ,
+		ns1:N-0000-000142 ,
+		ns1:N-0000-000399 ,
+		ns1:N-0000-001667 ,
+		ns1:N-0000-001668 .
+ns1:N-0000-000147	ns0:carbohydrate-network	ns1:N-0000-000148 ,
+		ns1:N-0000-000149 ,
+		ns1:N-0000-000401 ,
+		ns1:N-0000-000403 ,
+		ns1:N-0000-000404 ,
+		ns1:N-0000-000383 ,
+		ns1:N-0000-000384 ,
+		ns1:N-0000-000385 ,
+		ns1:N-0000-000380 ,
+		ns1:N-0000-000381 ,
+		ns1:N-0000-001268 .
+ns1:N-0000-000159	ns0:carbohydrate-network	ns1:N-0000-000162 .
+ns1:N-0000-000162	ns0:carbohydrate-network	ns1:N-0000-000336 ,
+		ns1:N-0000-000046 .
+ns1:N-0000-000163	ns0:carbohydrate-network	ns1:N-0000-000164 .
+ns1:N-0000-000164	ns0:carbohydrate-network	ns1:N-0000-000341 ,
+		ns1:N-0000-000046 .
+ns1:N-0000-000165	ns0:carbohydrate-network	ns1:N-0000-000166 .
+ns1:N-0000-000166	ns0:carbohydrate-network	ns1:N-0000-000336 ,
+		ns1:N-0000-000337 .
+ns1:N-0000-000167	ns0:carbohydrate-network	ns1:N-0000-000168 .
+ns1:N-0000-000168	ns0:carbohydrate-network	ns1:N-0000-000340 ,
+		ns1:N-0000-000336 .
+ns1:N-0000-000169	ns0:carbohydrate-network	ns1:N-0000-000170 .
+ns1:N-0000-000170	ns0:carbohydrate-network	ns1:N-0000-000336 ,
+		ns1:N-0000-000342 .
+ns1:N-0000-000171	ns0:carbohydrate-network	ns1:N-0000-000172 .
+ns1:N-0000-000172	ns0:carbohydrate-network	ns1:N-0000-000336 ,
+		ns1:N-0000-000343 ,
+		ns1:N-0000-000046 .
+ns1:N-0000-000178	ns0:carbohydrate-network	ns1:N-0000-000225 ,
+		ns1:N-0000-000436 ,
+		ns1:N-0000-000179 ,
+		ns1:N-0000-000204 .
+ns1:N-0000-000180	ns0:carbohydrate-network	ns1:N-0000-000223 ,
+		ns1:N-0000-000434 ,
+		ns1:N-0000-000181 ,
+		ns1:N-0000-000182 ,
+		ns1:N-0000-000184 ,
+		ns1:N-0000-000217 ,
+		ns1:N-0000-000205 .
+ns1:N-0000-000226	ns0:carbohydrate-network	ns1:N-0000-000227 ,
+		ns1:N-0000-000228 ,
+		ns1:N-0000-000242 ,
+		ns1:N-0000-000246 ,
+		ns1:N-0000-000239 ,
+		ns1:N-0000-000240 ,
+		ns1:N-0000-000241 ,
+		ns1:N-0000-000252 ,
+		ns1:N-0000-000254 ,
+		ns1:N-0000-000255 ,
+		ns1:N-0000-000247 ,
+		ns1:N-0000-000249 ,
+		ns1:N-0000-000250 ,
+		ns1:N-0000-000251 .
+ns1:N-0000-000236	ns0:carbohydrate-network	ns1:N-0000-000266 ,
+		ns1:N-0000-000257 ,
+		ns1:N-0000-000258 ,
+		ns1:N-0000-000259 ,
+		ns1:N-0000-000260 ,
+		ns1:N-0000-000261 ,
+		ns1:N-0000-000263 ,
+		ns1:N-0000-000264 ,
+		ns1:N-0000-000265 ,
+		ns1:N-0000-000237 ,
+		ns1:N-0000-000256 ,
+		ns1:N-0000-000238 ,
+		ns1:N-0000-000243 ,
+		ns1:N-0000-000244 .
+ns1:N-0000-000268	ns0:carbohydrate-network	ns1:N-0000-000217 ,
+		ns1:N-0000-000205 ,
+		ns1:N-0000-000181 ,
+		ns1:N-0000-000434 ,
+		ns1:N-0000-000223 .
+ns1:N-0000-000270	ns0:carbohydrate-network	ns1:N-0000-000271 ,
+		ns1:N-0000-000272 ,
+		ns1:N-0000-002130 .
+ns1:N-0000-000275	ns0:carbohydrate-network	ns1:N-0000-000105 ,
+		ns1:N-0000-000106 ,
+		ns1:N-0000-000116 ,
+		ns1:N-0000-000276 .
+ns1:N-0000-000278	ns0:carbohydrate-network	ns1:N-0000-000287 ,
+		ns1:N-0000-000283 ,
+		ns1:N-0000-000285 ,
+		ns1:N-0000-000279 ,
+		ns1:N-0000-000280 ,
+		ns1:N-0000-000281 ,
+		ns1:N-0000-000282 ,
+		ns1:N-0000-001321 .
+ns1:N-0000-000298	ns0:carbohydrate-network	ns1:N-0000-000299 ,
+		ns1:N-0000-000300 ,
+		ns1:N-0000-000301 ,
+		ns1:N-0000-000302 ,
+		ns1:N-0000-000344 ,
+		ns1:N-0000-000256 ,
+		ns1:N-0000-000247 ,
+		ns1:N-0000-000246 ,
+		ns1:N-0000-000257 ,
+		ns1:N-0000-000476 ,
+		ns1:N-0000-000386 ,
+		ns1:N-0000-001239 .
+ns1:N-0000-000303	ns0:carbohydrate-network	ns1:N-0000-003758 ,
+		ns1:N-0000-003759 ,
+		ns1:N-0000-003761 ,
+		ns1:N-0000-003762 ,
+		ns1:N-0000-003763 ,
+		ns1:N-0000-003766 ,
+		ns1:N-0000-003767 ,
+		ns1:N-0000-003773 ,
+		ns1:N-0000-003774 ,
+		ns1:N-0000-003778 ,
+		ns1:N-0000-000323 ,
+		ns1:N-0000-000348 ,
+		ns1:N-0000-000349 ,
+		ns1:N-0000-000304 ,
+		ns1:N-0000-000305 ,
+		ns1:N-0000-000306 ,
+		ns1:N-0000-000254 ,
+		ns1:N-0000-000255 ,
+		ns1:N-0000-005053 ,
+		ns1:N-0000-005054 ,
+		ns1:N-0000-001240 ,
+		ns1:N-0000-001388 .
+ns1:N-0000-000310	ns0:carbohydrate-network	ns1:N-0000-000311 ,
+		ns1:N-0000-000312 ,
+		ns1:N-0000-000313 ,
+		ns1:N-0000-000327 ,
+		ns1:N-0000-000328 ,
+		ns1:N-0000-000329 ,
+		ns1:N-0000-000330 ,
+		ns1:N-0000-000326 .
+ns1:N-0000-000314	ns0:carbohydrate-network	ns1:N-0000-000315 ,
+		ns1:N-0000-000317 ,
+		ns1:N-0000-000318 .
+ns1:N-0000-000315	ns0:carbohydrate-network	ns1:N-0000-003177 .
+ns1:N-0000-000319	ns0:carbohydrate-network	ns1:N-0000-000331 ,
+		ns1:N-0000-000320 .
+ns1:N-0000-000332	ns0:carbohydrate-network	ns1:N-0000-001007 ,
+		ns1:N-0000-000333 .
+ns1:N-0000-000338	ns0:carbohydrate-network	ns1:N-0000-000339 .
+ns1:N-0000-000350	ns0:carbohydrate-network	ns1:N-0000-000351 .
+ns1:N-0000-000352	ns0:carbohydrate-network	ns1:N-0000-000353 .
+ns1:N-0000-000354	ns0:carbohydrate-network	ns1:N-0000-000355 .
+ns1:N-0000-000356	ns0:carbohydrate-network	ns1:N-0000-000357 .
+ns1:N-0000-000358	ns0:carbohydrate-network	ns1:N-0000-000359 .
+ns1:N-0000-000360	ns0:carbohydrate-network	ns1:N-0000-000361 .
+ns1:N-0000-000362	ns0:carbohydrate-network	ns1:N-0000-000363 .
+ns1:N-0000-000364	ns0:carbohydrate-network	ns1:N-0000-000353 .
+ns1:N-0000-000377	ns0:carbohydrate-network	ns1:N-0000-000379 ,
+		ns1:N-0000-000378 ,
+		ns1:N-0000-000387 ,
+		ns1:N-0000-000388 ,
+		ns1:N-0000-000389 ,
+		ns1:N-0000-000390 ,
+		ns1:N-0000-001667 ,
+		ns1:N-0000-001668 .
+ns1:N-0000-000386	ns0:carbohydrate-network	ns1:N-0000-000384 ,
+		ns1:N-0000-000385 ,
+		ns1:N-0000-001268 ,
+		ns1:N-0000-001271 .
+ns1:N-0000-000391	ns0:carbohydrate-network	ns1:N-0000-000393 ,
+		ns1:N-0000-000394 ,
+		ns1:N-0000-000395 ,
+		ns1:N-0000-000396 .
+ns1:N-0000-000399	ns0:carbohydrate-network	ns1:N-0000-000480 ,
+		ns1:N-0000-000481 .
+ns1:N-0000-000400	ns0:carbohydrate-network	ns1:N-0000-000401 ,
+		ns1:N-0000-000760 .
+ns1:N-0000-000402	ns0:carbohydrate-network	ns1:N-0000-000403 ,
+		ns1:N-0000-000404 ,
+		ns1:N-0000-002557 .
+ns1:N-0000-000405	ns0:carbohydrate-network	ns1:N-0000-000406 .
+ns1:N-0000-000406	ns0:carbohydrate-network	ns1:N-0000-000407 .
+ns1:N-0000-000407	ns0:carbohydrate-network	ns1:N-0000-000409 .
+ns1:N-0000-000409	ns0:carbohydrate-network	ns1:N-0000-000413 .
+ns1:N-0000-000410	ns0:carbohydrate-network	ns1:N-0000-000413 ,
+		ns1:N-0000-001340 .
+ns1:N-0000-000413	ns0:carbohydrate-network	ns1:N-0000-000416 .
+ns1:N-0000-000417	ns0:carbohydrate-network	ns1:N-0000-000405 .
+ns1:N-0000-000422	ns0:carbohydrate-network	ns1:N-0000-000424 .
+ns1:N-0000-000424	ns0:carbohydrate-network	ns1:N-0000-000425 .
+ns1:N-0000-000425	ns0:carbohydrate-network	ns1:N-0000-000428 .
+ns1:N-0000-000427	ns0:carbohydrate-network	ns1:N-0000-000428 ,
+		ns1:N-0000-001335 .
+ns1:N-0000-000428	ns0:carbohydrate-network	ns1:N-0000-000429 .
+ns1:N-0000-000437	ns0:carbohydrate-network	ns1:N-0000-000352 ,
+		ns1:N-0000-000354 ,
+		ns1:N-0000-000356 ,
+		ns1:N-0000-000358 ,
+		ns1:N-0000-000360 ,
+		ns1:N-0000-000443 ,
+		ns1:N-0000-000445 ,
+		ns1:N-0000-000438 ,
+		ns1:N-0000-000440 ,
+		ns1:N-0000-000441 .
+ns1:N-0000-000438	ns0:carbohydrate-network	ns1:N-0000-000352 .
+ns1:N-0000-000440	ns0:carbohydrate-network	ns1:N-0000-000356 .
+ns1:N-0000-000441	ns0:carbohydrate-network	ns1:N-0000-000354 .
+ns1:N-0000-000443	ns0:carbohydrate-network	ns1:N-0000-000360 .
+ns1:N-0000-000445	ns0:carbohydrate-network	ns1:N-0000-000358 .
+ns1:N-0000-000446	ns0:carbohydrate-network	ns1:N-0000-005087 ,
+		ns1:N-0000-005086 .
+ns1:N-0000-000449	ns0:carbohydrate-network	ns1:N-0000-005088 ,
+		ns1:N-0000-005089 .
+ns1:N-0000-000452	ns0:carbohydrate-network	ns1:N-0000-000459 ,
+		ns1:N-0000-000460 ,
+		ns1:N-0000-000461 ,
+		ns1:N-0000-000462 ,
+		ns1:N-0000-000456 ,
+		ns1:N-0000-000457 ,
+		ns1:N-0000-000458 ,
+		ns1:N-0000-000467 ,
+		ns1:N-0000-000468 ,
+		ns1:N-0000-000463 ,
+		ns1:N-0000-000464 ,
+		ns1:N-0000-000465 ,
+		ns1:N-0000-000466 .
+ns1:N-0000-000469	ns0:carbohydrate-network	ns1:N-0000-000471 ,
+		ns1:N-0000-000472 ,
+		ns1:N-0000-000474 ,
+		ns1:N-0000-000475 ,
+		ns1:N-0000-002794 ,
+		ns1:N-0000-002795 .
+ns1:N-0000-000470	ns0:carbohydrate-network	ns1:N-0000-000471 ,
+		ns1:N-0000-000472 .
+ns1:N-0000-000471	ns0:carbohydrate-network	ns1:N-0000-000483 .
+ns1:N-0000-000473	ns0:carbohydrate-network	ns1:N-0000-000474 ,
+		ns1:N-0000-000475 .
+ns1:N-0000-000477	ns0:carbohydrate-network	ns1:N-0000-000479 ,
+		ns1:N-0000-000478 .
+ns1:N-0000-000482	ns0:carbohydrate-network	ns1:N-0000-000483 .
+ns1:N-0000-000483	ns0:carbohydrate-network	ns1:N-0000-000492 .
+ns1:N-0000-000492	ns0:carbohydrate-network	ns1:N-0000-000494 ,
+		ns1:N-0000-000495 ,
+		ns1:N-0000-000496 .
+ns1:N-0000-000493	ns0:carbohydrate-network	ns1:N-0000-000494 ,
+		ns1:N-0000-000495 ,
+		ns1:N-0000-000496 .
+ns1:N-0000-000497	ns0:carbohydrate-network	ns1:N-0000-000600 ,
+		ns1:N-0000-000499 ,
+		ns1:N-0000-000809 .
+ns1:N-0000-000499	ns0:carbohydrate-network	ns1:N-0000-000502 .
+ns1:N-0000-000502	ns0:carbohydrate-network	ns1:N-0000-000504 ,
+		ns1:N-0000-000505 ,
+		ns1:N-0000-000508 .
+ns1:N-0000-000503	ns0:carbohydrate-network	ns1:N-0000-000504 ,
+		ns1:N-0000-000505 .
+ns1:N-0000-000508	ns0:carbohydrate-network	ns1:N-0000-000510 .
+ns1:N-0000-000509	ns0:carbohydrate-network	ns1:N-0000-000510 .
+ns1:N-0000-000510	ns0:carbohydrate-network	ns1:N-0000-000511 .
+ns1:N-0000-000511	ns0:carbohydrate-network	ns1:N-0000-000513 .
+ns1:N-0000-000513	ns0:carbohydrate-network	ns1:N-0000-000538 ,
+		ns1:N-0000-000533 ,
+		ns1:N-0000-000529 .
+ns1:N-0000-000514	ns0:carbohydrate-network	ns1:N-0000-000515 .
+ns1:N-0000-000515	ns0:carbohydrate-network	ns1:N-0000-000529 .
+ns1:N-0000-000516	ns0:carbohydrate-network	ns1:N-0000-000524 ,
+		ns1:N-0000-000525 ,
+		ns1:N-0000-000518 ,
+		ns1:N-0000-000519 .
+ns1:N-0000-000520	ns0:carbohydrate-network	ns1:N-0000-000523 ,
+		ns1:N-0000-000526 ,
+		ns1:N-0000-000527 .
+ns1:N-0000-000523	ns0:carbohydrate-network	ns1:N-0000-000820 .
+ns1:N-0000-000529	ns0:carbohydrate-network	ns1:N-0000-000532 .
+ns1:N-0000-000533	ns0:carbohydrate-network	ns1:N-0000-000534 .
+ns1:N-0000-000535	ns0:carbohydrate-network	ns1:N-0000-000533 .
+ns1:N-0000-000536	ns0:carbohydrate-network	ns1:N-0000-000533 .
+ns1:N-0000-000537	ns0:carbohydrate-network	ns1:N-0000-000538 .
+ns1:N-0000-000538	ns0:carbohydrate-network	ns1:N-0000-000540 .
+ns1:N-0000-000539	ns0:carbohydrate-network	ns1:N-0000-000538 .
+ns1:N-0000-000541	ns0:carbohydrate-network	ns1:N-0000-000542 .
+ns1:N-0000-000542	ns0:carbohydrate-network	ns1:N-0000-000545 .
+ns1:N-0000-000543	ns0:carbohydrate-network	ns1:N-0000-000544 .
+ns1:N-0000-000544	ns0:carbohydrate-network	ns1:N-0000-000551 .
+ns1:N-0000-000545	ns0:carbohydrate-network	ns1:N-0000-000543 .
+ns1:N-0000-000550	ns0:carbohydrate-network	ns1:N-0000-000551 .
+ns1:N-0000-000551	ns0:carbohydrate-network	ns1:N-0000-000553 .
+ns1:N-0000-000553	ns0:carbohydrate-network	ns1:N-0000-000555 .
+ns1:N-0000-000555	ns0:carbohydrate-network	ns1:N-0000-000556 .
+ns1:N-0000-000556	ns0:carbohydrate-network	ns1:N-0000-000558 .
+ns1:N-0000-000558	ns0:carbohydrate-network	ns1:N-0000-000559 .
+ns1:N-0000-000559	ns0:carbohydrate-network	ns1:N-0000-000560 .
+ns1:N-0000-000560	ns0:carbohydrate-network	ns1:N-0000-000560 .
+ns1:N-0000-000561	ns0:carbohydrate-network	ns1:N-0000-000562 ,
+		ns1:N-0000-000563 .
+ns1:N-0000-000564	ns0:carbohydrate-network	ns1:N-0000-000566 .
+ns1:N-0000-000566	ns0:carbohydrate-network	ns1:N-0000-000574 .
+ns1:N-0000-000567	ns0:carbohydrate-network	ns1:N-0000-000569 .
+ns1:N-0000-000568	ns0:carbohydrate-network	ns1:N-0000-000569 .
+ns1:N-0000-000569	ns0:carbohydrate-network	ns1:N-0000-000571 .
+ns1:N-0000-000571	ns0:carbohydrate-network	ns1:N-0000-000574 .
+ns1:N-0000-000572	ns0:carbohydrate-network	ns1:N-0000-000573 .
+ns1:N-0000-000573	ns0:carbohydrate-network	ns1:N-0000-000580 .
+ns1:N-0000-000574	ns0:carbohydrate-network	ns1:N-0000-000575 .
+ns1:N-0000-000575	ns0:carbohydrate-network	ns1:N-0000-000572 .
+ns1:N-0000-000580	ns0:carbohydrate-network	ns1:N-0000-000581 .
+ns1:N-0000-000581	ns0:carbohydrate-network	ns1:N-0000-000582 .
+ns1:N-0000-000583	ns0:carbohydrate-network	ns1:N-0000-000598 ,
+		ns1:N-0000-000586 .
+ns1:N-0000-000591	ns0:carbohydrate-network	ns1:N-0000-000592 ,
+		ns1:N-0000-000593 ,
+		ns1:N-0000-004149 ,
+		ns1:N-0000-004150 ,
+		ns1:N-0000-004151 .
+ns1:N-0000-000593	ns0:carbohydrate-network	ns1:N-0000-000592 .
+ns1:N-0000-000594	ns0:carbohydrate-network	ns1:N-0000-000596 .
+ns1:N-0000-000600	ns0:carbohydrate-network	ns1:N-0000-000602 .
+ns1:N-0000-000601	ns0:carbohydrate-network	ns1:N-0000-000602 ,
+		ns1:N-0000-002577 ,
+		ns1:N-0000-002139 .
+ns1:N-0000-000602	ns0:carbohydrate-network	ns1:N-0000-000604 .
+ns1:N-0000-000604	ns0:carbohydrate-network	ns1:N-0000-005074 ,
+		ns1:N-0000-000617 ,
+		ns1:N-0000-000618 ,
+		ns1:N-0000-000607 ,
+		ns1:N-0000-000609 ,
+		ns1:N-0000-000610 ,
+		ns1:N-0000-000611 .
+ns1:N-0000-000607	ns0:carbohydrate-network	ns1:N-0000-000611 .
+ns1:N-0000-000609	ns0:carbohydrate-network	ns1:N-0000-000610 ,
+		ns1:N-0000-000611 .
+ns1:N-0000-000611	ns0:carbohydrate-network	ns1:N-0000-000620 .
+ns1:N-0000-000620	ns0:carbohydrate-network	ns1:N-0000-000622 .
+ns1:N-0000-000622	ns0:carbohydrate-network	ns1:N-0000-000626 .
+ns1:N-0000-000627	ns0:carbohydrate-network	ns1:N-0000-000628 .
+ns1:N-0000-000628	ns0:carbohydrate-network	ns1:N-0000-000637 ,
+		ns1:N-0000-000638 .
+ns1:N-0000-000629	ns0:carbohydrate-network	ns1:N-0000-000471 ,
+		ns1:N-0000-000472 ,
+		ns1:N-0000-002830 ,
+		ns1:N-0000-002839 ,
+		ns1:N-0000-002782 ,
+		ns1:N-0000-002784 ,
+		ns1:N-0000-002789 ,
+		ns1:N-0000-002790 ,
+		ns1:N-0000-002781 ,
+		ns1:N-0000-000632 .
+ns1:N-0000-000632	ns0:carbohydrate-network	ns1:N-0000-000633 ,
+		ns1:N-0000-000636 .
+ns1:N-0000-000633	ns0:carbohydrate-network	ns1:N-0000-000637 .
+ns1:N-0000-000636	ns0:carbohydrate-network	ns1:N-0000-000638 .
+ns1:N-0000-000637	ns0:carbohydrate-network	ns1:N-0000-000640 .
+ns1:N-0000-000638	ns0:carbohydrate-network	ns1:N-0000-000641 .
+ns1:N-0000-000641	ns0:carbohydrate-network	ns1:N-0000-000670 ,
+		ns1:N-0000-000672 ,
+		ns1:N-0000-000674 ,
+		ns1:N-0000-000676 ,
+		ns1:N-0000-000678 ,
+		ns1:N-0000-000680 ,
+		ns1:N-0000-000729 ,
+		ns1:N-0000-000731 ,
+		ns1:N-0000-000733 ,
+		ns1:N-0000-000713 ,
+		ns1:N-0000-000715 ,
+		ns1:N-0000-000716 ,
+		ns1:N-0000-000718 ,
+		ns1:N-0000-000720 ,
+		ns1:N-0000-000722 ,
+		ns1:N-0000-000723 ,
+		ns1:N-0000-000725 ,
+		ns1:N-0000-000727 ,
+		ns1:N-0000-000698 ,
+		ns1:N-0000-000699 ,
+		ns1:N-0000-000700 ,
+		ns1:N-0000-000702 ,
+		ns1:N-0000-000706 ,
+		ns1:N-0000-000709 ,
+		ns1:N-0000-000711 ,
+		ns1:N-0000-000682 ,
+		ns1:N-0000-000684 ,
+		ns1:N-0000-000686 ,
+		ns1:N-0000-000688 ,
+		ns1:N-0000-000690 ,
+		ns1:N-0000-000692 ,
+		ns1:N-0000-000694 ,
+		ns1:N-0000-000696 .
+ns1:N-0000-000734	ns0:carbohydrate-network	ns1:N-0000-000739 .
+ns1:N-0000-000739	ns0:carbohydrate-network	ns1:N-0000-000750 ,
+		ns1:N-0000-000751 ,
+		ns1:N-0000-000742 .
+ns1:N-0000-000740	ns0:carbohydrate-network	ns1:N-0000-000742 .
+ns1:N-0000-000742	ns0:carbohydrate-network	ns1:N-0000-000744 .
+ns1:N-0000-000745	ns0:carbohydrate-network	ns1:N-0000-000748 .
+ns1:N-0000-000748	ns0:carbohydrate-network	ns1:N-0000-000749 .
+ns1:N-0000-000749	ns0:carbohydrate-network	ns1:N-0000-000750 ,
+		ns1:N-0000-000751 .
+ns1:N-0000-000750	ns0:carbohydrate-network	ns1:N-0000-000755 .
+ns1:N-0000-000751	ns0:carbohydrate-network	ns1:N-0000-000750 .
+ns1:N-0000-000752	ns0:carbohydrate-network	ns1:N-0000-000749 .
+ns1:N-0000-000755	ns0:carbohydrate-network	ns1:N-0000-000757 .
+ns1:N-0000-000757	ns0:carbohydrate-network	ns1:N-0000-000758 .
+ns1:N-0000-000760	ns0:carbohydrate-network	ns1:N-0000-000762 .
+ns1:N-0000-000762	ns0:carbohydrate-network	ns1:N-0000-000765 .
+ns1:N-0000-000765	ns0:carbohydrate-network	ns1:N-0000-000766 .
+ns1:N-0000-000766	ns0:carbohydrate-network	ns1:N-0000-000767 .
+ns1:N-0000-000767	ns0:carbohydrate-network	ns1:N-0000-000769 .
+ns1:N-0000-000769	ns0:carbohydrate-network	ns1:N-0000-000771 .
+ns1:N-0000-000771	ns0:carbohydrate-network	ns1:N-0000-005075 ,
+		ns1:N-0000-004891 .
+ns1:N-0000-000775	ns0:carbohydrate-network	ns1:N-0000-000777 .
+ns1:N-0000-000778	ns0:carbohydrate-network	ns1:N-0000-000780 ,
+		ns1:N-0000-000781 ,
+		ns1:N-0000-000787 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-000058 ,
+		ns1:N-0000-000059 ,
+		ns1:N-0000-000063 ,
+		ns1:N-0000-000064 ,
+		ns1:N-0000-000015 ,
+		ns1:N-0000-000016 ,
+		ns1:N-0000-000291 ,
+		ns1:N-0000-000292 .
+ns1:N-0000-000788	ns0:carbohydrate-network	ns1:N-0000-000789 ,
+		ns1:N-0000-000790 .
+ns1:N-0000-000789	ns0:carbohydrate-network	ns1:N-0000-000303 .
+ns1:N-0000-000791	ns0:carbohydrate-network	ns1:N-0000-000792 .
+ns1:N-0000-000792	ns0:carbohydrate-network	ns1:N-0000-000298 ,
+		ns1:N-0000-004030 .
+ns1:N-0000-000793	ns0:carbohydrate-network	ns1:N-0000-000794 ,
+		ns1:N-0000-000795 .
+ns1:N-0000-000796	ns0:carbohydrate-network	ns1:N-0000-000797 ,
+		ns1:N-0000-000798 .
+ns1:N-0000-000799	ns0:carbohydrate-network	ns1:N-0000-000800 .
+ns1:N-0000-000802	ns0:carbohydrate-network	ns1:N-0000-002794 ,
+		ns1:N-0000-002796 ,
+		ns1:N-0000-002797 ,
+		ns1:N-0000-002791 ,
+		ns1:N-0000-002798 ,
+		ns1:N-0000-002799 ,
+		ns1:N-0000-002840 ,
+		ns1:N-0000-002835 ,
+		ns1:N-0000-000807 ,
+		ns1:N-0000-000804 ,
+		ns1:N-0000-000805 ,
+		ns1:N-0000-000806 .
+ns1:N-0000-000803	ns0:carbohydrate-network	ns1:N-0000-002782 ,
+		ns1:N-0000-000804 ,
+		ns1:N-0000-000805 ,
+		ns1:N-0000-000806 ,
+		ns1:N-0000-000807 .
+ns1:N-0000-000805	ns0:carbohydrate-network	ns1:N-0000-000812 ,
+		ns1:N-0000-000816 .
+ns1:N-0000-000809	ns0:carbohydrate-network	ns1:N-0000-000811 ,
+		ns1:N-0000-000812 .
+ns1:N-0000-000811	ns0:carbohydrate-network	ns1:N-0000-000812 .
+ns1:N-0000-000812	ns0:carbohydrate-network	ns1:N-0000-000815 .
+ns1:N-0000-000815	ns0:carbohydrate-network	ns1:N-0000-000828 .
+ns1:N-0000-000816	ns0:carbohydrate-network	ns1:N-0000-000818 .
+ns1:N-0000-000818	ns0:carbohydrate-network	ns1:N-0000-002802 ,
+		ns1:N-0000-000819 .
+ns1:N-0000-000819	ns0:carbohydrate-network	ns1:N-0000-000523 .
+ns1:N-0000-000820	ns0:carbohydrate-network	ns1:N-0000-000821 .
+ns1:N-0000-000821	ns0:carbohydrate-network	ns1:N-0000-000822 .
+ns1:N-0000-000822	ns0:carbohydrate-network	ns1:N-0000-000823 .
+ns1:N-0000-000823	ns0:carbohydrate-network	ns1:N-0000-000824 .
+ns1:N-0000-000824	ns0:carbohydrate-network	ns1:N-0000-005081 ,
+		ns1:N-0000-004862 ,
+		ns1:N-0000-004863 ,
+		ns1:N-0000-000849 ,
+		ns1:N-0000-000853 ,
+		ns1:N-0000-000855 ,
+		ns1:N-0000-000353 .
+ns1:N-0000-000825	ns0:carbohydrate-network	ns1:N-0000-000826 .
+ns1:N-0000-000829	ns0:carbohydrate-network	ns1:N-0000-000833 ,
+		ns1:N-0000-000834 .
+ns1:N-0000-000833	ns0:carbohydrate-network	ns1:N-0000-000835 .
+ns1:N-0000-000835	ns0:carbohydrate-network	ns1:N-0000-000836 ,
+		ns1:N-0000-000837 .
+ns1:N-0000-000836	ns0:carbohydrate-network	ns1:N-0000-000839 .
+ns1:N-0000-000839	ns0:carbohydrate-network	ns1:N-0000-000841 .
+ns1:N-0000-000841	ns0:carbohydrate-network	ns1:N-0000-000844 ,
+		ns1:N-0000-000843 .
+ns1:N-0000-000843	ns0:carbohydrate-network	ns1:N-0000-000846 .
+ns1:N-0000-000846	ns0:carbohydrate-network	ns1:N-0000-000848 .
+ns1:N-0000-000848	ns0:carbohydrate-network	ns1:N-0000-000849 .
+ns1:N-0000-000849	ns0:carbohydrate-network	ns1:N-0000-000856 .
+ns1:N-0000-000850	ns0:carbohydrate-network	ns1:N-0000-000853 .
+ns1:N-0000-000851	ns0:carbohydrate-network	ns1:N-0000-000857 .
+ns1:N-0000-000852	ns0:carbohydrate-network	ns1:N-0000-005081 .
+ns1:N-0000-000854	ns0:carbohydrate-network	ns1:N-0000-000855 .
+ns1:N-0000-000855	ns0:carbohydrate-network	ns1:N-0000-000860 .
+ns1:N-0000-000856	ns0:carbohydrate-network	ns1:N-0000-000859 .
+ns1:N-0000-000857	ns0:carbohydrate-network	ns1:N-0000-000858 .
+ns1:N-0000-000860	ns0:carbohydrate-network	ns1:N-0000-000861 .
+ns1:N-0000-000862	ns0:carbohydrate-network	ns1:N-0000-000437 ,
+		ns1:N-0000-005047 ,
+		ns1:N-0000-005048 ,
+		ns1:N-0000-005049 ,
+		ns1:N-0000-005050 .
+ns1:N-0000-000863	ns0:carbohydrate-network	ns1:N-0000-001059 ,
+		ns1:N-0000-000864 .
+ns1:N-0000-000864	ns0:carbohydrate-network	ns1:N-0000-004857 ,
+		ns1:N-0000-001056 ,
+		ns1:N-0000-000362 .
+ns1:N-0000-000868	ns0:carbohydrate-network	ns1:N-0000-000869 .
+ns1:N-0000-000870	ns0:carbohydrate-network	ns1:N-0000-000890 .
+ns1:N-0000-000871	ns0:carbohydrate-network	ns1:N-0000-000886 ,
+		ns1:N-0000-000872 ,
+		ns1:N-0000-000874 .
+ns1:N-0000-000872	ns0:carbohydrate-network	ns1:N-0000-000874 .
+ns1:N-0000-000873	ns0:carbohydrate-network	ns1:N-0000-000872 ,
+		ns1:N-0000-000874 .
+ns1:N-0000-000875	ns0:carbohydrate-network	ns1:N-0000-000877 .
+ns1:N-0000-000876	ns0:carbohydrate-network	ns1:N-0000-000877 .
+ns1:N-0000-000878	ns0:carbohydrate-network	ns1:N-0000-000880 .
+ns1:N-0000-000879	ns0:carbohydrate-network	ns1:N-0000-000880 .
+ns1:N-0000-000881	ns0:carbohydrate-network	ns1:N-0000-000883 ,
+		ns1:N-0000-000935 .
+ns1:N-0000-000882	ns0:carbohydrate-network	ns1:N-0000-000883 ,
+		ns1:N-0000-000935 .
+ns1:N-0000-000884	ns0:carbohydrate-network	ns1:N-0000-000885 .
+ns1:N-0000-000887	ns0:carbohydrate-network	ns1:N-0000-000874 ,
+		ns1:N-0000-000886 .
+ns1:N-0000-000891	ns0:carbohydrate-network	ns1:N-0000-000892 .
+ns1:N-0000-000893	ns0:carbohydrate-network	ns1:N-0000-004860 ,
+		ns1:N-0000-004881 ,
+		ns1:N-0000-004882 ,
+		ns1:N-0000-004884 ,
+		ns1:N-0000-004878 ,
+		ns1:N-0000-004879 ,
+		ns1:N-0000-004865 ,
+		ns1:N-0000-004867 ,
+		ns1:N-0000-004868 ,
+		ns1:N-0000-004861 ,
+		ns1:N-0000-004862 ,
+		ns1:N-0000-004863 ,
+		ns1:N-0000-004864 ,
+		ns1:N-0000-004873 ,
+		ns1:N-0000-004875 ,
+		ns1:N-0000-004876 ,
+		ns1:N-0000-004870 ,
+		ns1:N-0000-004871 ,
+		ns1:N-0000-004872 ,
+		ns1:N-0000-000896 ,
+		ns1:N-0000-000898 ,
+		ns1:N-0000-000895 ,
+		ns1:N-0000-000925 ,
+		ns1:N-0000-000931 ,
+		ns1:N-0000-000924 .
+ns1:N-0000-000894	ns0:carbohydrate-network	ns1:N-0000-000895 ,
+		ns1:N-0000-000896 .
+ns1:N-0000-000895	ns0:carbohydrate-network	ns1:N-0000-000934 .
+ns1:N-0000-000897	ns0:carbohydrate-network	ns1:N-0000-000898 .
+ns1:N-0000-000918	ns0:carbohydrate-network	ns1:N-0000-000953 ,
+		ns1:N-0000-000954 ,
+		ns1:N-0000-000956 .
+ns1:N-0000-000921	ns0:carbohydrate-network	ns1:N-0000-000952 ,
+		ns1:N-0000-000962 ,
+		ns1:N-0000-000971 ,
+		ns1:N-0000-000967 .
+ns1:N-0000-000930	ns0:carbohydrate-network	ns1:N-0000-000984 .
+ns1:N-0000-000934	ns0:carbohydrate-network	ns1:N-0000-000935 .
+ns1:N-0000-000936	ns0:carbohydrate-network	ns1:N-0000-000938 .
+ns1:N-0000-000937	ns0:carbohydrate-network	ns1:N-0000-000938 .
+ns1:N-0000-000938	ns0:carbohydrate-network	ns1:N-0000-000940 .
+ns1:N-0000-000940	ns0:carbohydrate-network	ns1:N-0000-000897 .
+ns1:N-0000-000941	ns0:carbohydrate-network	ns1:N-0000-000943 ,
+		ns1:N-0000-000944 .
+ns1:N-0000-000955	ns0:carbohydrate-network	ns1:N-0000-000956 ,
+		ns1:N-0000-001001 .
+ns1:N-0000-000959	ns0:carbohydrate-network	ns1:N-0000-000960 .
+ns1:N-0000-000960	ns0:carbohydrate-network	ns1:N-0000-000961 .
+ns1:N-0000-000961	ns0:carbohydrate-network	ns1:N-0000-000962 ,
+		ns1:N-0000-001002 .
+ns1:N-0000-000962	ns0:carbohydrate-network	ns1:N-0000-000964 .
+ns1:N-0000-000964	ns0:carbohydrate-network	ns1:N-0000-000965 .
+ns1:N-0000-000967	ns0:carbohydrate-network	ns1:N-0000-000968 .
+ns1:N-0000-000968	ns0:carbohydrate-network	ns1:N-0000-000969 .
+ns1:N-0000-000971	ns0:carbohydrate-network	ns1:N-0000-000972 .
+ns1:N-0000-000972	ns0:carbohydrate-network	ns1:N-0000-000973 .
+ns1:N-0000-000984	ns0:carbohydrate-network	ns1:N-0000-000986 ,
+		ns1:N-0000-000998 ,
+		ns1:N-0000-001000 ,
+		ns1:N-0000-001001 ,
+		ns1:N-0000-001002 .
+ns1:N-0000-000986	ns0:carbohydrate-network	ns1:N-0000-000988 ,
+		ns1:N-0000-000990 ,
+		ns1:N-0000-000992 .
+ns1:N-0000-000988	ns0:carbohydrate-network	ns1:N-0000-000994 .
+ns1:N-0000-000990	ns0:carbohydrate-network	ns1:N-0000-000993 .
+ns1:N-0000-000992	ns0:carbohydrate-network	ns1:N-0000-000995 ,
+		ns1:N-0000-000996 .
+ns1:N-0000-001002	ns0:carbohydrate-network	ns1:N-0000-001004 .
+ns1:N-0000-001004	ns0:carbohydrate-network	ns1:N-0000-001005 .
+ns1:N-0000-001005	ns0:carbohydrate-network	ns1:N-0000-001006 .
+ns1:N-0000-001009	ns0:carbohydrate-network	ns1:N-0000-000291 ,
+		ns1:N-0000-000292 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 .
+ns1:N-0000-001012	ns0:carbohydrate-network	ns1:N-0000-001108 ,
+		ns1:N-0000-001014 ,
+		ns1:N-0000-001017 .
+ns1:N-0000-001014	ns0:carbohydrate-network	ns1:N-0000-001019 .
+ns1:N-0000-001017	ns0:carbohydrate-network	ns1:N-0000-001018 .
+ns1:N-0000-001018	ns0:carbohydrate-network	ns1:N-0000-001122 ,
+		ns1:N-0000-001021 .
+ns1:N-0000-001019	ns0:carbohydrate-network	ns1:N-0000-001122 ,
+		ns1:N-0000-001021 .
+ns1:N-0000-001020	ns0:carbohydrate-network	ns1:N-0000-001021 .
+ns1:N-0000-001021	ns0:carbohydrate-network	ns1:N-0000-001023 .
+ns1:N-0000-001023	ns0:carbohydrate-network	ns1:N-0000-001025 .
+ns1:N-0000-001025	ns0:carbohydrate-network	ns1:N-0000-001027 .
+ns1:N-0000-001027	ns0:carbohydrate-network	ns1:N-0000-001034 ,
+		ns1:N-0000-001036 ,
+		ns1:N-0000-001031 .
+ns1:N-0000-001031	ns0:carbohydrate-network	ns1:N-0000-001033 .
+ns1:N-0000-001033	ns0:carbohydrate-network	ns1:N-0000-001144 ,
+		ns1:N-0000-001149 ,
+		ns1:N-0000-001034 .
+ns1:N-0000-001034	ns0:carbohydrate-network	ns1:N-0000-001035 .
+ns1:N-0000-001035	ns0:carbohydrate-network	ns1:N-0000-001036 .
+ns1:N-0000-001036	ns0:carbohydrate-network	ns1:N-0000-001038 .
+ns1:N-0000-001038	ns0:carbohydrate-network	ns1:N-0000-001039 .
+ns1:N-0000-001039	ns0:carbohydrate-network	ns1:N-0000-001041 .
+ns1:N-0000-001042	ns0:carbohydrate-network	ns1:N-0000-001043 .
+ns1:N-0000-001043	ns0:carbohydrate-network	ns1:N-0000-004889 .
+ns1:N-0000-001045	ns0:carbohydrate-network	ns1:N-0000-001046 .
+ns1:N-0000-001047	ns0:carbohydrate-network	ns1:N-0000-001048 .
+ns1:N-0000-001048	ns0:carbohydrate-network	ns1:N-0000-004890 .
+ns1:N-0000-001050	ns0:carbohydrate-network	ns1:N-0000-001051 .
+ns1:N-0000-001053	ns0:carbohydrate-network	ns1:N-0000-001054 .
+ns1:N-0000-001057	ns0:carbohydrate-network	ns1:N-0000-001058 .
+ns1:N-0000-001059	ns0:carbohydrate-network	ns1:N-0000-001061 .
+ns1:N-0000-001060	ns0:carbohydrate-network	ns1:N-0000-001061 .
+ns1:N-0000-001061	ns0:carbohydrate-network	ns1:N-0000-001069 ,
+		ns1:N-0000-001062 .
+ns1:N-0000-001062	ns0:carbohydrate-network	ns1:N-0000-001064 .
+ns1:N-0000-001064	ns0:carbohydrate-network	ns1:N-0000-001067 .
+ns1:N-0000-001067	ns0:carbohydrate-network	ns1:N-0000-001068 .
+ns1:N-0000-001069	ns0:carbohydrate-network	ns1:N-0000-001070 .
+ns1:N-0000-001070	ns0:carbohydrate-network	ns1:N-0000-001072 .
+ns1:N-0000-001071	ns0:carbohydrate-network	ns1:N-0000-001072 ,
+		ns1:N-0000-003239 .
+ns1:N-0000-001072	ns0:carbohydrate-network	ns1:N-0000-001073 .
+ns1:N-0000-001073	ns0:carbohydrate-network	ns1:N-0000-001074 .
+ns1:N-0000-001074	ns0:carbohydrate-network	ns1:N-0000-001075 .
+ns1:N-0000-001075	ns0:carbohydrate-network	ns1:N-0000-001076 .
+ns1:N-0000-001079	ns0:carbohydrate-network	ns1:N-0000-002540 ,
+		ns1:N-0000-004894 ,
+		ns1:N-0000-004901 ,
+		ns1:N-0000-004903 ,
+		ns1:N-0000-003210 ,
+		ns1:N-0000-003211 .
+ns1:N-0000-001081	ns0:carbohydrate-network	ns1:N-0000-004900 ,
+		ns1:N-0000-004895 .
+ns1:N-0000-001095	ns0:carbohydrate-network	ns1:N-0000-001101 .
+ns1:N-0000-001097	ns0:carbohydrate-network	ns1:N-0000-001101 ,
+		ns1:N-0000-004909 ,
+		ns1:N-0000-004911 .
+ns1:N-0000-001100	ns0:carbohydrate-network	ns1:N-0000-001104 .
+ns1:N-0000-001102	ns0:carbohydrate-network	ns1:N-0000-001103 .
+ns1:N-0000-001105	ns0:carbohydrate-network	ns1:N-0000-002344 ,
+		ns1:N-0000-002345 ,
+		ns1:N-0000-002353 ,
+		ns1:N-0000-002545 ,
+		ns1:N-0000-001097 .
+ns1:N-0000-001108	ns0:carbohydrate-network	ns1:N-0000-001110 .
+ns1:N-0000-001110	ns0:carbohydrate-network	ns1:N-0000-001111 ,
+		ns1:N-0000-001112 .
+ns1:N-0000-001113	ns0:carbohydrate-network	ns1:N-0000-001115 ,
+		ns1:N-0000-001116 .
+ns1:N-0000-001115	ns0:carbohydrate-network	ns1:N-0000-001117 .
+ns1:N-0000-001116	ns0:carbohydrate-network	ns1:N-0000-001119 .
+ns1:N-0000-001117	ns0:carbohydrate-network	ns1:N-0000-001118 .
+ns1:N-0000-001118	ns0:carbohydrate-network	ns1:N-0000-001126 ,
+		ns1:N-0000-001128 ,
+		ns1:N-0000-001130 .
+ns1:N-0000-001119	ns0:carbohydrate-network	ns1:N-0000-001120 .
+ns1:N-0000-001120	ns0:carbohydrate-network	ns1:N-0000-001133 ,
+		ns1:N-0000-001135 ,
+		ns1:N-0000-001137 .
+ns1:N-0000-001121	ns0:carbohydrate-network	ns1:N-0000-001122 .
+ns1:N-0000-001122	ns0:carbohydrate-network	ns1:N-0000-001123 .
+ns1:N-0000-001123	ns0:carbohydrate-network	ns1:N-0000-001124 .
+ns1:N-0000-001124	ns0:carbohydrate-network	ns1:N-0000-001125 .
+ns1:N-0000-001125	ns0:carbohydrate-network	ns1:N-0000-001144 ,
+		ns1:N-0000-001146 ,
+		ns1:N-0000-001031 .
+ns1:N-0000-001126	ns0:carbohydrate-network	ns1:N-0000-001127 .
+ns1:N-0000-001127	ns0:carbohydrate-network	ns1:N-0000-001128 ,
+		ns1:N-0000-001141 .
+ns1:N-0000-001128	ns0:carbohydrate-network	ns1:N-0000-001129 .
+ns1:N-0000-001129	ns0:carbohydrate-network	ns1:N-0000-001130 .
+ns1:N-0000-001130	ns0:carbohydrate-network	ns1:N-0000-001131 .
+ns1:N-0000-001131	ns0:carbohydrate-network	ns1:N-0000-001132 .
+ns1:N-0000-001132	ns0:carbohydrate-network	ns1:N-0000-001153 .
+ns1:N-0000-001133	ns0:carbohydrate-network	ns1:N-0000-001134 .
+ns1:N-0000-001134	ns0:carbohydrate-network	ns1:N-0000-001135 .
+ns1:N-0000-001135	ns0:carbohydrate-network	ns1:N-0000-001136 .
+ns1:N-0000-001136	ns0:carbohydrate-network	ns1:N-0000-001137 .
+ns1:N-0000-001137	ns0:carbohydrate-network	ns1:N-0000-001138 .
+ns1:N-0000-001138	ns0:carbohydrate-network	ns1:N-0000-001139 .
+ns1:N-0000-001139	ns0:carbohydrate-network	ns1:N-0000-001155 .
+ns1:N-0000-001141	ns0:carbohydrate-network	ns1:N-0000-001142 .
+ns1:N-0000-001142	ns0:carbohydrate-network	ns1:N-0000-001143 .
+ns1:N-0000-001143	ns0:carbohydrate-network	ns1:N-0000-001154 .
+ns1:N-0000-001144	ns0:carbohydrate-network	ns1:N-0000-001145 .
+ns1:N-0000-001145	ns0:carbohydrate-network	ns1:N-0000-001146 .
+ns1:N-0000-001146	ns0:carbohydrate-network	ns1:N-0000-001147 .
+ns1:N-0000-001147	ns0:carbohydrate-network	ns1:N-0000-001148 .
+ns1:N-0000-001148	ns0:carbohydrate-network	ns1:N-0000-001156 .
+ns1:N-0000-001149	ns0:carbohydrate-network	ns1:N-0000-001150 .
+ns1:N-0000-001150	ns0:carbohydrate-network	ns1:N-0000-001151 .
+ns1:N-0000-001151	ns0:carbohydrate-network	ns1:N-0000-001157 .
+ns1:N-0000-001158	ns0:carbohydrate-network	ns1:N-0000-001159 .
+ns1:N-0000-001159	ns0:carbohydrate-network	ns1:N-0000-001162 .
+ns1:N-0000-001162	ns0:carbohydrate-network	ns1:N-0000-001176 .
+ns1:N-0000-001163	ns0:carbohydrate-network	ns1:N-0000-001180 ,
+		ns1:N-0000-001165 .
+ns1:N-0000-001165	ns0:carbohydrate-network	ns1:N-0000-001167 .
+ns1:N-0000-001166	ns0:carbohydrate-network	ns1:N-0000-001168 ,
+		ns1:N-0000-001184 .
+ns1:N-0000-001167	ns0:carbohydrate-network	ns1:N-0000-001168 .
+ns1:N-0000-001168	ns0:carbohydrate-network	ns1:N-0000-001170 .
+ns1:N-0000-001170	ns0:carbohydrate-network	ns1:N-0000-001171 .
+ns1:N-0000-001171	ns0:carbohydrate-network	ns1:N-0000-001176 .
+ns1:N-0000-001172	ns0:carbohydrate-network	ns1:N-0000-001167 .
+ns1:N-0000-001176	ns0:carbohydrate-network	ns1:N-0000-001178 .
+ns1:N-0000-001178	ns0:carbohydrate-network	ns1:N-0000-001185 ,
+		ns1:N-0000-001186 .
+ns1:N-0000-001179	ns0:carbohydrate-network	ns1:N-0000-001229 ,
+		ns1:N-0000-001209 ,
+		ns1:N-0000-001201 ,
+		ns1:N-0000-001202 ,
+		ns1:N-0000-001203 ,
+		ns1:N-0000-001204 ,
+		ns1:N-0000-001180 .
+ns1:N-0000-001180	ns0:carbohydrate-network	ns1:N-0000-001181 .
+ns1:N-0000-001181	ns0:carbohydrate-network	ns1:N-0000-001182 .
+ns1:N-0000-001182	ns0:carbohydrate-network	ns1:N-0000-001183 .
+ns1:N-0000-001183	ns0:carbohydrate-network	ns1:N-0000-001185 ,
+		ns1:N-0000-001186 .
+ns1:N-0000-001184	ns0:carbohydrate-network	ns1:N-0000-001189 .
+ns1:N-0000-001185	ns0:carbohydrate-network	ns1:N-0000-001187 .
+ns1:N-0000-001187	ns0:carbohydrate-network	ns1:N-0000-001188 .
+ns1:N-0000-001188	ns0:carbohydrate-network	ns1:N-0000-001189 .
+ns1:N-0000-001189	ns0:carbohydrate-network	ns1:N-0000-001190 .
+ns1:N-0000-001191	ns0:carbohydrate-network	ns1:N-0000-001192 .
+ns1:N-0000-001192	ns0:carbohydrate-network	ns1:N-0000-001195 .
+ns1:N-0000-001193	ns0:carbohydrate-network	ns1:N-0000-001194 .
+ns1:N-0000-001194	ns0:carbohydrate-network	ns1:N-0000-001224 ,
+		ns1:N-0000-001225 ,
+		ns1:N-0000-001197 .
+ns1:N-0000-001195	ns0:carbohydrate-network	ns1:N-0000-001196 .
+ns1:N-0000-001196	ns0:carbohydrate-network	ns1:N-0000-001227 ,
+		ns1:N-0000-001207 ,
+		ns1:N-0000-001197 ,
+		ns1:N-0000-001199 .
+ns1:N-0000-001197	ns0:carbohydrate-network	ns1:N-0000-001198 ,
+		ns1:N-0000-001205 .
+ns1:N-0000-001198	ns0:carbohydrate-network	ns1:N-0000-001199 .
+ns1:N-0000-001199	ns0:carbohydrate-network	ns1:N-0000-001200 .
+ns1:N-0000-001200	ns0:carbohydrate-network	ns1:N-0000-001201 ,
+		ns1:N-0000-001202 ,
+		ns1:N-0000-001203 ,
+		ns1:N-0000-001204 .
+ns1:N-0000-001205	ns0:carbohydrate-network	ns1:N-0000-001206 .
+ns1:N-0000-001206	ns0:carbohydrate-network	ns1:N-0000-001207 .
+ns1:N-0000-001207	ns0:carbohydrate-network	ns1:N-0000-001208 .
+ns1:N-0000-001208	ns0:carbohydrate-network	ns1:N-0000-001209 .
+ns1:N-0000-001209	ns0:carbohydrate-network	ns1:N-0000-001210 .
+ns1:N-0000-001210	ns0:carbohydrate-network	ns1:N-0000-001211 ,
+		ns1:N-0000-001212 .
+ns1:N-0000-001211	ns0:carbohydrate-network	ns1:N-0000-001213 .
+ns1:N-0000-001212	ns0:carbohydrate-network	ns1:N-0000-001214 .
+ns1:N-0000-001213	ns0:carbohydrate-network	ns1:N-0000-001215 ,
+		ns1:N-0000-001216 .
+ns1:N-0000-001217	ns0:carbohydrate-network	ns1:N-0000-001219 .
+ns1:N-0000-001219	ns0:carbohydrate-network	ns1:N-0000-001221 .
+ns1:N-0000-001220	ns0:carbohydrate-network	ns1:N-0000-001221 .
+ns1:N-0000-001221	ns0:carbohydrate-network	ns1:N-0000-001222 .
+ns1:N-0000-001222	ns0:carbohydrate-network	ns1:N-0000-001223 .
+ns1:N-0000-001223	ns0:carbohydrate-network	ns1:N-0000-001225 ,
+		ns1:N-0000-001224 .
+ns1:N-0000-001224	ns0:carbohydrate-network	ns1:N-0000-001226 .
+ns1:N-0000-001226	ns0:carbohydrate-network	ns1:N-0000-001227 .
+ns1:N-0000-001227	ns0:carbohydrate-network	ns1:N-0000-001228 .
+ns1:N-0000-001228	ns0:carbohydrate-network	ns1:N-0000-001229 .
+ns1:N-0000-001229	ns0:carbohydrate-network	ns1:N-0000-001230 ,
+		ns1:N-0000-001231 .
+ns1:N-0000-001230	ns0:carbohydrate-network	ns1:N-0000-001232 ,
+		ns1:N-0000-001233 .
+ns1:N-0000-001242	ns0:carbohydrate-network	ns1:N-0000-001244 ,
+		ns1:N-0000-001252 ,
+		ns1:N-0000-002390 ,
+		ns1:N-0000-002391 ,
+		ns1:N-0000-002394 ,
+		ns1:N-0000-002395 ,
+		ns1:N-0000-002412 ,
+		ns1:N-0000-003687 ,
+		ns1:N-0000-003685 ,
+		ns1:N-0000-003686 ,
+		ns1:N-0000-000054 ,
+		ns1:N-0000-000044 .
+ns1:N-0000-001243	ns0:carbohydrate-network	ns1:N-0000-001244 ,
+		ns1:N-0000-001258 ,
+		ns1:N-0000-001255 .
+ns1:N-0000-001244	ns0:carbohydrate-network	ns1:N-0000-001245 ,
+		ns1:N-0000-001254 ,
+		ns1:N-0000-001250 .
+ns1:N-0000-001245	ns0:carbohydrate-network	ns1:N-0000-001248 .
+ns1:N-0000-001249	ns0:carbohydrate-network	ns1:N-0000-005013 ,
+		ns1:N-0000-001250 ,
+		ns1:N-0000-003026 .
+ns1:N-0000-001251	ns0:carbohydrate-network	ns1:N-0000-001252 .
+ns1:N-0000-001252	ns0:carbohydrate-network	ns1:N-0000-001257 ,
+		ns1:N-0000-001253 .
+ns1:N-0000-001254	ns0:carbohydrate-network	ns1:N-0000-001255 .
+ns1:N-0000-001255	ns0:carbohydrate-network	ns1:N-0000-001256 .
+ns1:N-0000-001257	ns0:carbohydrate-network	ns1:N-0000-001258 .
+ns1:N-0000-001258	ns0:carbohydrate-network	ns1:N-0000-001259 .
+ns1:N-0000-001264	ns0:carbohydrate-network	ns1:N-0000-001266 ,
+		ns1:N-0000-001267 .
+ns1:N-0000-001265	ns0:carbohydrate-network	ns1:N-0000-001266 ,
+		ns1:N-0000-001267 ,
+		ns1:N-0000-001268 ,
+		ns1:N-0000-001271 .
+ns1:N-0000-001266	ns0:carbohydrate-network	ns1:N-0000-001269 .
+ns1:N-0000-001268	ns0:carbohydrate-network	ns1:N-0000-001270 .
+ns1:N-0000-001271	ns0:carbohydrate-network	ns1:N-0000-001272 .
+ns1:N-0000-001273	ns0:carbohydrate-network	ns1:N-0000-001349 ,
+		ns1:N-0000-001278 ,
+		ns1:N-0000-001296 .
+ns1:N-0000-001274	ns0:carbohydrate-network	ns1:N-0000-001278 ,
+		ns1:N-0000-001300 .
+ns1:N-0000-001278	ns0:carbohydrate-network	ns1:N-0000-001280 .
+ns1:N-0000-001279	ns0:carbohydrate-network	ns1:N-0000-001312 ,
+		ns1:N-0000-001301 ,
+		ns1:N-0000-001280 .
+ns1:N-0000-001280	ns0:carbohydrate-network	ns1:N-0000-001282 .
+ns1:N-0000-001282	ns0:carbohydrate-network	ns1:N-0000-001283 .
+ns1:N-0000-001283	ns0:carbohydrate-network	ns1:N-0000-001285 .
+ns1:N-0000-001285	ns0:carbohydrate-network	ns1:N-0000-001287 .
+ns1:N-0000-001287	ns0:carbohydrate-network	ns1:N-0000-001357 ,
+		ns1:N-0000-001289 .
+ns1:N-0000-001288	ns0:carbohydrate-network	ns1:N-0000-001317 ,
+		ns1:N-0000-001306 ,
+		ns1:N-0000-001289 .
+ns1:N-0000-001289	ns0:carbohydrate-network	ns1:N-0000-001291 .
+ns1:N-0000-001291	ns0:carbohydrate-network	ns1:N-0000-001295 .
+ns1:N-0000-001293	ns0:carbohydrate-network	ns1:N-0000-001319 ,
+		ns1:N-0000-001308 ,
+		ns1:N-0000-001295 .
+ns1:N-0000-001296	ns0:carbohydrate-network	ns1:N-0000-001298 .
+ns1:N-0000-001298	ns0:carbohydrate-network	ns1:N-0000-001363 ,
+		ns1:N-0000-001300 ,
+		ns1:N-0000-001310 .
+ns1:N-0000-001299	ns0:carbohydrate-network	ns1:N-0000-001296 .
+ns1:N-0000-001300	ns0:carbohydrate-network	ns1:N-0000-001301 .
+ns1:N-0000-001301	ns0:carbohydrate-network	ns1:N-0000-001302 .
+ns1:N-0000-001302	ns0:carbohydrate-network	ns1:N-0000-001303 .
+ns1:N-0000-001303	ns0:carbohydrate-network	ns1:N-0000-001364 ,
+		ns1:N-0000-001304 .
+ns1:N-0000-001304	ns0:carbohydrate-network	ns1:N-0000-001305 .
+ns1:N-0000-001305	ns0:carbohydrate-network	ns1:N-0000-001365 ,
+		ns1:N-0000-001306 .
+ns1:N-0000-001306	ns0:carbohydrate-network	ns1:N-0000-001307 .
+ns1:N-0000-001307	ns0:carbohydrate-network	ns1:N-0000-001308 .
+ns1:N-0000-001309	ns0:carbohydrate-network	ns1:N-0000-001310 .
+ns1:N-0000-001310	ns0:carbohydrate-network	ns1:N-0000-001311 .
+ns1:N-0000-001311	ns0:carbohydrate-network	ns1:N-0000-001312 .
+ns1:N-0000-001312	ns0:carbohydrate-network	ns1:N-0000-001313 .
+ns1:N-0000-001313	ns0:carbohydrate-network	ns1:N-0000-001314 .
+ns1:N-0000-001314	ns0:carbohydrate-network	ns1:N-0000-001315 .
+ns1:N-0000-001315	ns0:carbohydrate-network	ns1:N-0000-001316 .
+ns1:N-0000-001316	ns0:carbohydrate-network	ns1:N-0000-001367 ,
+		ns1:N-0000-001317 .
+ns1:N-0000-001317	ns0:carbohydrate-network	ns1:N-0000-001318 .
+ns1:N-0000-001318	ns0:carbohydrate-network	ns1:N-0000-001319 .
+ns1:N-0000-001321	ns0:carbohydrate-network	ns1:N-0000-001322 .
+ns1:N-0000-001322	ns0:carbohydrate-network	ns1:N-0000-001323 ,
+		ns1:N-0000-001326 .
+ns1:N-0000-001328	ns0:carbohydrate-network	ns1:N-0000-001329 .
+ns1:N-0000-001329	ns0:carbohydrate-network	ns1:N-0000-001330 .
+ns1:N-0000-001330	ns0:carbohydrate-network	ns1:N-0000-001331 ,
+		ns1:N-0000-001333 .
+ns1:N-0000-001331	ns0:carbohydrate-network	ns1:N-0000-001332 .
+ns1:N-0000-001332	ns0:carbohydrate-network	ns1:N-0000-001335 .
+ns1:N-0000-001333	ns0:carbohydrate-network	ns1:N-0000-001334 .
+ns1:N-0000-001334	ns0:carbohydrate-network	ns1:N-0000-001338 ,
+		ns1:N-0000-001340 .
+ns1:N-0000-001335	ns0:carbohydrate-network	ns1:N-0000-001336 .
+ns1:N-0000-001337	ns0:carbohydrate-network	ns1:N-0000-001338 .
+ns1:N-0000-001338	ns0:carbohydrate-network	ns1:N-0000-001339 .
+ns1:N-0000-001340	ns0:carbohydrate-network	ns1:N-0000-001341 .
+ns1:N-0000-001342	ns0:carbohydrate-network	ns1:N-0000-001343 .
+ns1:N-0000-001343	ns0:carbohydrate-network	ns1:N-0000-001345 .
+ns1:N-0000-001345	ns0:carbohydrate-network	ns1:N-0000-001348 .
+ns1:N-0000-001347	ns0:carbohydrate-network	ns1:N-0000-001348 .
+ns1:N-0000-001348	ns0:carbohydrate-network	ns1:N-0000-001273 .
+ns1:N-0000-001349	ns0:carbohydrate-network	ns1:N-0000-001278 .
+ns1:N-0000-001350	ns0:carbohydrate-network	ns1:N-0000-001351 .
+ns1:N-0000-001351	ns0:carbohydrate-network	ns1:N-0000-001352 .
+ns1:N-0000-001352	ns0:carbohydrate-network	ns1:N-0000-001354 .
+ns1:N-0000-001355	ns0:carbohydrate-network	ns1:N-0000-001278 ,
+		ns1:N-0000-001363 .
+ns1:N-0000-001357	ns0:carbohydrate-network	ns1:N-0000-001358 .
+ns1:N-0000-001358	ns0:carbohydrate-network	ns1:N-0000-001295 .
+ns1:N-0000-001359	ns0:carbohydrate-network	ns1:N-0000-001360 .
+ns1:N-0000-001360	ns0:carbohydrate-network	ns1:N-0000-005278 ,
+		ns1:N-0000-001361 ,
+		ns1:N-0000-001362 ,
+		ns1:N-0000-004355 .
+ns1:N-0000-001361	ns0:carbohydrate-network	ns1:N-0000-005275 ,
+		ns1:N-0000-001299 .
+ns1:N-0000-001362	ns0:carbohydrate-network	ns1:N-0000-001309 .
+ns1:N-0000-001363	ns0:carbohydrate-network	ns1:N-0000-001300 .
+ns1:N-0000-001364	ns0:carbohydrate-network	ns1:N-0000-001305 .
+ns1:N-0000-001365	ns0:carbohydrate-network	ns1:N-0000-001366 .
+ns1:N-0000-001366	ns0:carbohydrate-network	ns1:N-0000-001308 .
+ns1:N-0000-001367	ns0:carbohydrate-network	ns1:N-0000-001368 .
+ns1:N-0000-001368	ns0:carbohydrate-network	ns1:N-0000-001319 .
+ns1:N-0000-002144	ns0:carbohydrate-network	ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-000291 ,
+		ns1:N-0000-000292 .
+ns1:N-0000-002649	ns0:carbohydrate-network	ns1:N-0000-002705 ,
+		ns1:N-0000-003187 ,
+		ns1:N-0000-003191 ,
+		ns1:N-0000-002984 ,
+		ns1:N-0000-003180 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-000291 ,
+		ns1:N-0000-000292 .
+ns1:N-0000-004725	ns0:carbohydrate-network	ns1:N-0000-000249 ,
+		ns1:N-0000-000250 .
+ns1:N-0000-004730	ns0:carbohydrate-network	ns1:N-0000-000828 ,
+		ns1:N-0000-000826 ,
+		ns1:N-0000-000820 .
+ns1:N-0000-004857	ns0:carbohydrate-network	ns1:N-0000-001057 .
+ns1:N-0000-004889	ns0:carbohydrate-network	ns1:N-0000-001045 .
+ns1:N-0000-004890	ns0:carbohydrate-network	ns1:N-0000-001050 .
+ns1:N-0000-004891	ns0:carbohydrate-network	ns1:N-0000-001053 .
+ns1:N-0000-004892	ns0:carbohydrate-network	ns1:N-0000-004893 .
+ns1:N-0000-004893	ns0:carbohydrate-network	ns1:N-0000-004894 ,
+		ns1:N-0000-004895 .
+ns1:N-0000-004894	ns0:carbohydrate-network	ns1:N-0000-004896 .
+ns1:N-0000-004895	ns0:carbohydrate-network	ns1:N-0000-004897 ,
+		ns1:N-0000-004898 .
+ns1:N-0000-004896	ns0:carbohydrate-network	ns1:N-0000-004900 .
+ns1:N-0000-004897	ns0:carbohydrate-network	ns1:N-0000-004901 .
+ns1:N-0000-004898	ns0:carbohydrate-network	ns1:N-0000-004899 .
+ns1:N-0000-004899	ns0:carbohydrate-network	ns1:N-0000-004903 .
+ns1:N-0000-004900	ns0:carbohydrate-network	ns1:N-0000-004902 .
+ns1:N-0000-004901	ns0:carbohydrate-network	ns1:N-0000-004904 .
+ns1:N-0000-004902	ns0:carbohydrate-network	ns1:N-0000-004906 .
+ns1:N-0000-004903	ns0:carbohydrate-network	ns1:N-0000-004905 .
+ns1:N-0000-004904	ns0:carbohydrate-network	ns1:N-0000-004907 .
+ns1:N-0000-004905	ns0:carbohydrate-network	ns1:N-0000-004908 .
+ns1:N-0000-004906	ns0:carbohydrate-network	ns1:N-0000-004909 .
+ns1:N-0000-004908	ns0:carbohydrate-network	ns1:N-0000-004911 .
+ns1:N-0000-004909	ns0:carbohydrate-network	ns1:N-0000-001100 .
+ns1:N-0000-004910	ns0:carbohydrate-network	ns1:N-0000-001102 .
+ns1:N-0000-004913	ns0:carbohydrate-network	ns1:N-0000-004914 .
+ns1:N-0000-004914	ns0:carbohydrate-network	ns1:N-0000-004915 .
+ns1:N-0000-004915	ns0:carbohydrate-network	ns1:N-0000-004916 .
+ns1:N-0000-004928	ns0:carbohydrate-network	ns1:N-0000-000943 ,
+		ns1:N-0000-000944 .
+ns1:N-0000-005075	ns0:carbohydrate-network	ns1:N-0000-000775 .
+ns1:N-0000-005086	ns0:carbohydrate-network	ns1:N-0000-000455 ,
+		ns1:N-0000-000454 .
+ns1:N-0000-005088	ns0:carbohydrate-network	ns1:N-0000-000452 ,
+		ns1:N-0000-000453 .
+ns1:N-0000-001260	ns0:carbohydrate-network	ns1:N-0000-003263 .
+ns1:N-0000-001786	ns0:carbohydrate-network	ns1:N-0000-003950 ,
+		ns1:N-0000-003621 .
+ns1:N-0000-003187	ns0:carbohydrate-network	ns1:N-0000-003188 .
+ns1:N-0000-003191	ns0:carbohydrate-network	ns1:N-0000-003193 ,
+		ns1:N-0000-003194 .
+ns1:N-0000-003195	ns0:carbohydrate-network	ns1:N-0000-003196 ,
+		ns1:N-0000-003197 .
+ns1:N-0000-003198	ns0:carbohydrate-network	ns1:N-0000-003199 .
+ns1:N-0000-003200	ns0:carbohydrate-network	ns1:N-0000-003195 .
+ns1:N-0000-003201	ns0:carbohydrate-network	ns1:N-0000-003202 .
+ns1:N-0000-003207	ns0:carbohydrate-network	ns1:N-0000-003208 ,
+		ns1:N-0000-003209 .
+ns1:N-0000-003212	ns0:carbohydrate-network	ns1:N-0000-003213 .
+ns1:N-0000-003214	ns0:carbohydrate-network	ns1:N-0000-003215 .
+ns1:N-0000-003216	ns0:carbohydrate-network	ns1:N-0000-003217 .
+ns1:N-0000-003218	ns0:carbohydrate-network	ns1:N-0000-003219 .
+ns1:N-0000-003220	ns0:carbohydrate-network	ns1:N-0000-003221 .
+ns1:N-0000-003222	ns0:carbohydrate-network	ns1:N-0000-003223 .
+ns1:N-0000-003224	ns0:carbohydrate-network	ns1:N-0000-003201 .
+ns1:N-0000-003225	ns0:carbohydrate-network	ns1:N-0000-003214 .
+ns1:N-0000-003226	ns0:carbohydrate-network	ns1:N-0000-003227 .
+ns1:N-0000-003227	ns0:carbohydrate-network	ns1:N-0000-003228 .
+ns1:N-0000-003228	ns0:carbohydrate-network	ns1:N-0000-003230 ,
+		ns1:N-0000-003231 .
+ns1:N-0000-003230	ns0:carbohydrate-network	ns1:N-0000-003233 .
+ns1:N-0000-003233	ns0:carbohydrate-network	ns1:N-0000-003234 .
+ns1:N-0000-003235	ns0:carbohydrate-network	ns1:N-0000-003237 .
+ns1:N-0000-003237	ns0:carbohydrate-network	ns1:N-0000-003238 .
+ns1:N-0000-003238	ns0:carbohydrate-network	ns1:N-0000-003255 ,
+		ns1:N-0000-003259 ,
+		ns1:N-0000-003239 .
+ns1:N-0000-003239	ns0:carbohydrate-network	ns1:N-0000-003240 .
+ns1:N-0000-003240	ns0:carbohydrate-network	ns1:N-0000-003241 .
+ns1:N-0000-003242	ns0:carbohydrate-network	ns1:N-0000-003244 .
+ns1:N-0000-003243	ns0:carbohydrate-network	ns1:N-0000-003244 .
+ns1:N-0000-003244	ns0:carbohydrate-network	ns1:N-0000-003248 .
+ns1:N-0000-003245	ns0:carbohydrate-network	ns1:N-0000-003246 .
+ns1:N-0000-003246	ns0:carbohydrate-network	ns1:N-0000-003247 .
+ns1:N-0000-003247	ns0:carbohydrate-network	ns1:N-0000-003248 .
+ns1:N-0000-003248	ns0:carbohydrate-network	ns1:N-0000-003250 .
+ns1:N-0000-003250	ns0:carbohydrate-network	ns1:N-0000-003251 .
+ns1:N-0000-003251	ns0:carbohydrate-network	ns1:N-0000-003252 .
+ns1:N-0000-003252	ns0:carbohydrate-network	ns1:N-0000-003253 ,
+		ns1:N-0000-003258 .
+ns1:N-0000-003253	ns0:carbohydrate-network	ns1:N-0000-003254 .
+ns1:N-0000-003254	ns0:carbohydrate-network	ns1:N-0000-003255 .
+ns1:N-0000-003255	ns0:carbohydrate-network	ns1:N-0000-003256 .
+ns1:N-0000-003256	ns0:carbohydrate-network	ns1:N-0000-003257 .
+ns1:N-0000-003258	ns0:carbohydrate-network	ns1:N-0000-003259 .
+ns1:N-0000-003259	ns0:carbohydrate-network	ns1:N-0000-003260 .
+ns1:N-0000-003260	ns0:carbohydrate-network	ns1:N-0000-003261 .
+ns1:N-0000-003263	ns0:carbohydrate-network	ns1:N-0000-003264 ,
+		ns1:N-0000-003265 ,
+		ns1:N-0000-003266 ,
+		ns1:N-0000-003267 .
+ns1:N-0000-003264	ns0:carbohydrate-network	ns1:N-0000-002650 .
+ns1:N-0000-003265	ns0:carbohydrate-network	ns1:N-0000-000046 ,
+		ns1:N-0000-000058 ,
+		ns1:N-0000-000059 .
+ns1:N-0000-003266	ns0:carbohydrate-network	ns1:N-0000-003272 ,
+		ns1:N-0000-003281 ,
+		ns1:N-0000-003282 ,
+		ns1:N-0000-003283 .
+ns1:N-0000-003267	ns0:carbohydrate-network	ns1:N-0000-002886 ,
+		ns1:N-0000-003284 ,
+		ns1:N-0000-003285 .
+ns1:N-0000-003268	ns0:carbohydrate-network	ns1:N-0000-000936 ,
+		ns1:N-0000-003269 ,
+		ns1:N-0000-003643 ,
+		ns1:N-0000-005017 .
+ns1:N-0000-003269	ns0:carbohydrate-network	ns1:N-0000-003270 ,
+		ns1:N-0000-003271 .
+ns1:N-0000-003272	ns0:carbohydrate-network	ns1:N-0000-003273 ,
+		ns1:N-0000-003274 .
+ns1:N-0000-003273	ns0:carbohydrate-network	ns1:N-0000-003276 .
+ns1:N-0000-003274	ns0:carbohydrate-network	ns1:N-0000-003279 .
+ns1:N-0000-003275	ns0:carbohydrate-network	ns1:N-0000-003276 ,
+		ns1:N-0000-003828 ,
+		ns1:N-0000-003836 .
+ns1:N-0000-003276	ns0:carbohydrate-network	ns1:N-0000-003277 .
+ns1:N-0000-003278	ns0:carbohydrate-network	ns1:N-0000-003279 .
+ns1:N-0000-003279	ns0:carbohydrate-network	ns1:N-0000-003280 .
+ns1:N-0000-003286	ns0:carbohydrate-network	ns1:N-0000-003287 .
+ns1:N-0000-003287	ns0:carbohydrate-network	ns1:N-0000-003289 .
+ns1:N-0000-003288	ns0:carbohydrate-network	ns1:N-0000-003289 ,
+		ns1:N-0000-003324 .
+ns1:N-0000-003289	ns0:carbohydrate-network	ns1:N-0000-003291 .
+ns1:N-0000-003290	ns0:carbohydrate-network	ns1:N-0000-003313 ,
+		ns1:N-0000-003291 .
+ns1:N-0000-003291	ns0:carbohydrate-network	ns1:N-0000-003292 .
+ns1:N-0000-003292	ns0:carbohydrate-network	ns1:N-0000-003294 .
+ns1:N-0000-003293	ns0:carbohydrate-network	ns1:N-0000-003294 .
+ns1:N-0000-003295	ns0:carbohydrate-network	ns1:N-0000-003287 ,
+		ns1:N-0000-003313 ,
+		ns1:N-0000-003297 .
+ns1:N-0000-003296	ns0:carbohydrate-network	ns1:N-0000-003297 ,
+		ns1:N-0000-003299 .
+ns1:N-0000-003298	ns0:carbohydrate-network	ns1:N-0000-003301 ,
+		ns1:N-0000-003302 ,
+		ns1:N-0000-003299 .
+ns1:N-0000-003299	ns0:carbohydrate-network	ns1:N-0000-003335 .
+ns1:N-0000-003300	ns0:carbohydrate-network	ns1:N-0000-003334 ,
+		ns1:N-0000-003335 ,
+		ns1:N-0000-003319 ,
+		ns1:N-0000-003320 ,
+		ns1:N-0000-003301 ,
+		ns1:N-0000-003302 .
+ns1:N-0000-003303	ns0:carbohydrate-network	ns1:N-0000-003312 ,
+		ns1:N-0000-003311 ,
+		ns1:N-0000-003305 ,
+		ns1:N-0000-003306 .
+ns1:N-0000-003304	ns0:carbohydrate-network	ns1:N-0000-003305 ,
+		ns1:N-0000-003306 ,
+		ns1:N-0000-003308 ,
+		ns1:N-0000-003309 .
+ns1:N-0000-003307	ns0:carbohydrate-network	ns1:N-0000-003308 ,
+		ns1:N-0000-003309 ,
+		ns1:N-0000-002011 ,
+		ns1:N-0000-002012 .
+ns1:N-0000-003310	ns0:carbohydrate-network	ns1:N-0000-003311 ,
+		ns1:N-0000-003312 .
+ns1:N-0000-003314	ns0:carbohydrate-network	ns1:N-0000-003315 ,
+		ns1:N-0000-003324 ,
+		ns1:N-0000-003325 .
+ns1:N-0000-003315	ns0:carbohydrate-network	ns1:N-0000-003342 .
+ns1:N-0000-003316	ns0:carbohydrate-network	ns1:N-0000-003317 ,
+		ns1:N-0000-003318 .
+ns1:N-0000-003321	ns0:carbohydrate-network	ns1:N-0000-003322 ,
+		ns1:N-0000-003323 ,
+		ns1:N-0000-003325 .
+ns1:N-0000-003326	ns0:carbohydrate-network	ns1:N-0000-003327 ,
+		ns1:N-0000-003328 .
+ns1:N-0000-003329	ns0:carbohydrate-network	ns1:N-0000-003331 ,
+		ns1:N-0000-003332 .
+ns1:N-0000-003330	ns0:carbohydrate-network	ns1:N-0000-003332 ,
+		ns1:N-0000-003331 .
+ns1:N-0000-003333	ns0:carbohydrate-network	ns1:N-0000-003334 .
+ns1:N-0000-003336	ns0:carbohydrate-network	ns1:N-0000-003337 ,
+		ns1:N-0000-003338 .
+ns1:N-0000-003339	ns0:carbohydrate-network	ns1:N-0000-003340 ,
+		ns1:N-0000-003341 .
+ns1:N-0000-003343	ns0:carbohydrate-network	ns1:N-0000-003344 .
+ns1:N-0000-003345	ns0:carbohydrate-network	ns1:N-0000-003346 ,
+		ns1:N-0000-003347 .
+ns1:N-0000-003350	ns0:carbohydrate-network	ns1:N-0000-003351 ,
+		ns1:N-0000-003352 .
+ns1:N-0000-003353	ns0:carbohydrate-network	ns1:N-0000-003354 .
+ns1:N-0000-003354	ns0:carbohydrate-network	ns1:N-0000-003356 ,
+		ns1:N-0000-003378 ,
+		ns1:N-0000-003355 .
+ns1:N-0000-003357	ns0:carbohydrate-network	ns1:N-0000-002654 .
+ns1:N-0000-003358	ns0:carbohydrate-network	ns1:N-0000-003819 ,
+		ns1:N-0000-003359 .
+ns1:N-0000-003359	ns0:carbohydrate-network	ns1:N-0000-003360 .
+ns1:N-0000-003360	ns0:carbohydrate-network	ns1:N-0000-003361 ,
+		ns1:N-0000-003362 .
+ns1:N-0000-003363	ns0:carbohydrate-network	ns1:N-0000-003364 ,
+		ns1:N-0000-003365 .
+ns1:N-0000-003366	ns0:carbohydrate-network	ns1:N-0000-003367 .
+ns1:N-0000-003367	ns0:carbohydrate-network	ns1:N-0000-003392 ,
+		ns1:N-0000-003393 .
+ns1:N-0000-003368	ns0:carbohydrate-network	ns1:N-0000-003369 ,
+		ns1:N-0000-003384 .
+ns1:N-0000-003369	ns0:carbohydrate-network	ns1:N-0000-003388 ,
+		ns1:N-0000-003370 ,
+		ns1:N-0000-003374 .
+ns1:N-0000-003370	ns0:carbohydrate-network	ns1:N-0000-003371 .
+ns1:N-0000-003371	ns0:carbohydrate-network	ns1:N-0000-003372 .
+ns1:N-0000-003372	ns0:carbohydrate-network	ns1:N-0000-003373 .
+ns1:N-0000-003373	ns0:carbohydrate-network	ns1:N-0000-003394 ,
+		ns1:N-0000-003395 .
+ns1:N-0000-003374	ns0:carbohydrate-network	ns1:N-0000-003375 .
+ns1:N-0000-003375	ns0:carbohydrate-network	ns1:N-0000-003376 .
+ns1:N-0000-003376	ns0:carbohydrate-network	ns1:N-0000-003377 .
+ns1:N-0000-003377	ns0:carbohydrate-network	ns1:N-0000-003396 ,
+		ns1:N-0000-003397 .
+ns1:N-0000-003378	ns0:carbohydrate-network	ns1:N-0000-003379 .
+ns1:N-0000-003379	ns0:carbohydrate-network	ns1:N-0000-003380 .
+ns1:N-0000-003380	ns0:carbohydrate-network	ns1:N-0000-003381 .
+ns1:N-0000-003381	ns0:carbohydrate-network	ns1:N-0000-003382 .
+ns1:N-0000-003382	ns0:carbohydrate-network	ns1:N-0000-003383 .
+ns1:N-0000-003383	ns0:carbohydrate-network	ns1:N-0000-003398 ,
+		ns1:N-0000-003399 .
+ns1:N-0000-003384	ns0:carbohydrate-network	ns1:N-0000-003385 .
+ns1:N-0000-003385	ns0:carbohydrate-network	ns1:N-0000-003386 .
+ns1:N-0000-003386	ns0:carbohydrate-network	ns1:N-0000-003387 .
+ns1:N-0000-003387	ns0:carbohydrate-network	ns1:N-0000-003400 ,
+		ns1:N-0000-003401 .
+ns1:N-0000-003388	ns0:carbohydrate-network	ns1:N-0000-003389 .
+ns1:N-0000-003389	ns0:carbohydrate-network	ns1:N-0000-003390 .
+ns1:N-0000-003390	ns0:carbohydrate-network	ns1:N-0000-003391 .
+ns1:N-0000-003391	ns0:carbohydrate-network	ns1:N-0000-003402 ,
+		ns1:N-0000-003403 .
+ns1:N-0000-003404	ns0:carbohydrate-network	ns1:N-0000-003407 ,
+		ns1:N-0000-003408 ,
+		ns1:N-0000-003409 ,
+		ns1:N-0000-003411 ,
+		ns1:N-0000-003412 ,
+		ns1:N-0000-003414 ,
+		ns1:N-0000-003416 ,
+		ns1:N-0000-003437 ,
+		ns1:N-0000-003465 .
+ns1:N-0000-003405	ns0:carbohydrate-network	ns1:N-0000-003407 .
+ns1:N-0000-003407	ns0:carbohydrate-network	ns1:N-0000-003417 .
+ns1:N-0000-003410	ns0:carbohydrate-network	ns1:N-0000-003412 ,
+		ns1:N-0000-003411 .
+ns1:N-0000-003413	ns0:carbohydrate-network	ns1:N-0000-003414 .
+ns1:N-0000-003414	ns0:carbohydrate-network	ns1:N-0000-003424 .
+ns1:N-0000-003415	ns0:carbohydrate-network	ns1:N-0000-003451 ,
+		ns1:N-0000-003416 ,
+		ns1:N-0000-003469 ,
+		ns1:N-0000-003462 ,
+		ns1:N-0000-003455 .
+ns1:N-0000-003416	ns0:carbohydrate-network	ns1:N-0000-003425 .
+ns1:N-0000-003417	ns0:carbohydrate-network	ns1:N-0000-003426 ,
+		ns1:N-0000-003427 .
+ns1:N-0000-003418	ns0:carbohydrate-network	ns1:N-0000-003420 ,
+		ns1:N-0000-003419 .
+ns1:N-0000-003421	ns0:carbohydrate-network	ns1:N-0000-003422 ,
+		ns1:N-0000-003423 .
+ns1:N-0000-003424	ns0:carbohydrate-network	ns1:N-0000-003434 .
+ns1:N-0000-003425	ns0:carbohydrate-network	ns1:N-0000-003435 .
+ns1:N-0000-003428	ns0:carbohydrate-network	ns1:N-0000-003429 ,
+		ns1:N-0000-003430 .
+ns1:N-0000-003431	ns0:carbohydrate-network	ns1:N-0000-003432 ,
+		ns1:N-0000-003433 .
+ns1:N-0000-003436	ns0:carbohydrate-network	ns1:N-0000-003437 .
+ns1:N-0000-003437	ns0:carbohydrate-network	ns1:N-0000-003438 .
+ns1:N-0000-003438	ns0:carbohydrate-network	ns1:N-0000-003439 .
+ns1:N-0000-003439	ns0:carbohydrate-network	ns1:N-0000-003440 .
+ns1:N-0000-003440	ns0:carbohydrate-network	ns1:N-0000-003441 ,
+		ns1:N-0000-003442 .
+ns1:N-0000-003443	ns0:carbohydrate-network	ns1:N-0000-003451 ,
+		ns1:N-0000-003444 ,
+		ns1:N-0000-003445 .
+ns1:N-0000-003445	ns0:carbohydrate-network	ns1:N-0000-003447 .
+ns1:N-0000-003447	ns0:carbohydrate-network	ns1:N-0000-003449 ,
+		ns1:N-0000-003450 .
+ns1:N-0000-003451	ns0:carbohydrate-network	ns1:N-0000-003452 .
+ns1:N-0000-003452	ns0:carbohydrate-network	ns1:N-0000-003453 .
+ns1:N-0000-003454	ns0:carbohydrate-network	ns1:N-0000-003455 ,
+		ns1:N-0000-003458 .
+ns1:N-0000-003455	ns0:carbohydrate-network	ns1:N-0000-003456 .
+ns1:N-0000-003456	ns0:carbohydrate-network	ns1:N-0000-003457 .
+ns1:N-0000-003458	ns0:carbohydrate-network	ns1:N-0000-003459 .
+ns1:N-0000-003459	ns0:carbohydrate-network	ns1:N-0000-003460 .
+ns1:N-0000-003461	ns0:carbohydrate-network	ns1:N-0000-003462 .
+ns1:N-0000-003462	ns0:carbohydrate-network	ns1:N-0000-003463 .
+ns1:N-0000-003464	ns0:carbohydrate-network	ns1:N-0000-003465 .
+ns1:N-0000-003465	ns0:carbohydrate-network	ns1:N-0000-003466 ,
+		ns1:N-0000-003467 .
+ns1:N-0000-003468	ns0:carbohydrate-network	ns1:N-0000-003469 .
+ns1:N-0000-003469	ns0:carbohydrate-network	ns1:N-0000-003470 .
+ns1:N-0000-003471	ns0:carbohydrate-network	ns1:N-0000-003472 .
+ns1:N-0000-003473	ns0:carbohydrate-network	ns1:N-0000-003476 .
+ns1:N-0000-003476	ns0:carbohydrate-network	ns1:N-0000-003477 .
+ns1:N-0000-003477	ns0:carbohydrate-network	ns1:N-0000-003478 ,
+		ns1:N-0000-003479 .
+ns1:N-0000-003479	ns0:carbohydrate-network	ns1:N-0000-003480 .
+ns1:N-0000-003480	ns0:carbohydrate-network	ns1:N-0000-003481 .
+ns1:N-0000-003482	ns0:carbohydrate-network	ns1:N-0000-003483 .
+ns1:N-0000-003483	ns0:carbohydrate-network	ns1:N-0000-003484 .
+ns1:N-0000-003484	ns0:carbohydrate-network	ns1:N-0000-003485 .
+ns1:N-0000-003485	ns0:carbohydrate-network	ns1:N-0000-003490 .
+ns1:N-0000-003490	ns0:carbohydrate-network	ns1:N-0000-003491 .
+ns1:N-0000-003492	ns0:carbohydrate-network	ns1:N-0000-003784 ,
+		ns1:N-0000-003785 ,
+		ns1:N-0000-003787 ,
+		ns1:N-0000-003780 ,
+		ns1:N-0000-003526 ,
+		ns1:N-0000-003520 ,
+		ns1:N-0000-003521 ,
+		ns1:N-0000-003522 ,
+		ns1:N-0000-003524 ,
+		ns1:N-0000-003495 ,
+		ns1:N-0000-003497 ,
+		ns1:N-0000-003499 ,
+		ns1:N-0000-003500 .
+ns1:N-0000-003494	ns0:carbohydrate-network	ns1:N-0000-003495 .
+ns1:N-0000-003496	ns0:carbohydrate-network	ns1:N-0000-003528 ,
+		ns1:N-0000-003497 .
+ns1:N-0000-003498	ns0:carbohydrate-network	ns1:N-0000-003499 ,
+		ns1:N-0000-003500 .
+ns1:N-0000-003499	ns0:carbohydrate-network	ns1:N-0000-003506 .
+ns1:N-0000-003502	ns0:carbohydrate-network	ns1:N-0000-003503 .
+ns1:N-0000-003503	ns0:carbohydrate-network	ns1:N-0000-003521 .
+ns1:N-0000-003505	ns0:carbohydrate-network	ns1:N-0000-003494 .
+ns1:N-0000-003506	ns0:carbohydrate-network	ns1:N-0000-003530 .
+ns1:N-0000-003511	ns0:carbohydrate-network	ns1:N-0000-003804 ,
+		ns1:N-0000-003805 ,
+		ns1:N-0000-003802 ,
+		ns1:N-0000-003803 ,
+		ns1:N-0000-003512 .
+ns1:N-0000-003513	ns0:carbohydrate-network	ns1:N-0000-003800 ,
+		ns1:N-0000-003801 ,
+		ns1:N-0000-003798 ,
+		ns1:N-0000-003799 ,
+		ns1:N-0000-003514 .
+ns1:N-0000-003515	ns0:carbohydrate-network	ns1:N-0000-003806 ,
+		ns1:N-0000-003807 ,
+		ns1:N-0000-003808 ,
+		ns1:N-0000-003809 ,
+		ns1:N-0000-003516 .
+ns1:N-0000-003518	ns0:carbohydrate-network	ns1:N-0000-003519 .
+ns1:N-0000-003523	ns0:carbohydrate-network	ns1:N-0000-003524 .
+ns1:N-0000-003525	ns0:carbohydrate-network	ns1:N-0000-003526 .
+ns1:N-0000-003527	ns0:carbohydrate-network	ns1:N-0000-003528 ,
+		ns1:N-0000-003796 ,
+		ns1:N-0000-003797 ,
+		ns1:N-0000-003794 ,
+		ns1:N-0000-003795 .
+ns1:N-0000-003529	ns0:carbohydrate-network	ns1:N-0000-003530 .
+ns1:N-0000-003534	ns0:carbohydrate-network	ns1:N-0000-003541 ,
+		ns1:N-0000-003555 .
+ns1:N-0000-003538	ns0:carbohydrate-network	ns1:N-0000-003540 ,
+		ns1:N-0000-003550 ,
+		ns1:N-0000-003554 .
+ns1:N-0000-003540	ns0:carbohydrate-network	ns1:N-0000-003543 .
+ns1:N-0000-003541	ns0:carbohydrate-network	ns1:N-0000-003544 .
+ns1:N-0000-003543	ns0:carbohydrate-network	ns1:N-0000-003545 .
+ns1:N-0000-003544	ns0:carbohydrate-network	ns1:N-0000-003546 .
+ns1:N-0000-003545	ns0:carbohydrate-network	ns1:N-0000-003547 .
+ns1:N-0000-003546	ns0:carbohydrate-network	ns1:N-0000-003548 .
+ns1:N-0000-003550	ns0:carbohydrate-network	ns1:N-0000-003551 .
+ns1:N-0000-003551	ns0:carbohydrate-network	ns1:N-0000-003552 .
+ns1:N-0000-003554	ns0:carbohydrate-network	ns1:N-0000-003556 .
+ns1:N-0000-003555	ns0:carbohydrate-network	ns1:N-0000-003557 .
+ns1:N-0000-003556	ns0:carbohydrate-network	ns1:N-0000-003558 .
+ns1:N-0000-003557	ns0:carbohydrate-network	ns1:N-0000-003559 .
+ns1:N-0000-003560	ns0:carbohydrate-network	ns1:N-0000-003562 ,
+		ns1:N-0000-003563 .
+ns1:N-0000-003562	ns0:carbohydrate-network	ns1:N-0000-003564 .
+ns1:N-0000-003563	ns0:carbohydrate-network	ns1:N-0000-003565 .
+ns1:N-0000-003564	ns0:carbohydrate-network	ns1:N-0000-003566 .
+ns1:N-0000-003565	ns0:carbohydrate-network	ns1:N-0000-003567 .
+ns1:N-0000-003566	ns0:carbohydrate-network	ns1:N-0000-003568 .
+ns1:N-0000-003567	ns0:carbohydrate-network	ns1:N-0000-003569 .
+ns1:N-0000-003568	ns0:carbohydrate-network	ns1:N-0000-003571 ,
+		ns1:N-0000-003573 .
+ns1:N-0000-003569	ns0:carbohydrate-network	ns1:N-0000-003574 ,
+		ns1:N-0000-003572 .
+ns1:N-0000-003571	ns0:carbohydrate-network	ns1:N-0000-003575 .
+ns1:N-0000-003572	ns0:carbohydrate-network	ns1:N-0000-003576 .
+ns1:N-0000-003577	ns0:carbohydrate-network	ns1:N-0000-003578 ,
+		ns1:N-0000-003609 ,
+		ns1:N-0000-003602 ,
+		ns1:N-0000-003595 .
+ns1:N-0000-003578	ns0:carbohydrate-network	ns1:N-0000-003582 .
+ns1:N-0000-003579	ns0:carbohydrate-network	ns1:N-0000-003581 ,
+		ns1:N-0000-003601 .
+ns1:N-0000-003581	ns0:carbohydrate-network	ns1:N-0000-003583 .
+ns1:N-0000-003582	ns0:carbohydrate-network	ns1:N-0000-003584 .
+ns1:N-0000-003583	ns0:carbohydrate-network	ns1:N-0000-003598 ,
+		ns1:N-0000-003586 ,
+		ns1:N-0000-003587 ,
+		ns1:N-0000-003585 .
+ns1:N-0000-003584	ns0:carbohydrate-network	ns1:N-0000-003586 ,
+		ns1:N-0000-003589 .
+ns1:N-0000-003585	ns0:carbohydrate-network	ns1:N-0000-003587 .
+ns1:N-0000-003586	ns0:carbohydrate-network	ns1:N-0000-003588 ,
+		ns1:N-0000-003591 .
+ns1:N-0000-003587	ns0:carbohydrate-network	ns1:N-0000-003589 ,
+		ns1:N-0000-003590 .
+ns1:N-0000-003588	ns0:carbohydrate-network	ns1:N-0000-003590 .
+ns1:N-0000-003589	ns0:carbohydrate-network	ns1:N-0000-003592 .
+ns1:N-0000-003590	ns0:carbohydrate-network	ns1:N-0000-003593 .
+ns1:N-0000-003594	ns0:carbohydrate-network	ns1:N-0000-003595 .
+ns1:N-0000-003595	ns0:carbohydrate-network	ns1:N-0000-003596 .
+ns1:N-0000-003596	ns0:carbohydrate-network	ns1:N-0000-003597 .
+ns1:N-0000-003597	ns0:carbohydrate-network	ns1:N-0000-003598 .
+ns1:N-0000-003598	ns0:carbohydrate-network	ns1:N-0000-003599 .
+ns1:N-0000-003600	ns0:carbohydrate-network	ns1:N-0000-003601 ,
+		ns1:N-0000-003602 .
+ns1:N-0000-003601	ns0:carbohydrate-network	ns1:N-0000-003603 .
+ns1:N-0000-003602	ns0:carbohydrate-network	ns1:N-0000-003604 .
+ns1:N-0000-003603	ns0:carbohydrate-network	ns1:N-0000-003612 ,
+		ns1:N-0000-003606 .
+ns1:N-0000-003604	ns0:carbohydrate-network	ns1:N-0000-003605 .
+ns1:N-0000-003605	ns0:carbohydrate-network	ns1:N-0000-003606 .
+ns1:N-0000-003606	ns0:carbohydrate-network	ns1:N-0000-003607 .
+ns1:N-0000-003608	ns0:carbohydrate-network	ns1:N-0000-003609 .
+ns1:N-0000-003609	ns0:carbohydrate-network	ns1:N-0000-003610 .
+ns1:N-0000-003610	ns0:carbohydrate-network	ns1:N-0000-003611 .
+ns1:N-0000-003611	ns0:carbohydrate-network	ns1:N-0000-003612 .
+ns1:N-0000-003612	ns0:carbohydrate-network	ns1:N-0000-003613 .
+ns1:N-0000-003614	ns0:carbohydrate-network	ns1:N-0000-003615 .
+ns1:N-0000-003615	ns0:carbohydrate-network	ns1:N-0000-003616 ,
+		ns1:N-0000-004255 .
+ns1:N-0000-003616	ns0:carbohydrate-network	ns1:N-0000-003617 .
+ns1:N-0000-003622	ns0:carbohydrate-network	ns1:N-0000-003623 .
+ns1:N-0000-003627	ns0:carbohydrate-network	ns1:N-0000-003628 ,
+		ns1:N-0000-004963 .
+ns1:N-0000-003629	ns0:carbohydrate-network	ns1:N-0000-003630 .
+ns1:N-0000-003633	ns0:carbohydrate-network	ns1:N-0000-003635 .
+ns1:N-0000-003635	ns0:carbohydrate-network	ns1:N-0000-003636 .
+ns1:N-0000-003637	ns0:carbohydrate-network	ns1:N-0000-005107 .
+ns1:N-0000-003639	ns0:carbohydrate-network	ns1:N-0000-003640 .
+ns1:N-0000-003640	ns0:carbohydrate-network	ns1:N-0000-004934 .
+ns1:N-0000-003641	ns0:carbohydrate-network	ns1:N-0000-003642 .
+ns1:N-0000-003642	ns0:carbohydrate-network	ns1:N-0000-003663 ,
+		ns1:N-0000-003664 .
+ns1:N-0000-003644	ns0:carbohydrate-network	ns1:N-0000-005108 ,
+		ns1:N-0000-005109 .
+ns1:N-0000-003647	ns0:carbohydrate-network	ns1:N-0000-005109 .
+ns1:N-0000-003649	ns0:carbohydrate-network	ns1:N-0000-003651 .
+ns1:N-0000-003651	ns0:carbohydrate-network	ns1:N-0000-003663 .
+ns1:N-0000-003653	ns0:carbohydrate-network	ns1:N-0000-003654 ,
+		ns1:N-0000-003655 .
+ns1:N-0000-003654	ns0:carbohydrate-network	ns1:N-0000-003656 .
+ns1:N-0000-003657	ns0:carbohydrate-network	ns1:N-0000-003658 .
+ns1:N-0000-003658	ns0:carbohydrate-network	ns1:N-0000-005112 .
+ns1:N-0000-003661	ns0:carbohydrate-network	ns1:N-0000-003664 .
+ns1:N-0000-003663	ns0:carbohydrate-network	ns1:N-0000-003666 ,
+		ns1:N-0000-003668 .
+ns1:N-0000-003664	ns0:carbohydrate-network	ns1:N-0000-003673 ,
+		ns1:N-0000-003674 .
+ns1:N-0000-003666	ns0:carbohydrate-network	ns1:N-0000-003670 .
+ns1:N-0000-003668	ns0:carbohydrate-network	ns1:N-0000-003669 .
+ns1:N-0000-003669	ns0:carbohydrate-network	ns1:N-0000-003670 .
+ns1:N-0000-003670	ns0:carbohydrate-network	ns1:N-0000-003672 .
+ns1:N-0000-003673	ns0:carbohydrate-network	ns1:N-0000-003676 .
+ns1:N-0000-003674	ns0:carbohydrate-network	ns1:N-0000-003675 .
+ns1:N-0000-003675	ns0:carbohydrate-network	ns1:N-0000-003676 .
+ns1:N-0000-003676	ns0:carbohydrate-network	ns1:N-0000-003677 .
+ns1:N-0000-003678	ns0:carbohydrate-network	ns1:N-0000-003680 ,
+		ns1:N-0000-003681 ,
+		ns1:N-0000-003690 .
+ns1:N-0000-003682	ns0:carbohydrate-network	ns1:N-0000-003699 ,
+		ns1:N-0000-003683 ,
+		ns1:N-0000-003684 .
+ns1:N-0000-003691	ns0:carbohydrate-network	ns1:N-0000-003692 .
+ns1:N-0000-003693	ns0:carbohydrate-network	ns1:N-0000-003694 .
+ns1:N-0000-003695	ns0:carbohydrate-network	ns1:N-0000-003696 .
+ns1:N-0000-003697	ns0:carbohydrate-network	ns1:N-0000-003698 .
+ns1:N-0000-003717	ns0:carbohydrate-network	ns1:N-0000-003718 ,
+		ns1:N-0000-003719 .
+ns1:N-0000-003721	ns0:carbohydrate-network	ns1:N-0000-003722 ,
+		ns1:N-0000-003723 .
+ns1:N-0000-003724	ns0:carbohydrate-network	ns1:N-0000-003725 ,
+		ns1:N-0000-003726 .
+ns1:N-0000-003727	ns0:carbohydrate-network	ns1:N-0000-003728 ,
+		ns1:N-0000-003729 .
+ns1:N-0000-003730	ns0:carbohydrate-network	ns1:N-0000-003731 ,
+		ns1:N-0000-003732 .
+ns1:N-0000-003733	ns0:carbohydrate-network	ns1:N-0000-003734 ,
+		ns1:N-0000-003735 .
+ns1:N-0000-003736	ns0:carbohydrate-network	ns1:N-0000-003739 ,
+		ns1:N-0000-003738 ,
+		ns1:N-0000-003743 ,
+		ns1:N-0000-003745 ,
+		ns1:N-0000-003746 ,
+		ns1:N-0000-002978 .
+ns1:N-0000-003740	ns0:carbohydrate-network	ns1:N-0000-003741 ,
+		ns1:N-0000-003742 ,
+		ns1:N-0000-003744 ,
+		ns1:N-0000-003756 ,
+		ns1:N-0000-003755 .
+ns1:N-0000-003744	ns0:carbohydrate-network	ns1:N-0000-003743 ,
+		ns1:N-0000-003745 ,
+		ns1:N-0000-003746 .
+ns1:N-0000-003753	ns0:carbohydrate-network	ns1:N-0000-003743 ,
+		ns1:N-0000-003754 ,
+		ns1:N-0000-002978 .
+ns1:N-0000-003772	ns0:carbohydrate-network	ns1:N-0000-003773 ,
+		ns1:N-0000-003774 ,
+		ns1:N-0000-003775 ,
+		ns1:N-0000-003776 .
+ns1:N-0000-003777	ns0:carbohydrate-network	ns1:N-0000-003778 ,
+		ns1:N-0000-003779 .
+ns1:N-0000-003788	ns0:carbohydrate-network	ns1:N-0000-003789 ,
+		ns1:N-0000-003790 ,
+		ns1:N-0000-003791 ,
+		ns1:N-0000-003792 .
+ns1:N-0000-003814	ns0:carbohydrate-network	ns1:N-0000-003816 ,
+		ns1:N-0000-003817 ,
+		ns1:N-0000-003818 ,
+		ns1:N-0000-003815 .
+ns1:N-0000-003823	ns0:carbohydrate-network	ns1:N-0000-003824 .
+ns1:N-0000-003824	ns0:carbohydrate-network	ns1:N-0000-003825 .
+ns1:N-0000-003825	ns0:carbohydrate-network	ns1:N-0000-003828 ,
+		ns1:N-0000-003827 .
+ns1:N-0000-003826	ns0:carbohydrate-network	ns1:N-0000-003827 .
+ns1:N-0000-003827	ns0:carbohydrate-network	ns1:N-0000-003829 .
+ns1:N-0000-003828	ns0:carbohydrate-network	ns1:N-0000-003829 .
+ns1:N-0000-003832	ns0:carbohydrate-network	ns1:N-0000-003834 .
+ns1:N-0000-003834	ns0:carbohydrate-network	ns1:N-0000-003835 .
+ns1:N-0000-003835	ns0:carbohydrate-network	ns1:N-0000-003836 .
+ns1:N-0000-003836	ns0:carbohydrate-network	ns1:N-0000-003837 .
+ns1:N-0000-003838	ns0:carbohydrate-network	ns1:N-0000-003840 .
+ns1:N-0000-003840	ns0:carbohydrate-network	ns1:N-0000-003844 .
+ns1:N-0000-003841	ns0:carbohydrate-network	ns1:N-0000-003847 ,
+		ns1:N-0000-003842 .
+ns1:N-0000-003842	ns0:carbohydrate-network	ns1:N-0000-003847 .
+ns1:N-0000-003844	ns0:carbohydrate-network	ns1:N-0000-003845 .
+ns1:N-0000-003847	ns0:carbohydrate-network	ns1:N-0000-003848 .
+ns1:N-0000-003849	ns0:carbohydrate-network	ns1:N-0000-003871 ,
+		ns1:N-0000-003878 ,
+		ns1:N-0000-003879 ,
+		ns1:N-0000-003872 ,
+		ns1:N-0000-003850 ,
+		ns1:N-0000-003856 .
+ns1:N-0000-003850	ns0:carbohydrate-network	ns1:N-0000-003852 ,
+		ns1:N-0000-003853 .
+ns1:N-0000-003852	ns0:carbohydrate-network	ns1:N-0000-003854 ,
+		ns1:N-0000-003855 .
+ns1:N-0000-003853	ns0:carbohydrate-network	ns1:N-0000-003854 ,
+		ns1:N-0000-003855 .
+ns1:N-0000-003855	ns0:carbohydrate-network	ns1:N-0000-003860 ,
+		ns1:N-0000-003861 ,
+		ns1:N-0000-003864 .
+ns1:N-0000-003856	ns0:carbohydrate-network	ns1:N-0000-002676 ,
+		ns1:N-0000-003857 .
+ns1:N-0000-003858	ns0:carbohydrate-network	ns1:N-0000-003859 .
+ns1:N-0000-003859	ns0:carbohydrate-network	ns1:N-0000-003853 .
+ns1:N-0000-003860	ns0:carbohydrate-network	ns1:N-0000-003868 .
+ns1:N-0000-003864	ns0:carbohydrate-network	ns1:N-0000-003860 ,
+		ns1:N-0000-003861 .
+ns1:N-0000-003868	ns0:carbohydrate-network	ns1:N-0000-003869 .
+ns1:N-0000-003869	ns0:carbohydrate-network	ns1:N-0000-003870 .
+ns1:N-0000-003873	ns0:carbohydrate-network	ns1:N-0000-003876 ,
+		ns1:N-0000-003874 .
+ns1:N-0000-003876	ns0:carbohydrate-network	ns1:N-0000-003877 .
+ns1:N-0000-003880	ns0:carbohydrate-network	ns1:N-0000-003881 .
+ns1:N-0000-003881	ns0:carbohydrate-network	ns1:N-0000-003882 ,
+		ns1:N-0000-003883 .
+ns1:N-0000-003882	ns0:carbohydrate-network	ns1:N-0000-003884 .
+ns1:N-0000-003883	ns0:carbohydrate-network	ns1:N-0000-003885 .
+ns1:N-0000-003884	ns0:carbohydrate-network	ns1:N-0000-003886 .
+ns1:N-0000-003885	ns0:carbohydrate-network	ns1:N-0000-003887 .
+ns1:N-0000-003886	ns0:carbohydrate-network	ns1:N-0000-003888 .
+ns1:N-0000-003887	ns0:carbohydrate-network	ns1:N-0000-003894 ,
+		ns1:N-0000-003895 .
+ns1:N-0000-003888	ns0:carbohydrate-network	ns1:N-0000-003889 ,
+		ns1:N-0000-003890 .
+ns1:N-0000-003891	ns0:carbohydrate-network	ns1:N-0000-003892 ,
+		ns1:N-0000-003893 .
+ns1:N-0000-003894	ns0:carbohydrate-network	ns1:N-0000-003896 .
+ns1:N-0000-003895	ns0:carbohydrate-network	ns1:N-0000-003897 .
+ns1:N-0000-003896	ns0:carbohydrate-network	ns1:N-0000-003898 .
+ns1:N-0000-003897	ns0:carbohydrate-network	ns1:N-0000-003900 ,
+		ns1:N-0000-003899 .
+ns1:N-0000-003898	ns0:carbohydrate-network	ns1:N-0000-003901 ,
+		ns1:N-0000-003902 .
+ns1:N-0000-003903	ns0:carbohydrate-network	ns1:N-0000-003904 ,
+		ns1:N-0000-003905 .
+ns1:N-0000-003906	ns0:carbohydrate-network	ns1:N-0000-003907 ,
+		ns1:N-0000-003908 .
+ns1:N-0000-003909	ns0:carbohydrate-network	ns1:N-0000-003911 .
+ns1:N-0000-003911	ns0:carbohydrate-network	ns1:N-0000-003912 .
+ns1:N-0000-003912	ns0:carbohydrate-network	ns1:N-0000-003913 .
+ns1:N-0000-003913	ns0:carbohydrate-network	ns1:N-0000-003915 .
+ns1:N-0000-003914	ns0:carbohydrate-network	ns1:N-0000-003915 .
+ns1:N-0000-003915	ns0:carbohydrate-network	ns1:N-0000-003916 .
+ns1:N-0000-003916	ns0:carbohydrate-network	ns1:N-0000-003917 .
+ns1:N-0000-003917	ns0:carbohydrate-network	ns1:N-0000-003918 .
+ns1:N-0000-003918	ns0:carbohydrate-network	ns1:N-0000-003919 .
+ns1:N-0000-003919	ns0:carbohydrate-network	ns1:N-0000-003920 .
+ns1:N-0000-003925	ns0:carbohydrate-network	ns1:N-0000-003927 .
+ns1:N-0000-003927	ns0:carbohydrate-network	ns1:N-0000-003947 ,
+		ns1:N-0000-003928 .
+ns1:N-0000-003928	ns0:carbohydrate-network	ns1:N-0000-003929 .
+ns1:N-0000-003929	ns0:carbohydrate-network	ns1:N-0000-003930 .
+ns1:N-0000-003930	ns0:carbohydrate-network	ns1:N-0000-003932 .
+ns1:N-0000-003932	ns0:carbohydrate-network	ns1:N-0000-003933 ,
+		ns1:N-0000-003934 .
+ns1:N-0000-003933	ns0:carbohydrate-network	ns1:N-0000-003934 .
+ns1:N-0000-003934	ns0:carbohydrate-network	ns1:N-0000-003937 ,
+		ns1:N-0000-003940 .
+ns1:N-0000-003937	ns0:carbohydrate-network	ns1:N-0000-003942 .
+ns1:N-0000-003940	ns0:carbohydrate-network	ns1:N-0000-003943 .
+ns1:N-0000-003942	ns0:carbohydrate-network	ns1:N-0000-003944 .
+ns1:N-0000-003943	ns0:carbohydrate-network	ns1:N-0000-003946 .
+ns1:N-0000-003947	ns0:carbohydrate-network	ns1:N-0000-003948 .
+ns1:N-0000-003948	ns0:carbohydrate-network	ns1:N-0000-003949 .
+ns1:N-0000-003949	ns0:carbohydrate-network	ns1:N-0000-003932 .
+ns1:N-0000-003950	ns0:carbohydrate-network	ns1:N-0000-003951 .
+ns1:N-0000-003951	ns0:carbohydrate-network	ns1:N-0000-003952 .
+ns1:N-0000-003952	ns0:carbohydrate-network	ns1:N-0000-003953 .
+ns1:N-0000-003953	ns0:carbohydrate-network	ns1:N-0000-003999 ,
+		ns1:N-0000-004001 ,
+		ns1:N-0000-004002 ,
+		ns1:N-0000-003989 ,
+		ns1:N-0000-003990 ,
+		ns1:N-0000-003976 .
+ns1:N-0000-003954	ns0:carbohydrate-network	ns1:N-0000-003955 .
+ns1:N-0000-003955	ns0:carbohydrate-network	ns1:N-0000-003956 .
+ns1:N-0000-003956	ns0:carbohydrate-network	ns1:N-0000-003958 ,
+		ns1:N-0000-003959 .
+ns1:N-0000-003958	ns0:carbohydrate-network	ns1:N-0000-003983 ,
+		ns1:N-0000-003993 .
+ns1:N-0000-003960	ns0:carbohydrate-network	ns1:N-0000-003976 ,
+		ns1:N-0000-003961 .
+ns1:N-0000-003961	ns0:carbohydrate-network	ns1:N-0000-003962 ,
+		ns1:N-0000-003963 .
+ns1:N-0000-003964	ns0:carbohydrate-network	ns1:N-0000-003966 ,
+		ns1:N-0000-003967 ,
+		ns1:N-0000-003993 .
+ns1:N-0000-003968	ns0:carbohydrate-network	ns1:N-0000-003970 ,
+		ns1:N-0000-003971 .
+ns1:N-0000-003972	ns0:carbohydrate-network	ns1:N-0000-003973 ,
+		ns1:N-0000-003974 .
+ns1:N-0000-003973	ns0:carbohydrate-network	ns1:N-0000-003999 .
+ns1:N-0000-003976	ns0:carbohydrate-network	ns1:N-0000-003977 .
+ns1:N-0000-003977	ns0:carbohydrate-network	ns1:N-0000-003978 .
+ns1:N-0000-003978	ns0:carbohydrate-network	ns1:N-0000-003979 ,
+		ns1:N-0000-003980 .
+ns1:N-0000-003981	ns0:carbohydrate-network	ns1:N-0000-003982 .
+ns1:N-0000-003982	ns0:carbohydrate-network	ns1:N-0000-003983 .
+ns1:N-0000-003983	ns0:carbohydrate-network	ns1:N-0000-003984 .
+ns1:N-0000-003984	ns0:carbohydrate-network	ns1:N-0000-003985 .
+ns1:N-0000-003985	ns0:carbohydrate-network	ns1:N-0000-003986 .
+ns1:N-0000-003986	ns0:carbohydrate-network	ns1:N-0000-003988 .
+ns1:N-0000-003989	ns0:carbohydrate-network	ns1:N-0000-003991 ,
+		ns1:N-0000-003992 .
+ns1:N-0000-003991	ns0:carbohydrate-network	ns1:N-0000-003994 .
+ns1:N-0000-003993	ns0:carbohydrate-network	ns1:N-0000-003994 .
+ns1:N-0000-003994	ns0:carbohydrate-network	ns1:N-0000-003995 .
+ns1:N-0000-003995	ns0:carbohydrate-network	ns1:N-0000-003996 .
+ns1:N-0000-003996	ns0:carbohydrate-network	ns1:N-0000-003997 ,
+		ns1:N-0000-003998 .
+ns1:N-0000-003999	ns0:carbohydrate-network	ns1:N-0000-004000 .
+ns1:N-0000-004000	ns0:carbohydrate-network	ns1:N-0000-004002 ,
+		ns1:N-0000-004001 .
+ns1:N-0000-004003	ns0:carbohydrate-network	ns1:N-0000-004004 ,
+		ns1:N-0000-004005 .
+ns1:N-0000-004006	ns0:carbohydrate-network	ns1:N-0000-004007 ,
+		ns1:N-0000-004008 .
+ns1:N-0000-004025	ns0:carbohydrate-network	ns1:N-0000-004027 .
+ns1:N-0000-004027	ns0:carbohydrate-network	ns1:N-0000-004049 .
+ns1:N-0000-004028	ns0:carbohydrate-network	ns1:N-0000-004029 .
+ns1:N-0000-004029	ns0:carbohydrate-network	ns1:N-0000-004050 .
+ns1:N-0000-004030	ns0:carbohydrate-network	ns1:N-0000-004051 .
+ns1:N-0000-004049	ns0:carbohydrate-network	ns1:N-0000-004027 .
+ns1:N-0000-004050	ns0:carbohydrate-network	ns1:N-0000-004029 .
+ns1:N-0000-004051	ns0:carbohydrate-network	ns1:N-0000-004030 .
+ns1:N-0000-004052	ns0:carbohydrate-network	ns1:N-0000-005363 ,
+		ns1:N-0000-004053 .
+ns1:N-0000-004053	ns0:carbohydrate-network	ns1:N-0000-004052 .
+ns1:N-0000-004055	ns0:carbohydrate-network	ns1:N-0000-004056 .
+ns1:N-0000-004056	ns0:carbohydrate-network	ns1:N-0000-004057 .
+ns1:N-0000-004057	ns0:carbohydrate-network	ns1:N-0000-004058 ,
+		ns1:N-0000-004063 .
+ns1:N-0000-004063	ns0:carbohydrate-network	ns1:N-0000-004057 ,
+		ns1:N-0000-004058 .
+ns1:N-0000-004079	ns0:carbohydrate-network	ns1:N-0000-004080 .
+ns1:N-0000-004080	ns0:carbohydrate-network	ns1:N-0000-004081 .
+ns1:N-0000-004081	ns0:carbohydrate-network	ns1:N-0000-004082 .
+ns1:N-0000-004082	ns0:carbohydrate-network	ns1:N-0000-004083 ,
+		ns1:N-0000-004084 .
+ns1:N-0000-004085	ns0:carbohydrate-network	ns1:N-0000-004086 ,
+		ns1:N-0000-004087 .
+ns1:N-0000-004086	ns0:carbohydrate-network	ns1:N-0000-004088 .
+ns1:N-0000-004087	ns0:carbohydrate-network	ns1:N-0000-004120 ,
+		ns1:N-0000-004121 ,
+		ns1:N-0000-004122 ,
+		ns1:N-0000-004123 ,
+		ns1:N-0000-004125 ,
+		ns1:N-0000-004126 ,
+		ns1:N-0000-004089 .
+ns1:N-0000-004088	ns0:carbohydrate-network	ns1:N-0000-004091 .
+ns1:N-0000-004089	ns0:carbohydrate-network	ns1:N-0000-004090 ,
+		ns1:N-0000-004093 .
+ns1:N-0000-004090	ns0:carbohydrate-network	ns1:N-0000-004132 ,
+		ns1:N-0000-004128 ,
+		ns1:N-0000-004129 ,
+		ns1:N-0000-004130 ,
+		ns1:N-0000-004131 ,
+		ns1:N-0000-004127 .
+ns1:N-0000-004091	ns0:carbohydrate-network	ns1:N-0000-004092 .
+ns1:N-0000-004093	ns0:carbohydrate-network	ns1:N-0000-004107 ,
+		ns1:N-0000-004094 ,
+		ns1:N-0000-004111 .
+ns1:N-0000-004094	ns0:carbohydrate-network	ns1:N-0000-004136 ,
+		ns1:N-0000-004137 ,
+		ns1:N-0000-004138 ,
+		ns1:N-0000-004133 ,
+		ns1:N-0000-004134 ,
+		ns1:N-0000-004135 .
+ns1:N-0000-004095	ns0:carbohydrate-network	ns1:N-0000-004097 ,
+		ns1:N-0000-004098 .
+ns1:N-0000-004099	ns0:carbohydrate-network	ns1:N-0000-004101 ,
+		ns1:N-0000-004102 .
+ns1:N-0000-004103	ns0:carbohydrate-network	ns1:N-0000-004104 .
+ns1:N-0000-004104	ns0:carbohydrate-network	ns1:N-0000-004105 .
+ns1:N-0000-004106	ns0:carbohydrate-network	ns1:N-0000-004107 .
+ns1:N-0000-004107	ns0:carbohydrate-network	ns1:N-0000-004109 .
+ns1:N-0000-004108	ns0:carbohydrate-network	ns1:N-0000-004109 .
+ns1:N-0000-004109	ns0:carbohydrate-network	ns1:N-0000-004110 .
+ns1:N-0000-004110	ns0:carbohydrate-network	ns1:N-0000-004112 .
+ns1:N-0000-004111	ns0:carbohydrate-network	ns1:N-0000-004112 .
+ns1:N-0000-004112	ns0:carbohydrate-network	ns1:N-0000-004113 .
+ns1:N-0000-004113	ns0:carbohydrate-network	ns1:N-0000-004114 .
+ns1:N-0000-004114	ns0:carbohydrate-network	ns1:N-0000-004116 .
+ns1:N-0000-004116	ns0:carbohydrate-network	ns1:N-0000-004117 .
+ns1:N-0000-004117	ns0:carbohydrate-network	ns1:N-0000-004118 .
+ns1:N-0000-004118	ns0:carbohydrate-network	ns1:N-0000-004119 .
+ns1:N-0000-004124	ns0:carbohydrate-network	ns1:N-0000-004125 ,
+		ns1:N-0000-004126 ,
+		ns1:N-0000-004131 ,
+		ns1:N-0000-004132 ,
+		ns1:N-0000-004137 ,
+		ns1:N-0000-004138 .
+ns1:N-0000-004139	ns0:carbohydrate-network	ns1:N-0000-004144 ,
+		ns1:N-0000-004140 ,
+		ns1:N-0000-004142 .
+ns1:N-0000-004140	ns0:carbohydrate-network	ns1:N-0000-004163 ,
+		ns1:N-0000-004167 ,
+		ns1:N-0000-004171 ,
+		ns1:N-0000-004148 ,
+		ns1:N-0000-004149 ,
+		ns1:N-0000-004152 ,
+		ns1:N-0000-004175 .
+ns1:N-0000-004142	ns0:carbohydrate-network	ns1:N-0000-004164 ,
+		ns1:N-0000-004168 ,
+		ns1:N-0000-004150 ,
+		ns1:N-0000-004153 ,
+		ns1:N-0000-004172 ,
+		ns1:N-0000-004176 .
+ns1:N-0000-004144	ns0:carbohydrate-network	ns1:N-0000-004151 ,
+		ns1:N-0000-004154 ,
+		ns1:N-0000-004165 ,
+		ns1:N-0000-004169 ,
+		ns1:N-0000-004173 ,
+		ns1:N-0000-004177 .
+ns1:N-0000-004147	ns0:carbohydrate-network	ns1:N-0000-004152 ,
+		ns1:N-0000-004153 ,
+		ns1:N-0000-004154 ,
+		ns1:N-0000-004148 ,
+		ns1:N-0000-004149 ,
+		ns1:N-0000-004150 ,
+		ns1:N-0000-004151 ,
+		ns1:N-0000-004168 ,
+		ns1:N-0000-004169 ,
+		ns1:N-0000-004171 ,
+		ns1:N-0000-004164 ,
+		ns1:N-0000-004165 ,
+		ns1:N-0000-004167 ,
+		ns1:N-0000-004163 ,
+		ns1:N-0000-004176 ,
+		ns1:N-0000-004177 ,
+		ns1:N-0000-004172 ,
+		ns1:N-0000-004173 ,
+		ns1:N-0000-004175 .
+ns1:N-0000-004148	ns0:carbohydrate-network	ns1:N-0000-004155 .
+ns1:N-0000-004149	ns0:carbohydrate-network	ns1:N-0000-004156 .
+ns1:N-0000-004150	ns0:carbohydrate-network	ns1:N-0000-004157 .
+ns1:N-0000-004151	ns0:carbohydrate-network	ns1:N-0000-004158 .
+ns1:N-0000-004152	ns0:carbohydrate-network	ns1:N-0000-004159 .
+ns1:N-0000-004153	ns0:carbohydrate-network	ns1:N-0000-004160 .
+ns1:N-0000-004154	ns0:carbohydrate-network	ns1:N-0000-004161 .
+ns1:N-0000-004162	ns0:carbohydrate-network	ns1:N-0000-004164 ,
+		ns1:N-0000-004165 ,
+		ns1:N-0000-004163 .
+ns1:N-0000-004163	ns0:carbohydrate-network	ns1:N-0000-004178 .
+ns1:N-0000-004164	ns0:carbohydrate-network	ns1:N-0000-004179 .
+ns1:N-0000-004165	ns0:carbohydrate-network	ns1:N-0000-004180 .
+ns1:N-0000-004166	ns0:carbohydrate-network	ns1:N-0000-004167 ,
+		ns1:N-0000-004168 ,
+		ns1:N-0000-004169 .
+ns1:N-0000-004167	ns0:carbohydrate-network	ns1:N-0000-004181 .
+ns1:N-0000-004168	ns0:carbohydrate-network	ns1:N-0000-004182 .
+ns1:N-0000-004169	ns0:carbohydrate-network	ns1:N-0000-004183 .
+ns1:N-0000-004170	ns0:carbohydrate-network	ns1:N-0000-004171 ,
+		ns1:N-0000-004172 ,
+		ns1:N-0000-004173 .
+ns1:N-0000-004171	ns0:carbohydrate-network	ns1:N-0000-004184 .
+ns1:N-0000-004172	ns0:carbohydrate-network	ns1:N-0000-004185 .
+ns1:N-0000-004173	ns0:carbohydrate-network	ns1:N-0000-004186 .
+ns1:N-0000-004174	ns0:carbohydrate-network	ns1:N-0000-004175 ,
+		ns1:N-0000-004176 ,
+		ns1:N-0000-004177 .
+ns1:N-0000-004175	ns0:carbohydrate-network	ns1:N-0000-004187 .
+ns1:N-0000-004176	ns0:carbohydrate-network	ns1:N-0000-004188 .
+ns1:N-0000-004177	ns0:carbohydrate-network	ns1:N-0000-004189 .
+ns1:N-0000-004190	ns0:carbohydrate-network	ns1:N-0000-004192 .
+ns1:N-0000-004191	ns0:carbohydrate-network	ns1:N-0000-004192 .
+ns1:N-0000-004192	ns0:carbohydrate-network	ns1:N-0000-004193 .
+ns1:N-0000-004193	ns0:carbohydrate-network	ns1:N-0000-004202 ,
+		ns1:N-0000-004204 .
+ns1:N-0000-004194	ns0:carbohydrate-network	ns1:N-0000-004196 ,
+		ns1:N-0000-004197 .
+ns1:N-0000-004195	ns0:carbohydrate-network	ns1:N-0000-004196 ,
+		ns1:N-0000-004197 ,
+		ns1:N-0000-004360 .
+ns1:N-0000-004197	ns0:carbohydrate-network	ns1:N-0000-004204 ,
+		ns1:N-0000-004200 ,
+		ns1:N-0000-004199 .
+ns1:N-0000-004198	ns0:carbohydrate-network	ns1:N-0000-004204 ,
+		ns1:N-0000-004196 ,
+		ns1:N-0000-004197 .
+ns1:N-0000-004201	ns0:carbohydrate-network	ns1:N-0000-004202 .
+ns1:N-0000-004202	ns0:carbohydrate-network	ns1:N-0000-004203 .
+ns1:N-0000-004203	ns0:carbohydrate-network	ns1:N-0000-004219 ,
+		ns1:N-0000-004204 .
+ns1:N-0000-004204	ns0:carbohydrate-network	ns1:N-0000-004206 .
+ns1:N-0000-004205	ns0:carbohydrate-network	ns1:N-0000-004204 .
+ns1:N-0000-004206	ns0:carbohydrate-network	ns1:N-0000-004224 .
+ns1:N-0000-004207	ns0:carbohydrate-network	ns1:N-0000-004208 .
+ns1:N-0000-004208	ns0:carbohydrate-network	ns1:N-0000-004210 .
+ns1:N-0000-004210	ns0:carbohydrate-network	ns1:N-0000-004211 .
+ns1:N-0000-004211	ns0:carbohydrate-network	ns1:N-0000-004212 .
+ns1:N-0000-004212	ns0:carbohydrate-network	ns1:N-0000-004214 ,
+		ns1:N-0000-004215 .
+ns1:N-0000-004213	ns0:carbohydrate-network	ns1:N-0000-004214 ,
+		ns1:N-0000-004215 .
+ns1:N-0000-004215	ns0:carbohydrate-network	ns1:N-0000-004216 ,
+		ns1:N-0000-004217 .
+ns1:N-0000-004217	ns0:carbohydrate-network	ns1:N-0000-004218 .
+ns1:N-0000-004218	ns0:carbohydrate-network	ns1:N-0000-004219 .
+ns1:N-0000-004219	ns0:carbohydrate-network	ns1:N-0000-004220 .
+ns1:N-0000-004220	ns0:carbohydrate-network	ns1:N-0000-004226 .
+ns1:N-0000-004224	ns0:carbohydrate-network	ns1:N-0000-004227 .
+ns1:N-0000-004226	ns0:carbohydrate-network	ns1:N-0000-004228 .
+ns1:N-0000-004227	ns0:carbohydrate-network	ns1:N-0000-004229 .
+ns1:N-0000-004230	ns0:carbohydrate-network	ns1:N-0000-000033 ,
+		ns1:N-0000-000034 .
+ns1:N-0000-004233	ns0:carbohydrate-network	ns1:N-0000-004234 .
+ns1:N-0000-004235	ns0:carbohydrate-network	ns1:N-0000-004236 .
+ns1:N-0000-004237	ns0:carbohydrate-network	ns1:N-0000-004240 ,
+		ns1:N-0000-004241 ,
+		ns1:N-0000-004239 .
+ns1:N-0000-004242	ns0:carbohydrate-network	ns1:N-0000-004244 ,
+		ns1:N-0000-004243 .
+ns1:N-0000-004245	ns0:carbohydrate-network	ns1:N-0000-004248 ,
+		ns1:N-0000-004249 ,
+		ns1:N-0000-004247 .
+ns1:N-0000-004251	ns0:carbohydrate-network	ns1:N-0000-004252 ,
+		ns1:N-0000-004253 .
+ns1:N-0000-004254	ns0:carbohydrate-network	ns1:N-0000-004255 .
+ns1:N-0000-004256	ns0:carbohydrate-network	ns1:N-0000-004257 ,
+		ns1:N-0000-004258 .
+ns1:N-0000-004259	ns0:carbohydrate-network	ns1:N-0000-004261 ,
+		ns1:N-0000-004262 .
+ns1:N-0000-004260	ns0:carbohydrate-network	ns1:N-0000-004261 ,
+		ns1:N-0000-004262 .
+ns1:N-0000-004262	ns0:carbohydrate-network	ns1:N-0000-004264 .
+ns1:N-0000-004263	ns0:carbohydrate-network	ns1:N-0000-004264 .
+ns1:N-0000-004265	ns0:carbohydrate-network	ns1:N-0000-004266 .
+ns1:N-0000-004267	ns0:carbohydrate-network	ns1:N-0000-004268 ,
+		ns1:N-0000-004269 .
+ns1:N-0000-004270	ns0:carbohydrate-network	ns1:N-0000-004271 ,
+		ns1:N-0000-004272 .
+ns1:N-0000-004273	ns0:carbohydrate-network	ns1:N-0000-004274 ,
+		ns1:N-0000-004275 .
+ns1:N-0000-004276	ns0:carbohydrate-network	ns1:N-0000-004285 ,
+		ns1:N-0000-004278 .
+ns1:N-0000-004279	ns0:carbohydrate-network	ns1:N-0000-004280 ,
+		ns1:N-0000-004281 .
+ns1:N-0000-004286	ns0:carbohydrate-network	ns1:N-0000-004287 .
+ns1:N-0000-004288	ns0:carbohydrate-network	ns1:N-0000-004289 ,
+		ns1:N-0000-004290 .
+ns1:N-0000-004291	ns0:carbohydrate-network	ns1:N-0000-004292 ,
+		ns1:N-0000-004293 .
+ns1:N-0000-004294	ns0:carbohydrate-network	ns1:N-0000-004288 .
+ns1:N-0000-004295	ns0:carbohydrate-network	ns1:N-0000-004297 .
+ns1:N-0000-004296	ns0:carbohydrate-network	ns1:N-0000-004297 .
+ns1:N-0000-004298	ns0:carbohydrate-network	ns1:N-0000-004300 .
+ns1:N-0000-004299	ns0:carbohydrate-network	ns1:N-0000-004300 .
+ns1:N-0000-004301	ns0:carbohydrate-network	ns1:N-0000-004303 .
+ns1:N-0000-004303	ns0:carbohydrate-network	ns1:N-0000-004307 .
+ns1:N-0000-004304	ns0:carbohydrate-network	ns1:N-0000-004305 .
+ns1:N-0000-004305	ns0:carbohydrate-network	ns1:N-0000-004308 .
+ns1:N-0000-004307	ns0:carbohydrate-network	ns1:N-0000-004309 .
+ns1:N-0000-004308	ns0:carbohydrate-network	ns1:N-0000-004310 ,
+		ns1:N-0000-004311 ,
+		ns1:N-0000-004939 .
+ns1:N-0000-004309	ns0:carbohydrate-network	ns1:N-0000-004337 ,
+		ns1:N-0000-004339 ,
+		ns1:N-0000-004340 ,
+		ns1:N-0000-004333 ,
+		ns1:N-0000-004334 ,
+		ns1:N-0000-004336 ,
+		ns1:N-0000-004341 ,
+		ns1:N-0000-004342 ,
+		ns1:N-0000-004320 ,
+		ns1:N-0000-004321 ,
+		ns1:N-0000-004317 ,
+		ns1:N-0000-004318 ,
+		ns1:N-0000-004319 ,
+		ns1:N-0000-004329 ,
+		ns1:N-0000-004331 ,
+		ns1:N-0000-004332 ,
+		ns1:N-0000-004326 ,
+		ns1:N-0000-004327 ,
+		ns1:N-0000-004328 ,
+		ns1:N-0000-004314 ,
+		ns1:N-0000-004315 .
+ns1:N-0000-004310	ns0:carbohydrate-network	ns1:N-0000-004350 ,
+		ns1:N-0000-004351 ,
+		ns1:N-0000-004352 ,
+		ns1:N-0000-004343 ,
+		ns1:N-0000-004345 ,
+		ns1:N-0000-004346 ,
+		ns1:N-0000-004348 ,
+		ns1:N-0000-004325 .
+ns1:N-0000-004311	ns0:carbohydrate-network	ns1:N-0000-004312 .
+ns1:N-0000-004312	ns0:carbohydrate-network	ns1:N-0000-004353 .
+ns1:N-0000-004317	ns0:carbohydrate-network	ns1:N-0000-004318 ,
+		ns1:N-0000-004319 .
+ns1:N-0000-004321	ns0:carbohydrate-network	ns1:N-0000-004317 .
+ns1:N-0000-004323	ns0:carbohydrate-network	ns1:N-0000-004325 ,
+		ns1:N-0000-004324 .
+ns1:N-0000-004324	ns0:carbohydrate-network	ns1:N-0000-004325 .
+ns1:N-0000-004330	ns0:carbohydrate-network	ns1:N-0000-004331 ,
+		ns1:N-0000-004332 .
+ns1:N-0000-004347	ns0:carbohydrate-network	ns1:N-0000-004348 .
+ns1:N-0000-004349	ns0:carbohydrate-network	ns1:N-0000-004350 .
+ns1:N-0000-004355	ns0:carbohydrate-network	ns1:N-0000-004356 .
+ns1:N-0000-004356	ns0:carbohydrate-network	ns1:N-0000-004358 ,
+		ns1:N-0000-004362 .
+ns1:N-0000-004357	ns0:carbohydrate-network	ns1:N-0000-004358 ,
+		ns1:N-0000-005124 ,
+		ns1:N-0000-004649 .
+ns1:N-0000-004358	ns0:carbohydrate-network	ns1:N-0000-004369 .
+ns1:N-0000-004360	ns0:carbohydrate-network	ns1:N-0000-004361 .
+ns1:N-0000-004361	ns0:carbohydrate-network	ns1:N-0000-004362 ,
+		ns1:N-0000-004364 .
+ns1:N-0000-004362	ns0:carbohydrate-network	ns1:N-0000-004363 .
+ns1:N-0000-004363	ns0:carbohydrate-network	ns1:N-0000-004364 .
+ns1:N-0000-004364	ns0:carbohydrate-network	ns1:N-0000-004365 .
+ns1:N-0000-004365	ns0:carbohydrate-network	ns1:N-0000-004367 .
+ns1:N-0000-004366	ns0:carbohydrate-network	ns1:N-0000-004367 ,
+		ns1:N-0000-004371 .
+ns1:N-0000-004367	ns0:carbohydrate-network	ns1:N-0000-004372 .
+ns1:N-0000-004368	ns0:carbohydrate-network	ns1:N-0000-004369 .
+ns1:N-0000-004369	ns0:carbohydrate-network	ns1:N-0000-004370 ,
+		ns1:N-0000-004371 .
+ns1:N-0000-004371	ns0:carbohydrate-network	ns1:N-0000-004372 .
+ns1:N-0000-004372	ns0:carbohydrate-network	ns1:N-0000-004373 .
+ns1:N-0000-004373	ns0:carbohydrate-network	ns1:N-0000-004374 .
+ns1:N-0000-004374	ns0:carbohydrate-network	ns1:N-0000-004376 .
+ns1:N-0000-004376	ns0:carbohydrate-network	ns1:N-0000-004378 .
+ns1:N-0000-004378	ns0:carbohydrate-network	ns1:N-0000-004379 .
+ns1:N-0000-004383	ns0:carbohydrate-network	ns1:N-0000-004384 ,
+		ns1:N-0000-004385 .
+ns1:N-0000-004384	ns0:carbohydrate-network	ns1:N-0000-004389 ,
+		ns1:N-0000-004390 .
+ns1:N-0000-004385	ns0:carbohydrate-network	ns1:N-0000-004389 ,
+		ns1:N-0000-004390 .
+ns1:N-0000-004389	ns0:carbohydrate-network	ns1:N-0000-004391 ,
+		ns1:N-0000-004392 ,
+		ns1:N-0000-004393 .
+ns1:N-0000-004390	ns0:carbohydrate-network	ns1:N-0000-004391 ,
+		ns1:N-0000-004392 ,
+		ns1:N-0000-004393 .
+ns1:N-0000-004391	ns0:carbohydrate-network	ns1:N-0000-004394 .
+ns1:N-0000-004392	ns0:carbohydrate-network	ns1:N-0000-004395 .
+ns1:N-0000-004394	ns0:carbohydrate-network	ns1:N-0000-004395 .
+ns1:N-0000-004396	ns0:carbohydrate-network	ns1:N-0000-004397 .
+ns1:N-0000-004397	ns0:carbohydrate-network	ns1:N-0000-004399 ,
+		ns1:N-0000-004398 .
+ns1:N-0000-004398	ns0:carbohydrate-network	ns1:N-0000-004400 ,
+		ns1:N-0000-004401 .
+ns1:N-0000-004399	ns0:carbohydrate-network	ns1:N-0000-004400 ,
+		ns1:N-0000-004401 .
+ns1:N-0000-004400	ns0:carbohydrate-network	ns1:N-0000-004402 .
+ns1:N-0000-004401	ns0:carbohydrate-network	ns1:N-0000-004402 .
+ns1:N-0000-004402	ns0:carbohydrate-network	ns1:N-0000-004403 .
+ns1:N-0000-004422	ns0:carbohydrate-network	ns1:N-0000-004424 ,
+		ns1:N-0000-004425 .
+ns1:N-0000-004425	ns0:carbohydrate-network	ns1:N-0000-004427 .
+ns1:N-0000-004427	ns0:carbohydrate-network	ns1:N-0000-004960 ,
+		ns1:N-0000-004428 .
+ns1:N-0000-004428	ns0:carbohydrate-network	ns1:N-0000-004433 ,
+		ns1:N-0000-004431 .
+ns1:N-0000-004431	ns0:carbohydrate-network	ns1:N-0000-004434 .
+ns1:N-0000-004433	ns0:carbohydrate-network	ns1:N-0000-004435 .
+ns1:N-0000-004436	ns0:carbohydrate-network	ns1:N-0000-004437 .
+ns1:N-0000-004438	ns0:carbohydrate-network	ns1:N-0000-005115 .
+ns1:N-0000-004442	ns0:carbohydrate-network	ns1:N-0000-005116 ,
+		ns1:N-0000-005079 .
+ns1:N-0000-004445	ns0:carbohydrate-network	ns1:N-0000-005116 ,
+		ns1:N-0000-005079 .
+ns1:N-0000-004453	ns0:carbohydrate-network	ns1:N-0000-005122 .
+ns1:N-0000-004456	ns0:carbohydrate-network	ns1:N-0000-004459 ,
+		ns1:N-0000-004473 ,
+		ns1:N-0000-004474 ,
+		ns1:N-0000-004477 ,
+		ns1:N-0000-004961 ,
+		ns1:N-0000-005130 .
+ns1:N-0000-004462	ns0:carbohydrate-network	ns1:N-0000-004459 ,
+		ns1:N-0000-004464 ,
+		ns1:N-0000-005130 .
+ns1:N-0000-004465	ns0:carbohydrate-network	ns1:N-0000-004467 .
+ns1:N-0000-004467	ns0:carbohydrate-network	ns1:N-0000-004468 .
+ns1:N-0000-004468	ns0:carbohydrate-network	ns1:N-0000-004456 .
+ns1:N-0000-004476	ns0:carbohydrate-network	ns1:N-0000-004477 .
+ns1:N-0000-004478	ns0:carbohydrate-network	ns1:N-0000-005130 .
+ns1:N-0000-004479	ns0:carbohydrate-network	ns1:N-0000-004522 ,
+		ns1:N-0000-004528 ,
+		ns1:N-0000-004527 ,
+		ns1:N-0000-004481 ,
+		ns1:N-0000-004487 ,
+		ns1:N-0000-004489 .
+ns1:N-0000-004481	ns0:carbohydrate-network	ns1:N-0000-004482 .
+ns1:N-0000-004482	ns0:carbohydrate-network	ns1:N-0000-004484 ,
+		ns1:N-0000-004505 .
+ns1:N-0000-004483	ns0:carbohydrate-network	ns1:N-0000-004484 ,
+		ns1:N-0000-004485 ,
+		ns1:N-0000-004490 .
+ns1:N-0000-004485	ns0:carbohydrate-network	ns1:N-0000-004486 .
+ns1:N-0000-004486	ns0:carbohydrate-network	ns1:N-0000-004502 ,
+		ns1:N-0000-004487 .
+ns1:N-0000-004489	ns0:carbohydrate-network	ns1:N-0000-004491 .
+ns1:N-0000-004490	ns0:carbohydrate-network	ns1:N-0000-004492 ,
+		ns1:N-0000-004490 .
+ns1:N-0000-004491	ns0:carbohydrate-network	ns1:N-0000-004494 ,
+		ns1:N-0000-004495 ,
+		ns1:N-0000-004501 .
+ns1:N-0000-004493	ns0:carbohydrate-network	ns1:N-0000-004494 ,
+		ns1:N-0000-004483 ,
+		ns1:N-0000-004495 ,
+		ns1:N-0000-004497 .
+ns1:N-0000-004496	ns0:carbohydrate-network	ns1:N-0000-004499 ,
+		ns1:N-0000-004497 .
+ns1:N-0000-004498	ns0:carbohydrate-network	ns1:N-0000-004499 .
+ns1:N-0000-004499	ns0:carbohydrate-network	ns1:N-0000-004502 .
+ns1:N-0000-004500	ns0:carbohydrate-network	ns1:N-0000-004501 .
+ns1:N-0000-004502	ns0:carbohydrate-network	ns1:N-0000-004503 .
+ns1:N-0000-004503	ns0:carbohydrate-network	ns1:N-0000-004504 .
+ns1:N-0000-004504	ns0:carbohydrate-network	ns1:N-0000-004505 .
+ns1:N-0000-004505	ns0:carbohydrate-network	ns1:N-0000-004506 .
+ns1:N-0000-004506	ns0:carbohydrate-network	ns1:N-0000-004507 .
+ns1:N-0000-004508	ns0:carbohydrate-network	ns1:N-0000-004509 .
+ns1:N-0000-004510	ns0:carbohydrate-network	ns1:N-0000-004511 .
+ns1:N-0000-004511	ns0:carbohydrate-network	ns1:N-0000-002494 ,
+		ns1:N-0000-004522 ,
+		ns1:N-0000-004527 ,
+		ns1:N-0000-004528 .
+ns1:N-0000-004515	ns0:carbohydrate-network	ns1:N-0000-004966 .
+ns1:N-0000-004519	ns0:carbohydrate-network	ns1:N-0000-004524 ,
+		ns1:N-0000-004521 ,
+		ns1:N-0000-004522 .
+ns1:N-0000-004520	ns0:carbohydrate-network	ns1:N-0000-004521 ,
+		ns1:N-0000-004522 ,
+		ns1:N-0000-004524 ,
+		ns1:N-0000-004526 ,
+		ns1:N-0000-004527 ,
+		ns1:N-0000-004528 .
+ns1:N-0000-004523	ns0:carbohydrate-network	ns1:N-0000-004524 ,
+		ns1:N-0000-004521 ,
+		ns1:N-0000-004522 .
+ns1:N-0000-004525	ns0:carbohydrate-network	ns1:N-0000-004522 ,
+		ns1:N-0000-004526 .
+ns1:N-0000-004529	ns0:carbohydrate-network	ns1:N-0000-002494 ,
+		ns1:N-0000-004527 .
+ns1:N-0000-004544	ns0:carbohydrate-network	ns1:N-0000-005006 .
+ns1:N-0000-004561	ns0:carbohydrate-network	ns1:N-0000-004981 ,
+		ns1:N-0000-004562 ,
+		ns1:N-0000-004563 .
+ns1:N-0000-004572	ns0:carbohydrate-network	ns1:N-0000-004573 .
+ns1:N-0000-004573	ns0:carbohydrate-network	ns1:N-0000-004574 .
+ns1:N-0000-004574	ns0:carbohydrate-network	ns1:N-0000-004575 .
+ns1:N-0000-004575	ns0:carbohydrate-network	ns1:N-0000-004579 .
+ns1:N-0000-004579	ns0:carbohydrate-network	ns1:N-0000-004580 .
+ns1:N-0000-004580	ns0:carbohydrate-network	ns1:N-0000-004581 .
+ns1:N-0000-004581	ns0:carbohydrate-network	ns1:N-0000-004582 .
+ns1:N-0000-004582	ns0:carbohydrate-network	ns1:N-0000-004584 .
+ns1:N-0000-004592	ns0:carbohydrate-network	ns1:N-0000-004593 .
+ns1:N-0000-004593	ns0:carbohydrate-network	ns1:N-0000-004594 .
+ns1:N-0000-004594	ns0:carbohydrate-network	ns1:N-0000-004596 .
+ns1:N-0000-004595	ns0:carbohydrate-network	ns1:N-0000-004596 .
+ns1:N-0000-004596	ns0:carbohydrate-network	ns1:N-0000-004599 .
+ns1:N-0000-004599	ns0:carbohydrate-network	ns1:N-0000-004600 .
+ns1:N-0000-004600	ns0:carbohydrate-network	ns1:N-0000-004601 .
+ns1:N-0000-004602	ns0:carbohydrate-network	ns1:N-0000-004603 .
+ns1:N-0000-004603	ns0:carbohydrate-network	ns1:N-0000-004609 ,
+		ns1:N-0000-004605 ,
+		ns1:N-0000-004607 .
+ns1:N-0000-004605	ns0:carbohydrate-network	ns1:N-0000-004610 .
+ns1:N-0000-004607	ns0:carbohydrate-network	ns1:N-0000-004611 .
+ns1:N-0000-004609	ns0:carbohydrate-network	ns1:N-0000-004614 .
+ns1:N-0000-004611	ns0:carbohydrate-network	ns1:N-0000-004613 .
+ns1:N-0000-004613	ns0:carbohydrate-network	ns1:N-0000-004612 .
+ns1:N-0000-004615	ns0:carbohydrate-network	ns1:N-0000-004617 .
+ns1:N-0000-004616	ns0:carbohydrate-network	ns1:N-0000-004617 .
+ns1:N-0000-004617	ns0:carbohydrate-network	ns1:N-0000-004618 .
+ns1:N-0000-004618	ns0:carbohydrate-network	ns1:N-0000-004625 .
+ns1:N-0000-004619	ns0:carbohydrate-network	ns1:N-0000-004623 .
+ns1:N-0000-004624	ns0:carbohydrate-network	ns1:N-0000-004625 .
+ns1:N-0000-004625	ns0:carbohydrate-network	ns1:N-0000-004626 .
+ns1:N-0000-004626	ns0:carbohydrate-network	ns1:N-0000-004627 .
+ns1:N-0000-004627	ns0:carbohydrate-network	ns1:N-0000-004628 .
+ns1:N-0000-004645	ns0:carbohydrate-network	ns1:N-0000-004646 .
+ns1:N-0000-004646	ns0:carbohydrate-network	ns1:N-0000-004658 .
+ns1:N-0000-004647	ns0:carbohydrate-network	ns1:N-0000-004648 .
+ns1:N-0000-004648	ns0:carbohydrate-network	ns1:N-0000-004649 .
+ns1:N-0000-004649	ns0:carbohydrate-network	ns1:N-0000-004652 .
+ns1:N-0000-004652	ns0:carbohydrate-network	ns1:N-0000-004996 .
+ns1:N-0000-004653	ns0:carbohydrate-network	ns1:N-0000-004656 .
+ns1:N-0000-004657	ns0:carbohydrate-network	ns1:N-0000-004659 ,
+		ns1:N-0000-004645 .
+ns1:N-0000-004658	ns0:carbohydrate-network	ns1:N-0000-004661 .
+ns1:N-0000-004659	ns0:carbohydrate-network	ns1:N-0000-004660 .
+ns1:N-0000-004660	ns0:carbohydrate-network	ns1:N-0000-004661 .
+ns1:N-0000-004661	ns0:carbohydrate-network	ns1:N-0000-004662 .
+ns1:N-0000-004662	ns0:carbohydrate-network	ns1:N-0000-004663 .
+ns1:N-0000-004663	ns0:carbohydrate-network	ns1:N-0000-004664 .
+ns1:N-0000-004668	ns0:carbohydrate-network	ns1:N-0000-004669 .
+ns1:N-0000-004672	ns0:carbohydrate-network	ns1:N-0000-004706 ,
+		ns1:N-0000-005092 .
+ns1:N-0000-004676	ns0:carbohydrate-network	ns1:N-0000-004677 .
+ns1:N-0000-004677	ns0:carbohydrate-network	ns1:N-0000-004678 .
+ns1:N-0000-004678	ns0:carbohydrate-network	ns1:N-0000-004682 ,
+		ns1:N-0000-004999 .
+ns1:N-0000-004679	ns0:carbohydrate-network	ns1:N-0000-004999 .
+ns1:N-0000-004680	ns0:carbohydrate-network	ns1:N-0000-004683 ,
+		ns1:N-0000-004685 .
+ns1:N-0000-004681	ns0:carbohydrate-network	ns1:N-0000-004682 .
+ns1:N-0000-004682	ns0:carbohydrate-network	ns1:N-0000-004687 ,
+		ns1:N-0000-004697 .
+ns1:N-0000-004683	ns0:carbohydrate-network	ns1:N-0000-004689 .
+ns1:N-0000-004685	ns0:carbohydrate-network	ns1:N-0000-004691 .
+ns1:N-0000-004687	ns0:carbohydrate-network	ns1:N-0000-004690 .
+ns1:N-0000-004689	ns0:carbohydrate-network	ns1:N-0000-004692 .
+ns1:N-0000-004690	ns0:carbohydrate-network	ns1:N-0000-004693 .
+ns1:N-0000-004691	ns0:carbohydrate-network	ns1:N-0000-004694 .
+ns1:N-0000-004692	ns0:carbohydrate-network	ns1:N-0000-004695 .
+ns1:N-0000-004693	ns0:carbohydrate-network	ns1:N-0000-004696 .
+ns1:N-0000-004697	ns0:carbohydrate-network	ns1:N-0000-004699 .
+ns1:N-0000-004698	ns0:carbohydrate-network	ns1:N-0000-004699 .
+ns1:N-0000-004699	ns0:carbohydrate-network	ns1:N-0000-004700 .
+ns1:N-0000-004700	ns0:carbohydrate-network	ns1:N-0000-004701 .
+ns1:N-0000-004701	ns0:carbohydrate-network	ns1:N-0000-004702 .
+ns1:N-0000-004702	ns0:carbohydrate-network	ns1:N-0000-004703 .
+ns1:N-0000-004703	ns0:carbohydrate-network	ns1:N-0000-004704 .
+ns1:N-0000-004706	ns0:carbohydrate-network	ns1:N-0000-004707 .
+ns1:N-0000-004707	ns0:carbohydrate-network	ns1:N-0000-004708 .
+ns1:N-0000-004708	ns0:carbohydrate-network	ns1:N-0000-004709 .
+ns1:N-0000-004710	ns0:carbohydrate-network	ns1:N-0000-004711 .
+ns1:N-0000-004711	ns0:carbohydrate-network	ns1:N-0000-004712 .
+ns1:N-0000-004712	ns0:carbohydrate-network	ns1:N-0000-004713 .
+ns1:N-0000-004713	ns0:carbohydrate-network	ns1:N-0000-004714 .
+ns1:N-0000-004714	ns0:carbohydrate-network	ns1:N-0000-004716 .
+ns1:N-0000-004716	ns0:carbohydrate-network	ns1:N-0000-004717 .
+ns1:N-0000-004717	ns0:carbohydrate-network	ns1:N-0000-004719 .
+ns1:N-0000-004719	ns0:carbohydrate-network	ns1:N-0000-004721 .
+ns1:N-0000-004721	ns0:carbohydrate-network	ns1:N-0000-004723 .
+ns1:N-0000-004723	ns0:carbohydrate-network	ns1:N-0000-004724 .
+ns1:N-0000-004746	ns0:carbohydrate-network	ns1:N-0000-005010 .
+ns1:N-0000-004759	ns0:carbohydrate-network	ns1:N-0000-004760 .
+ns1:N-0000-004760	ns0:carbohydrate-network	ns1:N-0000-004765 ,
+		ns1:N-0000-004762 .
+ns1:N-0000-004762	ns0:carbohydrate-network	ns1:N-0000-004764 .
+ns1:N-0000-004763	ns0:carbohydrate-network	ns1:N-0000-004764 .
+ns1:N-0000-004764	ns0:carbohydrate-network	ns1:N-0000-004770 .
+ns1:N-0000-004765	ns0:carbohydrate-network	ns1:N-0000-004766 .
+ns1:N-0000-004766	ns0:carbohydrate-network	ns1:N-0000-004767 .
+ns1:N-0000-004767	ns0:carbohydrate-network	ns1:N-0000-004768 .
+ns1:N-0000-004768	ns0:carbohydrate-network	ns1:N-0000-004769 .
+ns1:N-0000-004771	ns0:carbohydrate-network	ns1:N-0000-004772 .
+ns1:N-0000-004772	ns0:carbohydrate-network	ns1:N-0000-004773 .
+ns1:N-0000-004773	ns0:carbohydrate-network	ns1:N-0000-004774 .
+ns1:N-0000-004774	ns0:carbohydrate-network	ns1:N-0000-004775 .
+ns1:N-0000-004783	ns0:carbohydrate-network	ns1:N-0000-005094 .
+ns1:N-0000-004787	ns0:carbohydrate-network	ns1:N-0000-004788 ,
+		ns1:N-0000-004789 .
+ns1:N-0000-004788	ns0:carbohydrate-network	ns1:N-0000-004791 .
+ns1:N-0000-004789	ns0:carbohydrate-network	ns1:N-0000-005018 .
+ns1:N-0000-004791	ns0:carbohydrate-network	ns1:N-0000-005019 .
+ns1:N-0000-004810	ns0:carbohydrate-network	ns1:N-0000-004813 .
+ns1:N-0000-004811	ns0:carbohydrate-network	ns1:N-0000-004815 .
+ns1:N-0000-004812	ns0:carbohydrate-network	ns1:N-0000-004814 .
+ns1:N-0000-004816	ns0:carbohydrate-network	ns1:N-0000-004818 ,
+		ns1:N-0000-004819 ,
+		ns1:N-0000-004823 .
+ns1:N-0000-004818	ns0:carbohydrate-network	ns1:N-0000-004820 .
+ns1:N-0000-004819	ns0:carbohydrate-network	ns1:N-0000-004821 .
+ns1:N-0000-004820	ns0:carbohydrate-network	ns1:N-0000-004824 .
+ns1:N-0000-004821	ns0:carbohydrate-network	ns1:N-0000-004825 .
+ns1:N-0000-004822	ns0:carbohydrate-network	ns1:N-0000-004823 ,
+		ns1:N-0000-004824 ,
+		ns1:N-0000-004825 .
+ns1:N-0000-004826	ns0:carbohydrate-network	ns1:N-0000-004827 ,
+		ns1:N-0000-004830 .
+ns1:N-0000-004827	ns0:carbohydrate-network	ns1:N-0000-004828 .
+ns1:N-0000-004828	ns0:carbohydrate-network	ns1:N-0000-004834 ,
+		ns1:N-0000-004838 .
+ns1:N-0000-004829	ns0:carbohydrate-network	ns1:N-0000-004834 ,
+		ns1:N-0000-004830 .
+ns1:N-0000-004830	ns0:carbohydrate-network	ns1:N-0000-004831 .
+ns1:N-0000-004831	ns0:carbohydrate-network	ns1:N-0000-004832 .
+ns1:N-0000-004832	ns0:carbohydrate-network	ns1:N-0000-004833 .
+ns1:N-0000-004834	ns0:carbohydrate-network	ns1:N-0000-004835 .
+ns1:N-0000-004835	ns0:carbohydrate-network	ns1:N-0000-004836 .
+ns1:N-0000-004837	ns0:carbohydrate-network	ns1:N-0000-004838 .
+ns1:N-0000-004838	ns0:carbohydrate-network	ns1:N-0000-004839 .
+ns1:N-0000-004839	ns0:carbohydrate-network	ns1:N-0000-004840 .
+ns1:N-0000-004845	ns0:carbohydrate-network	ns1:N-0000-005100 .
+ns1:N-0000-004853	ns0:carbohydrate-network	ns1:N-0000-005103 .
+ns1:N-0000-004960	ns0:carbohydrate-network	ns1:N-0000-004431 ,
+		ns1:N-0000-004433 .
+ns1:N-0000-004963	ns0:carbohydrate-network	ns1:N-0000-005106 ,
+		ns1:N-0000-004964 .
+ns1:N-0000-004964	ns0:carbohydrate-network	ns1:N-0000-004965 .
+ns1:N-0000-004967	ns0:carbohydrate-network	ns1:N-0000-004968 .
+ns1:N-0000-004969	ns0:carbohydrate-network	ns1:N-0000-005002 ,
+		ns1:N-0000-004988 ,
+		ns1:N-0000-004985 ,
+		ns1:N-0000-004987 .
+ns1:N-0000-004971	ns0:carbohydrate-network	ns1:N-0000-004544 .
+ns1:N-0000-004972	ns0:carbohydrate-network	ns1:N-0000-004563 ,
+		ns1:N-0000-005009 ,
+		ns1:N-0000-005006 ,
+		ns1:N-0000-004988 .
+ns1:N-0000-004973	ns0:carbohydrate-network	ns1:N-0000-005005 .
+ns1:N-0000-004975	ns0:carbohydrate-network	ns1:N-0000-004977 ,
+		ns1:N-0000-004981 ,
+		ns1:N-0000-004985 ,
+		ns1:N-0000-004986 .
+ns1:N-0000-004979	ns0:carbohydrate-network	ns1:N-0000-004971 .
+ns1:N-0000-004982	ns0:carbohydrate-network	ns1:N-0000-004562 ,
+		ns1:N-0000-004569 ,
+		ns1:N-0000-004987 .
+ns1:N-0000-004983	ns0:carbohydrate-network	ns1:N-0000-005002 .
+ns1:N-0000-004990	ns0:carbohydrate-network	ns1:N-0000-004991 .
+ns1:N-0000-004992	ns0:carbohydrate-network	ns1:N-0000-004993 .
+ns1:N-0000-004993	ns0:carbohydrate-network	ns1:N-0000-004638 .
+ns1:N-0000-004994	ns0:carbohydrate-network	ns1:N-0000-004995 .
+ns1:N-0000-005003	ns0:carbohydrate-network	ns1:N-0000-005004 .
+ns1:N-0000-005004	ns0:carbohydrate-network	ns1:N-0000-004973 .
+ns1:N-0000-005005	ns0:carbohydrate-network	ns1:N-0000-005007 .
+ns1:N-0000-005006	ns0:carbohydrate-network	ns1:N-0000-005003 .
+ns1:N-0000-005007	ns0:carbohydrate-network	ns1:N-0000-005008 .
+ns1:N-0000-005010	ns0:carbohydrate-network	ns1:N-0000-005011 .
+ns1:N-0000-005011	ns0:carbohydrate-network	ns1:N-0000-005012 .
+ns1:N-0000-005012	ns0:carbohydrate-network	ns1:N-0000-004758 .
+ns1:N-0000-005013	ns0:carbohydrate-network	ns1:N-0000-005014 .
+ns1:N-0000-005014	ns0:carbohydrate-network	ns1:N-0000-005015 .
+ns1:N-0000-005015	ns0:carbohydrate-network	ns1:N-0000-005016 .
+ns1:N-0000-005016	ns0:carbohydrate-network	ns1:N-0000-004783 .
+ns1:N-0000-005017	ns0:carbohydrate-network	ns1:N-0000-004787 .
+ns1:N-0000-005018	ns0:carbohydrate-network	ns1:N-0000-005020 .
+ns1:N-0000-005019	ns0:carbohydrate-network	ns1:N-0000-005027 .
+ns1:N-0000-005020	ns0:carbohydrate-network	ns1:N-0000-005028 .
+ns1:N-0000-005027	ns0:carbohydrate-network	ns1:N-0000-005029 .
+ns1:N-0000-005028	ns0:carbohydrate-network	ns1:N-0000-005030 .
+ns1:N-0000-005029	ns0:carbohydrate-network	ns1:N-0000-005033 .
+ns1:N-0000-005030	ns0:carbohydrate-network	ns1:N-0000-005031 .
+ns1:N-0000-005031	ns0:carbohydrate-network	ns1:N-0000-005035 ,
+		ns1:N-0000-005032 .
+ns1:N-0000-005032	ns0:carbohydrate-network	ns1:N-0000-005036 .
+ns1:N-0000-005033	ns0:carbohydrate-network	ns1:N-0000-005037 .
+ns1:N-0000-005035	ns0:carbohydrate-network	ns1:N-0000-005038 .
+ns1:N-0000-005036	ns0:carbohydrate-network	ns1:N-0000-005039 .
+ns1:N-0000-005037	ns0:carbohydrate-network	ns1:N-0000-005040 .
+ns1:N-0000-005038	ns0:carbohydrate-network	ns1:N-0000-004810 .
+ns1:N-0000-005039	ns0:carbohydrate-network	ns1:N-0000-004811 .
+ns1:N-0000-005040	ns0:carbohydrate-network	ns1:N-0000-004812 .
+ns1:N-0000-005041	ns0:carbohydrate-network	ns1:N-0000-005097 .
+ns1:N-0000-005055	ns0:carbohydrate-network	ns1:N-0000-005057 ,
+		ns1:N-0000-005061 .
+ns1:N-0000-005079	ns0:carbohydrate-network	ns1:N-0000-005119 .
+ns1:N-0000-005080	ns0:carbohydrate-network	ns1:N-0000-004992 .
+ns1:N-0000-005085	ns0:carbohydrate-network	ns1:N-0000-004572 .
+ns1:N-0000-005091	ns0:carbohydrate-network	ns1:N-0000-005092 .
+ns1:N-0000-005092	ns0:carbohydrate-network	ns1:N-0000-005093 .
+ns1:N-0000-005093	ns0:carbohydrate-network	ns1:N-0000-004676 .
+ns1:N-0000-005094	ns0:carbohydrate-network	ns1:N-0000-005095 .
+ns1:N-0000-005095	ns0:carbohydrate-network	ns1:N-0000-005020 ,
+		ns1:N-0000-005027 .
+ns1:N-0000-005096	ns0:carbohydrate-network	ns1:N-0000-005097 .
+ns1:N-0000-005097	ns0:carbohydrate-network	ns1:N-0000-005099 ,
+		ns1:N-0000-005100 .
+ns1:N-0000-005100	ns0:carbohydrate-network	ns1:N-0000-005101 ,
+		ns1:N-0000-005102 ,
+		ns1:N-0000-005105 .
+ns1:N-0000-005101	ns0:carbohydrate-network	ns1:N-0000-004848 .
+ns1:N-0000-005102	ns0:carbohydrate-network	ns1:N-0000-005103 .
+ns1:N-0000-005103	ns0:carbohydrate-network	ns1:N-0000-005104 .
+ns1:N-0000-005104	ns0:carbohydrate-network	ns1:N-0000-004856 .
+ns1:N-0000-005105	ns0:carbohydrate-network	ns1:N-0000-004853 .
+ns1:N-0000-005106	ns0:carbohydrate-network	ns1:N-0000-003633 ,
+		ns1:N-0000-003637 .
+ns1:N-0000-005107	ns0:carbohydrate-network	ns1:N-0000-003639 .
+ns1:N-0000-005109	ns0:carbohydrate-network	ns1:N-0000-004509 ,
+		ns1:N-0000-004966 ,
+		ns1:N-0000-005110 ,
+		ns1:N-0000-005111 .
+ns1:N-0000-005110	ns0:carbohydrate-network	ns1:N-0000-003649 .
+ns1:N-0000-005111	ns0:carbohydrate-network	ns1:N-0000-003653 .
+ns1:N-0000-005112	ns0:carbohydrate-network	ns1:N-0000-005113 .
+ns1:N-0000-005113	ns0:carbohydrate-network	ns1:N-0000-003661 .
+ns1:N-0000-005114	ns0:carbohydrate-network	ns1:N-0000-005115 ,
+		ns1:N-0000-005116 ,
+		ns1:N-0000-005079 .
+ns1:N-0000-005119	ns0:carbohydrate-network	ns1:N-0000-005120 .
+ns1:N-0000-005120	ns0:carbohydrate-network	ns1:N-0000-005128 ,
+		ns1:N-0000-005121 .
+ns1:N-0000-005121	ns0:carbohydrate-network	ns1:N-0000-005122 .
+ns1:N-0000-005122	ns0:carbohydrate-network	ns1:N-0000-005129 .
+ns1:N-0000-005123	ns0:carbohydrate-network	ns1:N-0000-005124 .
+ns1:N-0000-005124	ns0:carbohydrate-network	ns1:N-0000-005125 .
+ns1:N-0000-005125	ns0:carbohydrate-network	ns1:N-0000-005126 .
+ns1:N-0000-005126	ns0:carbohydrate-network	ns1:N-0000-005127 .
+ns1:N-0000-005127	ns0:carbohydrate-network	ns1:N-0000-004668 .
+ns1:N-0000-005131	ns0:carbohydrate-network	ns1:N-0000-005132 .
+ns1:N-0000-005132	ns0:carbohydrate-network	ns1:N-0000-005132 .
+ns1:N-0000-005137	ns0:carbohydrate-network	ns1:N-0000-005163 ,
+		ns1:N-0000-005139 ,
+		ns1:N-0000-005140 .
+ns1:N-0000-005138	ns0:carbohydrate-network	ns1:N-0000-005139 ,
+		ns1:N-0000-005140 .
+ns1:N-0000-005140	ns0:carbohydrate-network	ns1:N-0000-005141 .
+ns1:N-0000-005141	ns0:carbohydrate-network	ns1:N-0000-005151 ,
+		ns1:N-0000-005150 .
+ns1:N-0000-005142	ns0:carbohydrate-network	ns1:N-0000-005144 ,
+		ns1:N-0000-005145 .
+ns1:N-0000-005143	ns0:carbohydrate-network	ns1:N-0000-005144 ,
+		ns1:N-0000-005145 .
+ns1:N-0000-005145	ns0:carbohydrate-network	ns1:N-0000-005146 .
+ns1:N-0000-005146	ns0:carbohydrate-network	ns1:N-0000-005148 .
+ns1:N-0000-005147	ns0:carbohydrate-network	ns1:N-0000-005148 ,
+		ns1:N-0000-005162 .
+ns1:N-0000-005148	ns0:carbohydrate-network	ns1:N-0000-005149 .
+ns1:N-0000-005149	ns0:carbohydrate-network	ns1:N-0000-005151 ,
+		ns1:N-0000-005150 .
+ns1:N-0000-005151	ns0:carbohydrate-network	ns1:N-0000-005152 .
+ns1:N-0000-005152	ns0:carbohydrate-network	ns1:N-0000-005154 .
+ns1:N-0000-005153	ns0:carbohydrate-network	ns1:N-0000-005154 .
+ns1:N-0000-005154	ns0:carbohydrate-network	ns1:N-0000-005155 .
+ns1:N-0000-005155	ns0:carbohydrate-network	ns1:N-0000-005156 .
+ns1:N-0000-005157	ns0:carbohydrate-network	ns1:N-0000-005159 .
+ns1:N-0000-005159	ns0:carbohydrate-network	ns1:N-0000-005131 .
+ns1:N-0000-005160	ns0:carbohydrate-network	ns1:N-0000-005161 .
+ns1:N-0000-005161	ns0:carbohydrate-network	ns1:N-0000-005147 ,
+		ns1:N-0000-005138 .
+ns1:N-0000-005162	ns0:carbohydrate-network	ns1:N-0000-005142 .
+ns1:N-0000-005163	ns0:carbohydrate-network	ns1:N-0000-005143 .
+ns1:N-0000-005164	ns0:carbohydrate-network	ns1:N-0000-005166 ,
+		ns1:N-0000-005169 ,
+		ns1:N-0000-005183 .
+ns1:N-0000-005165	ns0:carbohydrate-network	ns1:N-0000-005166 .
+ns1:N-0000-005167	ns0:carbohydrate-network	ns1:N-0000-005166 .
+ns1:N-0000-005168	ns0:carbohydrate-network	ns1:N-0000-005169 .
+ns1:N-0000-005169	ns0:carbohydrate-network	ns1:N-0000-005171 ,
+		ns1:N-0000-005173 .
+ns1:N-0000-005170	ns0:carbohydrate-network	ns1:N-0000-005171 .
+ns1:N-0000-005171	ns0:carbohydrate-network	ns1:N-0000-005172 ,
+		ns1:N-0000-005174 .
+ns1:N-0000-005172	ns0:carbohydrate-network	ns1:N-0000-005173 .
+ns1:N-0000-005174	ns0:carbohydrate-network	ns1:N-0000-005175 .
+ns1:N-0000-005175	ns0:carbohydrate-network	ns1:N-0000-005176 .
+ns1:N-0000-005176	ns0:carbohydrate-network	ns1:N-0000-005177 .
+ns1:N-0000-005178	ns0:carbohydrate-network	ns1:N-0000-005179 .
+ns1:N-0000-005179	ns0:carbohydrate-network	ns1:N-0000-005180 .
+ns1:N-0000-005181	ns0:carbohydrate-network	ns1:N-0000-005182 .
+ns1:N-0000-005183	ns0:carbohydrate-network	ns1:N-0000-005184 ,
+		ns1:N-0000-005185 ,
+		ns1:N-0000-005196 .
+ns1:N-0000-005184	ns0:carbohydrate-network	ns1:N-0000-005188 .
+ns1:N-0000-005185	ns0:carbohydrate-network	ns1:N-0000-005186 .
+ns1:N-0000-005186	ns0:carbohydrate-network	ns1:N-0000-005187 .
+ns1:N-0000-005187	ns0:carbohydrate-network	ns1:N-0000-005188 .
+ns1:N-0000-005189	ns0:carbohydrate-network	ns1:N-0000-005190 ,
+		ns1:N-0000-005191 ,
+		ns1:N-0000-005196 .
+ns1:N-0000-005191	ns0:carbohydrate-network	ns1:N-0000-005192 .
+ns1:N-0000-005192	ns0:carbohydrate-network	ns1:N-0000-005193 .
+ns1:N-0000-005193	ns0:carbohydrate-network	ns1:N-0000-005195 .
+ns1:N-0000-005194	ns0:carbohydrate-network	ns1:N-0000-005195 ,
+		ns1:N-0000-005188 .
+ns1:N-0000-005196	ns0:carbohydrate-network	ns1:N-0000-005197 .
+ns1:N-0000-005197	ns0:carbohydrate-network	ns1:N-0000-005199 .
+ns1:N-0000-005199	ns0:carbohydrate-network	ns1:N-0000-005199 ,
+		ns1:N-0000-005200 .
+ns1:N-0000-005200	ns0:carbohydrate-network	ns1:N-0000-005201 .
+ns1:N-0000-005202	ns0:carbohydrate-network	ns1:N-0000-005203 .
+ns1:N-0000-005203	ns0:carbohydrate-network	ns1:N-0000-005204 .
+ns1:N-0000-005204	ns0:carbohydrate-network	ns1:N-0000-005205 .
+ns1:N-0000-005205	ns0:carbohydrate-network	ns1:N-0000-005206 .
+ns1:N-0000-005206	ns0:carbohydrate-network	ns1:N-0000-005207 .
+ns1:N-0000-005208	ns0:carbohydrate-network	ns1:N-0000-005209 .
+ns1:N-0000-005209	ns0:carbohydrate-network	ns1:N-0000-005210 .
+ns1:N-0000-005210	ns0:carbohydrate-network	ns1:N-0000-005204 .
+ns1:N-0000-005222	ns0:carbohydrate-network	ns1:N-0000-002420 ,
+		ns1:N-0000-005229 .
+ns1:N-0000-005223	ns0:carbohydrate-network	ns1:N-0000-005224 ,
+		ns1:N-0000-005238 .
+ns1:N-0000-005225	ns0:carbohydrate-network	ns1:N-0000-005239 ,
+		ns1:N-0000-005226 .
+ns1:N-0000-005231	ns0:carbohydrate-network	ns1:N-0000-002416 .
+ns1:N-0000-005232	ns0:carbohydrate-network	ns1:N-0000-005239 ,
+		ns1:N-0000-005233 .
+ns1:N-0000-005234	ns0:carbohydrate-network	ns1:N-0000-005235 ,
+		ns1:N-0000-005237 .
+ns1:N-0000-005236	ns0:carbohydrate-network	ns1:N-0000-005237 ,
+		ns1:N-0000-005238 ,
+		ns1:N-0000-005239 .
+ns1:N-0000-005240	ns0:carbohydrate-network	ns1:N-0000-005244 ,
+		ns1:N-0000-005245 ,
+		ns1:N-0000-005241 .
+ns1:N-0000-005242	ns0:carbohydrate-network	ns1:N-0000-005241 .
+ns1:N-0000-005243	ns0:carbohydrate-network	ns1:N-0000-005269 ,
+		ns1:N-0000-005244 .
+ns1:N-0000-005244	ns0:carbohydrate-network	ns1:N-0000-005245 ,
+		ns1:N-0000-005249 .
+ns1:N-0000-005246	ns0:carbohydrate-network	ns1:N-0000-005247 .
+ns1:N-0000-005248	ns0:carbohydrate-network	ns1:N-0000-005259 ,
+		ns1:N-0000-005249 .
+ns1:N-0000-005249	ns0:carbohydrate-network	ns1:N-0000-005250 ,
+		ns1:N-0000-005254 .
+ns1:N-0000-005250	ns0:carbohydrate-network	ns1:N-0000-005263 ,
+		ns1:N-0000-005251 .
+ns1:N-0000-005251	ns0:carbohydrate-network	ns1:N-0000-005253 .
+ns1:N-0000-005253	ns0:carbohydrate-network	ns1:N-0000-005248 .
+ns1:N-0000-005254	ns0:carbohydrate-network	ns1:N-0000-005256 .
+ns1:N-0000-005256	ns0:carbohydrate-network	ns1:N-0000-005257 .
+ns1:N-0000-005257	ns0:carbohydrate-network	ns1:N-0000-005265 ,
+		ns1:N-0000-005258 .
+ns1:N-0000-005258	ns0:carbohydrate-network	ns1:N-0000-005248 ,
+		ns1:N-0000-005267 .
+ns1:N-0000-005259	ns0:carbohydrate-network	ns1:N-0000-005260 .
+ns1:N-0000-005260	ns0:carbohydrate-network	ns1:N-0000-005261 .
+ns1:N-0000-005261	ns0:carbohydrate-network	ns1:N-0000-005262 .
+ns1:N-0000-005263	ns0:carbohydrate-network	ns1:N-0000-005264 .
+ns1:N-0000-005264	ns0:carbohydrate-network	ns1:N-0000-005267 .
+ns1:N-0000-005265	ns0:carbohydrate-network	ns1:N-0000-005266 .
+ns1:N-0000-005266	ns0:carbohydrate-network	ns1:N-0000-005268 .
+ns1:N-0000-005267	ns0:carbohydrate-network	ns1:N-0000-005268 .
+ns1:N-0000-005269	ns0:carbohydrate-network	ns1:N-0000-005270 .
+ns1:N-0000-005270	ns0:carbohydrate-network	ns1:N-0000-005240 .
+ns1:N-0000-005273	ns0:carbohydrate-network	ns1:N-0000-005240 .
+ns1:N-0000-005275	ns0:carbohydrate-network	ns1:N-0000-005289 .
+ns1:N-0000-005276	ns0:carbohydrate-network	ns1:N-0000-005277 .
+ns1:N-0000-005277	ns0:carbohydrate-network	ns1:N-0000-005291 .
+ns1:N-0000-005278	ns0:carbohydrate-network	ns1:N-0000-005279 .
+ns1:N-0000-005279	ns0:carbohydrate-network	ns1:N-0000-005299 .
+ns1:N-0000-005280	ns0:carbohydrate-network	ns1:N-0000-005281 .
+ns1:N-0000-005281	ns0:carbohydrate-network	ns1:N-0000-005301 .
+ns1:N-0000-005282	ns0:carbohydrate-network	ns1:N-0000-005284 .
+ns1:N-0000-005283	ns0:carbohydrate-network	ns1:N-0000-005284 .
+ns1:N-0000-005284	ns0:carbohydrate-network	ns1:N-0000-005285 .
+ns1:N-0000-005285	ns0:carbohydrate-network	ns1:N-0000-005287 .
+ns1:N-0000-005286	ns0:carbohydrate-network	ns1:N-0000-005287 .
+ns1:N-0000-005287	ns0:carbohydrate-network	ns1:N-0000-005288 .
+ns1:N-0000-005288	ns0:carbohydrate-network	ns1:N-0000-005289 ,
+		ns1:N-0000-005299 .
+ns1:N-0000-005289	ns0:carbohydrate-network	ns1:N-0000-005290 .
+ns1:N-0000-005290	ns0:carbohydrate-network	ns1:N-0000-005291 .
+ns1:N-0000-005291	ns0:carbohydrate-network	ns1:N-0000-005292 .
+ns1:N-0000-005293	ns0:carbohydrate-network	ns1:N-0000-005296 ,
+		ns1:N-0000-005294 ,
+		ns1:N-0000-005306 .
+ns1:N-0000-005294	ns0:carbohydrate-network	ns1:N-0000-005306 .
+ns1:N-0000-005296	ns0:carbohydrate-network	ns1:N-0000-005297 .
+ns1:N-0000-005297	ns0:carbohydrate-network	ns1:N-0000-005306 ,
+		ns1:N-0000-005298 .
+ns1:N-0000-005298	ns0:carbohydrate-network	ns1:N-0000-005306 .
+ns1:N-0000-005299	ns0:carbohydrate-network	ns1:N-0000-005300 .
+ns1:N-0000-005300	ns0:carbohydrate-network	ns1:N-0000-005301 .
+ns1:N-0000-005301	ns0:carbohydrate-network	ns1:N-0000-005302 .
+ns1:N-0000-005302	ns0:carbohydrate-network	ns1:N-0000-005304 .
+ns1:N-0000-005303	ns0:carbohydrate-network	ns1:N-0000-005304 ,
+		ns1:N-0000-005306 .
+ns1:N-0000-005304	ns0:carbohydrate-network	ns1:N-0000-005305 .
+ns1:N-0000-005305	ns0:carbohydrate-network	ns1:N-0000-005306 .
+ns1:N-0000-005307	ns0:carbohydrate-network	ns1:N-0000-005308 .
+ns1:N-0000-005308	ns0:carbohydrate-network	ns1:N-0000-005309 .
+ns1:N-0000-005309	ns0:carbohydrate-network	ns1:N-0000-005310 .
+ns1:N-0000-005310	ns0:carbohydrate-network	ns1:N-0000-005311 .
+ns1:N-0000-005312	ns0:carbohydrate-network	ns1:N-0000-005306 .
+ns1:N-0000-005314	ns0:carbohydrate-network	ns1:N-0000-005315 .
+ns1:N-0000-005315	ns0:carbohydrate-network	ns1:N-0000-005317 ,
+		ns1:N-0000-005318 .
+ns1:N-0000-005317	ns0:carbohydrate-network	ns1:N-0000-005319 .
+ns1:N-0000-005319	ns0:carbohydrate-network	ns1:N-0000-005320 .
+ns1:N-0000-005320	ns0:carbohydrate-network	ns1:N-0000-005321 .
+ns1:N-0000-005321	ns0:carbohydrate-network	ns1:N-0000-005343 .
+ns1:N-0000-005322	ns0:carbohydrate-network	ns1:N-0000-005325 ,
+		ns1:N-0000-005326 .
+ns1:N-0000-005324	ns0:carbohydrate-network	ns1:N-0000-005325 ,
+		ns1:N-0000-005326 .
+ns1:N-0000-005326	ns0:carbohydrate-network	ns1:N-0000-005327 ,
+		ns1:N-0000-005328 .
+ns1:N-0000-005327	ns0:carbohydrate-network	ns1:N-0000-005330 .
+ns1:N-0000-005328	ns0:carbohydrate-network	ns1:N-0000-005333 .
+ns1:N-0000-005329	ns0:carbohydrate-network	ns1:N-0000-005335 ,
+		ns1:N-0000-005330 .
+ns1:N-0000-005330	ns0:carbohydrate-network	ns1:N-0000-005331 .
+ns1:N-0000-005331	ns0:carbohydrate-network	ns1:N-0000-005335 .
+ns1:N-0000-005332	ns0:carbohydrate-network	ns1:N-0000-005333 ,
+		ns1:N-0000-005335 .
+ns1:N-0000-005333	ns0:carbohydrate-network	ns1:N-0000-005334 ,
+		ns1:N-0000-005341 .
+ns1:N-0000-005336	ns0:carbohydrate-network	ns1:N-0000-005335 .
+ns1:N-0000-005337	ns0:carbohydrate-network	ns1:N-0000-005335 ,
+		ns1:N-0000-005339 ,
+		ns1:N-0000-005340 .
+ns1:N-0000-005338	ns0:carbohydrate-network	ns1:N-0000-005347 ,
+		ns1:N-0000-005339 ,
+		ns1:N-0000-005340 .
+ns1:N-0000-005341	ns0:carbohydrate-network	ns1:N-0000-005342 .
+ns1:N-0000-005342	ns0:carbohydrate-network	ns1:N-0000-005343 .
+ns1:N-0000-005343	ns0:carbohydrate-network	ns1:N-0000-005344 .
+ns1:N-0000-005344	ns0:carbohydrate-network	ns1:N-0000-005346 .
+ns1:N-0000-005345	ns0:carbohydrate-network	ns1:N-0000-005346 .
+ns1:N-0000-005346	ns0:carbohydrate-network	ns1:N-0000-005347 .
+ns1:N-0000-005347	ns0:carbohydrate-network	ns1:N-0000-005347 ,
+		ns1:N-0000-005348 .
+ns1:N-0000-005348	ns0:carbohydrate-network	ns1:N-0000-005349 .
+ns1:N-0000-005349	ns0:carbohydrate-network	ns1:N-0000-005350 .
+ns1:N-0000-005350	ns0:carbohydrate-network	ns1:N-0000-005351 .
+ns1:N-0000-005351	ns0:carbohydrate-network	ns1:N-0000-005353 ,
+		ns1:N-0000-005355 .
+ns1:N-0000-005356	ns0:carbohydrate-network	ns1:N-0000-005358 .
+ns1:N-0000-005358	ns0:carbohydrate-network	ns1:N-0000-005360 .
+ns1:N-0000-005360	ns0:carbohydrate-network	ns1:N-0000-005314 .
+ns1:N-0000-005361	ns0:carbohydrate-network	ns1:N-0000-005363 .
+ns1:N-0000-005363	ns0:carbohydrate-network	ns1:N-0000-005365 .
+ns1:N-0000-005365	ns0:carbohydrate-network	ns1:N-0000-005367 .
+ns1:N-0000-005366	ns0:carbohydrate-network	ns1:N-0000-005371 ,
+		ns1:N-0000-005374 ,
+		ns1:N-0000-005367 .
+ns1:N-0000-005367	ns0:carbohydrate-network	ns1:N-0000-005368 .
+ns1:N-0000-005368	ns0:carbohydrate-network	ns1:N-0000-005369 .
+ns1:N-0000-005369	ns0:carbohydrate-network	ns1:N-0000-005378 .
+ns1:N-0000-005370	ns0:carbohydrate-network	ns1:N-0000-005371 .
+ns1:N-0000-005371	ns0:carbohydrate-network	ns1:N-0000-005372 .
+ns1:N-0000-005372	ns0:carbohydrate-network	ns1:N-0000-005373 .
+ns1:N-0000-005373	ns0:carbohydrate-network	ns1:N-0000-005384 .
+ns1:N-0000-005374	ns0:carbohydrate-network	ns1:N-0000-005375 .
+ns1:N-0000-005375	ns0:carbohydrate-network	ns1:N-0000-005376 .
+ns1:N-0000-005376	ns0:carbohydrate-network	ns1:N-0000-005388 .
+ns1:N-0000-005377	ns0:carbohydrate-network	ns1:N-0000-005384 ,
+		ns1:N-0000-005388 ,
+		ns1:N-0000-005378 .
+ns1:N-0000-005378	ns0:carbohydrate-network	ns1:N-0000-005380 .
+ns1:N-0000-005380	ns0:carbohydrate-network	ns1:N-0000-005395 ,
+		ns1:N-0000-005392 ,
+		ns1:N-0000-005382 .
+ns1:N-0000-005382	ns0:carbohydrate-network	ns1:N-0000-005383 .
+ns1:N-0000-005384	ns0:carbohydrate-network	ns1:N-0000-005385 .
+ns1:N-0000-005385	ns0:carbohydrate-network	ns1:N-0000-005386 .
+ns1:N-0000-005386	ns0:carbohydrate-network	ns1:N-0000-005387 .
+ns1:N-0000-005388	ns0:carbohydrate-network	ns1:N-0000-005389 .
+ns1:N-0000-005389	ns0:carbohydrate-network	ns1:N-0000-005390 .
+ns1:N-0000-005390	ns0:carbohydrate-network	ns1:N-0000-005391 .
+ns1:N-0000-005392	ns0:carbohydrate-network	ns1:N-0000-005393 .
+ns1:N-0000-005395	ns0:carbohydrate-network	ns1:N-0000-005396 .
+ns1:N-0000-005396	ns0:carbohydrate-network	ns1:N-0000-005398 ,
+		ns1:N-0000-005403 ,
+		ns1:N-0000-005401 .
+ns1:N-0000-005404	ns0:carbohydrate-network	ns1:N-0000-005405 .
+ns1:N-0000-005406	ns0:carbohydrate-network	ns1:N-0000-005407 .
+ns1:N-0000-005407	ns0:carbohydrate-network	ns1:N-0000-005207 .
+ns1:N-0000-005408	ns0:carbohydrate-network	ns1:N-0000-005409 .
+ns1:N-0000-005409	ns0:carbohydrate-network	ns1:N-0000-005410 .
+ns1:N-0000-005410	ns0:carbohydrate-network	ns1:N-0000-005411 .
+ns1:N-0000-005411	ns0:carbohydrate-network	ns1:N-0000-005412 .
+ns1:N-0000-005412	ns0:carbohydrate-network	ns1:N-0000-005413 .
+ns1:N-0000-005413	ns0:carbohydrate-network	ns1:N-0000-005414 .
+ns1:N-0000-005415	ns0:carbohydrate-network	ns1:N-0000-005416 .
+ns1:N-0000-005416	ns0:carbohydrate-network	ns1:N-0000-005417 .
+ns1:N-0000-005418	ns0:carbohydrate-network	ns1:N-0000-005419 .
+ns1:N-0000-005419	ns0:carbohydrate-network	ns1:N-0000-005164 ,
+		ns1:N-0000-005183 .
+ns1:N-0000-005420	ns0:carbohydrate-network	ns1:N-0000-005422 .
+ns1:N-0000-005421	ns0:carbohydrate-network	ns1:N-0000-005183 ,
+		ns1:N-0000-005426 ,
+		ns1:N-0000-005428 ,
+		ns1:N-0000-005430 ,
+		ns1:N-0000-005422 .
+ns1:N-0000-005423	ns0:carbohydrate-network	ns1:N-0000-005422 .
+ns1:N-0000-005424	ns0:carbohydrate-network	ns1:N-0000-005422 .
+ns1:N-0000-005425	ns0:carbohydrate-network	ns1:N-0000-005426 .
+ns1:N-0000-005427	ns0:carbohydrate-network	ns1:N-0000-005428 .
+ns1:N-0000-005429	ns0:carbohydrate-network	ns1:N-0000-005430 .
+ns1:N-0000-005431	ns0:carbohydrate-network	ns1:N-0000-005183 .
+ns1:N-0000-005432	ns0:carbohydrate-network	ns1:N-0000-005183 .
+ns1:N-0000-005433	ns0:carbohydrate-network	ns1:N-0000-005183 .
+ns1:N-0000-005434	ns0:carbohydrate-network	ns1:N-0000-005183 .
+ns1:N-0000-005435	ns0:carbohydrate-network	ns1:N-0000-005436 ,
+		ns1:N-0000-005465 ,
+		ns1:N-0000-005466 .
+ns1:N-0000-005437	ns0:carbohydrate-network	ns1:N-0000-005438 .
+ns1:N-0000-005439	ns0:carbohydrate-network	ns1:N-0000-000143 ,
+		ns1:N-0000-000144 ,
+		ns1:N-0000-005440 .
+ns1:N-0000-005441	ns0:carbohydrate-network	ns1:N-0000-005442 .
+ns1:N-0000-005443	ns0:carbohydrate-network	ns1:N-0000-005444 ,
+		ns1:N-0000-005445 ,
+		ns1:N-0000-005480 .
+ns1:N-0000-005446	ns0:carbohydrate-network	ns1:N-0000-005447 ,
+		ns1:N-0000-005448 ,
+		ns1:N-0000-005513 .
+ns1:N-0000-005449	ns0:carbohydrate-network	ns1:N-0000-005450 ,
+		ns1:N-0000-005451 .
+ns1:N-0000-005452	ns0:carbohydrate-network	ns1:N-0000-005478 ,
+		ns1:N-0000-005480 ,
+		ns1:N-0000-005444 ,
+		ns1:N-0000-005445 .
+ns1:N-0000-005453	ns0:carbohydrate-network	ns1:N-0000-005455 ,
+		ns1:N-0000-005454 ,
+		ns1:N-0000-005471 ,
+		ns1:N-0000-005472 ,
+		ns1:N-0000-005477 ,
+		ns1:N-0000-005467 ,
+		ns1:N-0000-005468 ,
+		ns1:N-0000-005469 ,
+		ns1:N-0000-005470 .
+ns1:N-0000-005456	ns0:carbohydrate-network	ns1:N-0000-005478 ,
+		ns1:N-0000-005457 ,
+		ns1:N-0000-005458 .
+ns1:N-0000-005461	ns0:carbohydrate-network	ns1:N-0000-005462 ,
+		ns1:N-0000-005463 .
+ns1:N-0000-005464	ns0:carbohydrate-network	ns1:N-0000-005463 ,
+		ns1:N-0000-005462 ,
+		ns1:N-0000-005484 .
+ns1:N-0000-005473	ns0:carbohydrate-network	ns1:N-0000-005474 .
+ns1:N-0000-005475	ns0:carbohydrate-network	ns1:N-0000-005476 .
+ns1:N-0000-005479	ns0:carbohydrate-network	ns1:N-0000-005478 ,
+		ns1:N-0000-005480 .
+ns1:N-0000-005482	ns0:carbohydrate-network	ns1:N-0000-005483 .
+ns1:N-0000-005485	ns0:carbohydrate-network	ns1:N-0000-005453 ,
+		ns1:N-0000-005475 ,
+		ns1:N-0000-005495 ,
+		ns1:N-0000-005446 .
+ns1:N-0000-005487	ns0:carbohydrate-network	ns1:N-0000-005488 ,
+		ns1:N-0000-005456 .
+ns1:N-0000-005489	ns0:carbohydrate-network	ns1:N-0000-005490 .
+ns1:N-0000-005492	ns0:carbohydrate-network	ns1:N-0000-005490 ,
+		ns1:N-0000-005464 .
+ns1:N-0000-005493	ns0:carbohydrate-network	ns1:N-0000-005435 .
+ns1:N-0000-005495	ns0:carbohydrate-network	ns1:N-0000-005477 .
+ns1:N-0000-005496	ns0:carbohydrate-network	ns1:N-0000-005437 .
+ns1:N-0000-005497	ns0:carbohydrate-network	ns1:N-0000-005498 .
+ns1:N-0000-005498	ns0:carbohydrate-network	ns1:N-0000-005499 ,
+		ns1:N-0000-005480 .
+ns1:N-0000-005499	ns0:carbohydrate-network	ns1:N-0000-005500 .
+ns1:N-0000-005500	ns0:carbohydrate-network	ns1:N-0000-005480 ,
+		ns1:N-0000-005512 .
+ns1:N-0000-005501	ns0:carbohydrate-network	ns1:N-0000-005502 .
+ns1:N-0000-005502	ns0:carbohydrate-network	ns1:N-0000-005503 .
+ns1:N-0000-005504	ns0:carbohydrate-network	ns1:N-0000-005505 .
+ns1:N-0000-005505	ns0:carbohydrate-network	ns1:N-0000-005506 .
+ns1:N-0000-005506	ns0:carbohydrate-network	ns1:N-0000-005507 .
+ns1:N-0000-005507	ns0:carbohydrate-network	ns1:N-0000-005508 .
+ns1:N-0000-005508	ns0:carbohydrate-network	ns1:N-0000-005509 .
+ns1:N-0000-005510	ns0:carbohydrate-network	ns1:N-0000-005480 .
+ns1:N-0000-005511	ns0:carbohydrate-network	ns1:N-0000-001642 .
+ns1:N-0000-001261	ns0:carbohydrate-network	ns1:N-0000-002135 ,
+		ns1:N-0000-002266 ,
+		ns1:N-0000-002969 .
+ns1:N-0000-001369	ns0:carbohydrate-network	ns1:N-0000-001371 .
+ns1:N-0000-001370	ns0:carbohydrate-network	ns1:N-0000-001428 ,
+		ns1:N-0000-001401 ,
+		ns1:N-0000-001403 ,
+		ns1:N-0000-001405 ,
+		ns1:N-0000-001389 ,
+		ns1:N-0000-001390 ,
+		ns1:N-0000-001371 .
+ns1:N-0000-001371	ns0:carbohydrate-network	ns1:N-0000-001372 ,
+		ns1:N-0000-001373 .
+ns1:N-0000-001373	ns0:carbohydrate-network	ns1:N-0000-001375 ,
+		ns1:N-0000-001383 .
+ns1:N-0000-001375	ns0:carbohydrate-network	ns1:N-0000-001378 ,
+		ns1:N-0000-001380 .
+ns1:N-0000-001378	ns0:carbohydrate-network	ns1:N-0000-001381 .
+ns1:N-0000-001380	ns0:carbohydrate-network	ns1:N-0000-001382 .
+ns1:N-0000-001383	ns0:carbohydrate-network	ns1:N-0000-001385 .
+ns1:N-0000-001384	ns0:carbohydrate-network	ns1:N-0000-001385 ,
+		ns1:N-0000-001401 ,
+		ns1:N-0000-001411 .
+ns1:N-0000-001385	ns0:carbohydrate-network	ns1:N-0000-001386 .
+ns1:N-0000-001386	ns0:carbohydrate-network	ns1:N-0000-001387 .
+ns1:N-0000-001388	ns0:carbohydrate-network	ns1:N-0000-001389 ,
+		ns1:N-0000-001390 .
+ns1:N-0000-001389	ns0:carbohydrate-network	ns1:N-0000-001391 ,
+		ns1:N-0000-001392 .
+ns1:N-0000-001391	ns0:carbohydrate-network	ns1:N-0000-001393 .
+ns1:N-0000-001392	ns0:carbohydrate-network	ns1:N-0000-001394 .
+ns1:N-0000-001393	ns0:carbohydrate-network	ns1:N-0000-001396 ,
+		ns1:N-0000-001399 .
+ns1:N-0000-001394	ns0:carbohydrate-network	ns1:N-0000-001395 .
+ns1:N-0000-001395	ns0:carbohydrate-network	ns1:N-0000-001397 .
+ns1:N-0000-001396	ns0:carbohydrate-network	ns1:N-0000-001398 .
+ns1:N-0000-001399	ns0:carbohydrate-network	ns1:N-0000-001400 .
+ns1:N-0000-001401	ns0:carbohydrate-network	ns1:N-0000-001406 .
+ns1:N-0000-001402	ns0:carbohydrate-network	ns1:N-0000-001403 .
+ns1:N-0000-001404	ns0:carbohydrate-network	ns1:N-0000-001405 .
+ns1:N-0000-001406	ns0:carbohydrate-network	ns1:N-0000-001407 .
+ns1:N-0000-001407	ns0:carbohydrate-network	ns1:N-0000-001408 .
+ns1:N-0000-001409	ns0:carbohydrate-network	ns1:N-0000-001410 ,
+		ns1:N-0000-001418 .
+ns1:N-0000-001410	ns0:carbohydrate-network	ns1:N-0000-001411 .
+ns1:N-0000-001411	ns0:carbohydrate-network	ns1:N-0000-001412 .
+ns1:N-0000-001412	ns0:carbohydrate-network	ns1:N-0000-001413 ,
+		ns1:N-0000-001415 .
+ns1:N-0000-001413	ns0:carbohydrate-network	ns1:N-0000-001414 .
+ns1:N-0000-001414	ns0:carbohydrate-network	ns1:N-0000-001419 .
+ns1:N-0000-001415	ns0:carbohydrate-network	ns1:N-0000-001416 .
+ns1:N-0000-001416	ns0:carbohydrate-network	ns1:N-0000-001417 .
+ns1:N-0000-001418	ns0:carbohydrate-network	ns1:N-0000-001421 ,
+		ns1:N-0000-001420 ,
+		ns1:N-0000-001428 ,
+		ns1:N-0000-004917 .
+ns1:N-0000-001420	ns0:carbohydrate-network	ns1:N-0000-001422 .
+ns1:N-0000-001421	ns0:carbohydrate-network	ns1:N-0000-001423 .
+ns1:N-0000-001422	ns0:carbohydrate-network	ns1:N-0000-001424 .
+ns1:N-0000-001424	ns0:carbohydrate-network	ns1:N-0000-004917 .
+ns1:N-0000-001428	ns0:carbohydrate-network	ns1:N-0000-001429 .
+ns1:N-0000-001429	ns0:carbohydrate-network	ns1:N-0000-001430 .
+ns1:N-0000-001430	ns0:carbohydrate-network	ns1:N-0000-001431 .
+ns1:N-0000-001431	ns0:carbohydrate-network	ns1:N-0000-001432 ,
+		ns1:N-0000-001424 .
+ns1:N-0000-001433	ns0:carbohydrate-network	ns1:N-0000-001434 .
+ns1:N-0000-001434	ns0:carbohydrate-network	ns1:N-0000-001435 .
+ns1:N-0000-001435	ns0:carbohydrate-network	ns1:N-0000-001436 .
+ns1:N-0000-001436	ns0:carbohydrate-network	ns1:N-0000-001438 .
+ns1:N-0000-001437	ns0:carbohydrate-network	ns1:N-0000-001438 .
+ns1:N-0000-001438	ns0:carbohydrate-network	ns1:N-0000-001439 .
+ns1:N-0000-001439	ns0:carbohydrate-network	ns1:N-0000-001440 .
+ns1:N-0000-001441	ns0:carbohydrate-network	ns1:N-0000-001443 ,
+		ns1:N-0000-001449 .
+ns1:N-0000-001443	ns0:carbohydrate-network	ns1:N-0000-001445 .
+ns1:N-0000-001445	ns0:carbohydrate-network	ns1:N-0000-001446 .
+ns1:N-0000-001446	ns0:carbohydrate-network	ns1:N-0000-001447 ,
+		ns1:N-0000-001448 .
+ns1:N-0000-001447	ns0:carbohydrate-network	ns1:N-0000-001453 .
+ns1:N-0000-001448	ns0:carbohydrate-network	ns1:N-0000-001454 .
+ns1:N-0000-001449	ns0:carbohydrate-network	ns1:N-0000-001450 .
+ns1:N-0000-001450	ns0:carbohydrate-network	ns1:N-0000-001452 .
+ns1:N-0000-001452	ns0:carbohydrate-network	ns1:N-0000-001464 ,
+		ns1:N-0000-001466 ,
+		ns1:N-0000-001460 ,
+		ns1:N-0000-001462 ,
+		ns1:N-0000-001455 ,
+		ns1:N-0000-001458 .
+ns1:N-0000-001453	ns0:carbohydrate-network	ns1:N-0000-001456 .
+ns1:N-0000-001454	ns0:carbohydrate-network	ns1:N-0000-001457 .
+ns1:N-0000-001455	ns0:carbohydrate-network	ns1:N-0000-001458 .
+ns1:N-0000-001458	ns0:carbohydrate-network	ns1:N-0000-001467 .
+ns1:N-0000-001459	ns0:carbohydrate-network	ns1:N-0000-002030 ,
+		ns1:N-0000-001663 ,
+		ns1:N-0000-001460 ,
+		ns1:N-0000-002491 ,
+		ns1:N-0000-002496 ,
+		ns1:N-0000-002500 ,
+		ns1:N-0000-002504 ,
+		ns1:N-0000-002508 ,
+		ns1:N-0000-005469 ,
+		ns1:N-0000-005470 .
+ns1:N-0000-001461	ns0:carbohydrate-network	ns1:N-0000-001462 ,
+		ns1:N-0000-002298 .
+ns1:N-0000-001463	ns0:carbohydrate-network	ns1:N-0000-001464 .
+ns1:N-0000-001465	ns0:carbohydrate-network	ns1:N-0000-001466 ,
+		ns1:N-0000-003022 .
+ns1:N-0000-001467	ns0:carbohydrate-network	ns1:N-0000-001469 .
+ns1:N-0000-001468	ns0:carbohydrate-network	ns1:N-0000-001469 .
+ns1:N-0000-001469	ns0:carbohydrate-network	ns1:N-0000-001470 .
+ns1:N-0000-001470	ns0:carbohydrate-network	ns1:N-0000-001471 .
+ns1:N-0000-001472	ns0:carbohydrate-network	ns1:N-0000-001473 ,
+		ns1:N-0000-001480 ,
+		ns1:N-0000-001489 .
+ns1:N-0000-001473	ns0:carbohydrate-network	ns1:N-0000-001495 ,
+		ns1:N-0000-001496 ,
+		ns1:N-0000-001477 .
+ns1:N-0000-001474	ns0:carbohydrate-network	ns1:N-0000-001476 .
+ns1:N-0000-001476	ns0:carbohydrate-network	ns1:N-0000-001485 ,
+		ns1:N-0000-001472 .
+ns1:N-0000-001477	ns0:carbohydrate-network	ns1:N-0000-001478 .
+ns1:N-0000-001478	ns0:carbohydrate-network	ns1:N-0000-001509 ,
+		ns1:N-0000-001510 ,
+		ns1:N-0000-001501 ,
+		ns1:N-0000-001502 .
+ns1:N-0000-001480	ns0:carbohydrate-network	ns1:N-0000-001511 ,
+		ns1:N-0000-001512 .
+ns1:N-0000-001481	ns0:carbohydrate-network	ns1:N-0000-001484 ,
+		ns1:N-0000-001482 .
+ns1:N-0000-001482	ns0:carbohydrate-network	ns1:N-0000-001522 ,
+		ns1:N-0000-001513 ,
+		ns1:N-0000-001514 ,
+		ns1:N-0000-001531 ,
+		ns1:N-0000-001530 ,
+		ns1:N-0000-001523 ,
+		ns1:N-0000-001525 ,
+		ns1:N-0000-001526 ,
+		ns1:N-0000-001542 .
+ns1:N-0000-001484	ns0:carbohydrate-network	ns1:N-0000-001527 ,
+		ns1:N-0000-001528 ,
+		ns1:N-0000-001532 ,
+		ns1:N-0000-001533 ,
+		ns1:N-0000-001515 ,
+		ns1:N-0000-001516 .
+ns1:N-0000-001485	ns0:carbohydrate-network	ns1:N-0000-001487 .
+ns1:N-0000-001487	ns0:carbohydrate-network	ns1:N-0000-001488 .
+ns1:N-0000-001488	ns0:carbohydrate-network	ns1:N-0000-001517 ,
+		ns1:N-0000-001518 .
+ns1:N-0000-001489	ns0:carbohydrate-network	ns1:N-0000-001519 ,
+		ns1:N-0000-001520 .
+ns1:N-0000-001490	ns0:carbohydrate-network	ns1:N-0000-001491 .
+ns1:N-0000-001491	ns0:carbohydrate-network	ns1:N-0000-001492 .
+ns1:N-0000-001492	ns0:carbohydrate-network	ns1:N-0000-001511 ,
+		ns1:N-0000-001512 ,
+		ns1:N-0000-001513 ,
+		ns1:N-0000-001514 ,
+		ns1:N-0000-001509 ,
+		ns1:N-0000-001510 ,
+		ns1:N-0000-001519 ,
+		ns1:N-0000-001520 ,
+		ns1:N-0000-001515 ,
+		ns1:N-0000-001516 ,
+		ns1:N-0000-001517 ,
+		ns1:N-0000-001518 .
+ns1:N-0000-001493	ns0:carbohydrate-network	ns1:N-0000-001495 ,
+		ns1:N-0000-001496 .
+ns1:N-0000-001494	ns0:carbohydrate-network	ns1:N-0000-001507 ,
+		ns1:N-0000-001508 ,
+		ns1:N-0000-001504 ,
+		ns1:N-0000-001505 ,
+		ns1:N-0000-001499 ,
+		ns1:N-0000-001501 ,
+		ns1:N-0000-001502 ,
+		ns1:N-0000-001495 ,
+		ns1:N-0000-001496 ,
+		ns1:N-0000-001498 .
+ns1:N-0000-001497	ns0:carbohydrate-network	ns1:N-0000-001499 ,
+		ns1:N-0000-001498 .
+ns1:N-0000-001500	ns0:carbohydrate-network	ns1:N-0000-001501 ,
+		ns1:N-0000-001502 .
+ns1:N-0000-001503	ns0:carbohydrate-network	ns1:N-0000-001504 ,
+		ns1:N-0000-001505 .
+ns1:N-0000-001506	ns0:carbohydrate-network	ns1:N-0000-001507 ,
+		ns1:N-0000-001508 .
+ns1:N-0000-001521	ns0:carbohydrate-network	ns1:N-0000-001523 ,
+		ns1:N-0000-001522 .
+ns1:N-0000-001524	ns0:carbohydrate-network	ns1:N-0000-001527 ,
+		ns1:N-0000-001528 ,
+		ns1:N-0000-001525 ,
+		ns1:N-0000-001526 .
+ns1:N-0000-001529	ns0:carbohydrate-network	ns1:N-0000-001531 ,
+		ns1:N-0000-001532 ,
+		ns1:N-0000-001533 ,
+		ns1:N-0000-001530 .
+ns1:N-0000-001534	ns0:carbohydrate-network	ns1:N-0000-001536 .
+ns1:N-0000-001535	ns0:carbohydrate-network	ns1:N-0000-001536 .
+ns1:N-0000-001536	ns0:carbohydrate-network	ns1:N-0000-001537 .
+ns1:N-0000-001537	ns0:carbohydrate-network	ns1:N-0000-001539 .
+ns1:N-0000-001538	ns0:carbohydrate-network	ns1:N-0000-001539 .
+ns1:N-0000-001539	ns0:carbohydrate-network	ns1:N-0000-001541 .
+ns1:N-0000-001541	ns0:carbohydrate-network	ns1:N-0000-001542 .
+ns1:N-0000-001542	ns0:carbohydrate-network	ns1:N-0000-001543 .
+ns1:N-0000-001543	ns0:carbohydrate-network	ns1:N-0000-001544 .
+ns1:N-0000-001544	ns0:carbohydrate-network	ns1:N-0000-001545 .
+ns1:N-0000-001627	ns0:carbohydrate-network	ns1:N-0000-002996 .
+ns1:N-0000-001631	ns0:carbohydrate-network	ns1:N-0000-002434 ,
+		ns1:N-0000-002267 ,
+		ns1:N-0000-003619 ,
+		ns1:N-0000-004079 .
+ns1:N-0000-002009	ns0:carbohydrate-network	ns1:N-0000-003320 ,
+		ns1:N-0000-003322 ,
+		ns1:N-0000-003323 ,
+		ns1:N-0000-003317 ,
+		ns1:N-0000-003318 ,
+		ns1:N-0000-003319 ,
+		ns1:N-0000-003328 ,
+		ns1:N-0000-003327 ,
+		ns1:N-0000-002011 ,
+		ns1:N-0000-002012 .
+ns1:N-0000-002010	ns0:carbohydrate-network	ns1:N-0000-003287 ,
+		ns1:N-0000-003342 ,
+		ns1:N-0000-003344 ,
+		ns1:N-0000-002011 ,
+		ns1:N-0000-002012 ,
+		ns1:N-0000-002027 .
+ns1:N-0000-002013	ns0:carbohydrate-network	ns1:N-0000-002014 .
+ns1:N-0000-002015	ns0:carbohydrate-network	ns1:N-0000-002016 .
+ns1:N-0000-002016	ns0:carbohydrate-network	ns1:N-0000-002018 .
+ns1:N-0000-002018	ns0:carbohydrate-network	ns1:N-0000-002019 .
+ns1:N-0000-002019	ns0:carbohydrate-network	ns1:N-0000-002021 .
+ns1:N-0000-002021	ns0:carbohydrate-network	ns1:N-0000-002027 ,
+		ns1:N-0000-002029 ,
+		ns1:N-0000-002022 ,
+		ns1:N-0000-002023 ,
+		ns1:N-0000-002024 ,
+		ns1:N-0000-002025 ,
+		ns1:N-0000-002034 ,
+		ns1:N-0000-002030 ,
+		ns1:N-0000-002032 .
+ns1:N-0000-002025	ns0:carbohydrate-network	ns1:N-0000-002026 .
+ns1:N-0000-002027	ns0:carbohydrate-network	ns1:N-0000-002028 .
+ns1:N-0000-002031	ns0:carbohydrate-network	ns1:N-0000-002492 ,
+		ns1:N-0000-002493 ,
+		ns1:N-0000-002501 ,
+		ns1:N-0000-002497 ,
+		ns1:N-0000-002509 ,
+		ns1:N-0000-002505 ,
+		ns1:N-0000-005440 ,
+		ns1:N-0000-005467 ,
+		ns1:N-0000-005468 ,
+		ns1:N-0000-002032 .
+ns1:N-0000-002033	ns0:carbohydrate-network	ns1:N-0000-002034 ,
+		ns1:N-0000-003315 ,
+		ns1:N-0000-003292 .
+ns1:N-0000-002035	ns0:carbohydrate-network	ns1:N-0000-002037 ,
+		ns1:N-0000-002058 ,
+		ns1:N-0000-002059 ,
+		ns1:N-0000-002060 ,
+		ns1:N-0000-002061 ,
+		ns1:N-0000-002062 ,
+		ns1:N-0000-002063 ,
+		ns1:N-0000-002064 ,
+		ns1:N-0000-002065 .
+ns1:N-0000-002037	ns0:carbohydrate-network	ns1:N-0000-002038 .
+ns1:N-0000-002038	ns0:carbohydrate-network	ns1:N-0000-002042 .
+ns1:N-0000-002039	ns0:carbohydrate-network	ns1:N-0000-002041 .
+ns1:N-0000-002041	ns0:carbohydrate-network	ns1:N-0000-002075 .
+ns1:N-0000-002042	ns0:carbohydrate-network	ns1:N-0000-002076 .
+ns1:N-0000-002043	ns0:carbohydrate-network	ns1:N-0000-002050 ,
+		ns1:N-0000-002051 ,
+		ns1:N-0000-002053 ,
+		ns1:N-0000-002047 ,
+		ns1:N-0000-002048 ,
+		ns1:N-0000-002054 ,
+		ns1:N-0000-002056 ,
+		ns1:N-0000-002057 .
+ns1:N-0000-002047	ns0:carbohydrate-network	ns1:N-0000-002066 .
+ns1:N-0000-002050	ns0:carbohydrate-network	ns1:N-0000-002067 .
+ns1:N-0000-002053	ns0:carbohydrate-network	ns1:N-0000-002068 .
+ns1:N-0000-002056	ns0:carbohydrate-network	ns1:N-0000-002069 .
+ns1:N-0000-002058	ns0:carbohydrate-network	ns1:N-0000-002070 .
+ns1:N-0000-002060	ns0:carbohydrate-network	ns1:N-0000-002071 .
+ns1:N-0000-002062	ns0:carbohydrate-network	ns1:N-0000-002072 .
+ns1:N-0000-002064	ns0:carbohydrate-network	ns1:N-0000-002073 .
+ns1:N-0000-002066	ns0:carbohydrate-network	ns1:N-0000-002077 .
+ns1:N-0000-002067	ns0:carbohydrate-network	ns1:N-0000-002078 .
+ns1:N-0000-002068	ns0:carbohydrate-network	ns1:N-0000-002079 .
+ns1:N-0000-002069	ns0:carbohydrate-network	ns1:N-0000-002080 .
+ns1:N-0000-002070	ns0:carbohydrate-network	ns1:N-0000-002081 .
+ns1:N-0000-002071	ns0:carbohydrate-network	ns1:N-0000-002082 .
+ns1:N-0000-002072	ns0:carbohydrate-network	ns1:N-0000-002083 .
+ns1:N-0000-002073	ns0:carbohydrate-network	ns1:N-0000-002084 .
+ns1:N-0000-002074	ns0:carbohydrate-network	ns1:N-0000-002078 ,
+		ns1:N-0000-002079 ,
+		ns1:N-0000-002080 ,
+		ns1:N-0000-002081 ,
+		ns1:N-0000-002082 ,
+		ns1:N-0000-002083 ,
+		ns1:N-0000-002084 ,
+		ns1:N-0000-002075 ,
+		ns1:N-0000-002076 ,
+		ns1:N-0000-002077 .
+ns1:N-0000-002075	ns0:carbohydrate-network	ns1:N-0000-002088 .
+ns1:N-0000-002076	ns0:carbohydrate-network	ns1:N-0000-002093 .
+ns1:N-0000-002077	ns0:carbohydrate-network	ns1:N-0000-002089 .
+ns1:N-0000-002078	ns0:carbohydrate-network	ns1:N-0000-002090 .
+ns1:N-0000-002079	ns0:carbohydrate-network	ns1:N-0000-002091 .
+ns1:N-0000-002080	ns0:carbohydrate-network	ns1:N-0000-002092 .
+ns1:N-0000-002081	ns0:carbohydrate-network	ns1:N-0000-002094 .
+ns1:N-0000-002082	ns0:carbohydrate-network	ns1:N-0000-002095 .
+ns1:N-0000-002083	ns0:carbohydrate-network	ns1:N-0000-002096 .
+ns1:N-0000-002084	ns0:carbohydrate-network	ns1:N-0000-002097 .
+ns1:N-0000-002085	ns0:carbohydrate-network	ns1:N-0000-002090 ,
+		ns1:N-0000-002091 ,
+		ns1:N-0000-002092 ,
+		ns1:N-0000-002093 ,
+		ns1:N-0000-002088 ,
+		ns1:N-0000-002089 ,
+		ns1:N-0000-002094 ,
+		ns1:N-0000-002095 ,
+		ns1:N-0000-002096 ,
+		ns1:N-0000-002097 .
+ns1:N-0000-002088	ns0:carbohydrate-network	ns1:N-0000-002098 .
+ns1:N-0000-002089	ns0:carbohydrate-network	ns1:N-0000-002099 .
+ns1:N-0000-002090	ns0:carbohydrate-network	ns1:N-0000-002100 .
+ns1:N-0000-002091	ns0:carbohydrate-network	ns1:N-0000-002101 .
+ns1:N-0000-002092	ns0:carbohydrate-network	ns1:N-0000-002102 .
+ns1:N-0000-002093	ns0:carbohydrate-network	ns1:N-0000-002103 .
+ns1:N-0000-002094	ns0:carbohydrate-network	ns1:N-0000-002104 .
+ns1:N-0000-002095	ns0:carbohydrate-network	ns1:N-0000-002105 .
+ns1:N-0000-002096	ns0:carbohydrate-network	ns1:N-0000-002106 .
+ns1:N-0000-002097	ns0:carbohydrate-network	ns1:N-0000-002107 .
+ns1:N-0000-002108	ns0:carbohydrate-network	ns1:N-0000-002110 .
+ns1:N-0000-002111	ns0:carbohydrate-network	ns1:N-0000-001249 ,
+		ns1:N-0000-001261 ,
+		ns1:N-0000-002114 ,
+		ns1:N-0000-002900 ,
+		ns1:N-0000-002886 .
+ns1:N-0000-002114	ns0:carbohydrate-network	ns1:N-0000-002232 ,
+		ns1:N-0000-002237 ,
+		ns1:N-0000-002242 ,
+		ns1:N-0000-003534 ,
+		ns1:N-0000-003538 ,
+		ns1:N-0000-003499 ,
+		ns1:N-0000-003500 ,
+		ns1:N-0000-003512 ,
+		ns1:N-0000-003514 ,
+		ns1:N-0000-003516 ,
+		ns1:N-0000-003823 ,
+		ns1:N-0000-003832 .
+ns1:N-0000-002115	ns0:carbohydrate-network	ns1:N-0000-002117 .
+ns1:N-0000-002117	ns0:carbohydrate-network	ns1:N-0000-002153 .
+ns1:N-0000-002118	ns0:carbohydrate-network	ns1:N-0000-002121 .
+ns1:N-0000-002122	ns0:carbohydrate-network	ns1:N-0000-002123 ,
+		ns1:N-0000-002652 ,
+		ns1:N-0000-003015 ,
+		ns1:N-0000-003747 ,
+		ns1:N-0000-003748 .
+ns1:N-0000-002123	ns0:carbohydrate-network	ns1:N-0000-002298 ,
+		ns1:N-0000-002570 .
+ns1:N-0000-002124	ns0:carbohydrate-network	ns1:N-0000-002126 .
+ns1:N-0000-002127	ns0:carbohydrate-network	ns1:N-0000-002129 ,
+		ns1:N-0000-002353 ,
+		ns1:N-0000-002628 ,
+		ns1:N-0000-002629 .
+ns1:N-0000-002129	ns0:carbohydrate-network	ns1:N-0000-003048 .
+ns1:N-0000-002130	ns0:carbohydrate-network	ns1:N-0000-002286 .
+ns1:N-0000-002131	ns0:carbohydrate-network	ns1:N-0000-002134 .
+ns1:N-0000-002135	ns0:carbohydrate-network	ns1:N-0000-002114 ,
+		ns1:N-0000-002650 ,
+		ns1:N-0000-002986 ,
+		ns1:N-0000-002989 ,
+		ns1:N-0000-002970 ,
+		ns1:N-0000-004931 .
+ns1:N-0000-002136	ns0:carbohydrate-network	ns1:N-0000-002138 .
+ns1:N-0000-002140	ns0:carbohydrate-network	ns1:N-0000-002142 .
+ns1:N-0000-002145	ns0:carbohydrate-network	ns1:N-0000-002147 .
+ns1:N-0000-002148	ns0:carbohydrate-network	ns1:N-0000-002149 ,
+		ns1:N-0000-002150 .
+ns1:N-0000-002151	ns0:carbohydrate-network	ns1:N-0000-002156 ,
+		ns1:N-0000-002153 ,
+		ns1:N-0000-002155 ,
+		ns1:N-0000-002304 .
+ns1:N-0000-002154	ns0:carbohydrate-network	ns1:N-0000-002155 ,
+		ns1:N-0000-002156 .
+ns1:N-0000-002157	ns0:carbohydrate-network	ns1:N-0000-002159 ,
+		ns1:N-0000-003522 .
+ns1:N-0000-002158	ns0:carbohydrate-network	ns1:N-0000-002159 .
+ns1:N-0000-002160	ns0:carbohydrate-network	ns1:N-0000-002163 .
+ns1:N-0000-002161	ns0:carbohydrate-network	ns1:N-0000-002163 .
+ns1:N-0000-002164	ns0:carbohydrate-network	ns1:N-0000-002167 ,
+		ns1:N-0000-002635 .
+ns1:N-0000-002165	ns0:carbohydrate-network	ns1:N-0000-002167 .
+ns1:N-0000-002168	ns0:carbohydrate-network	ns1:N-0000-002170 .
+ns1:N-0000-002169	ns0:carbohydrate-network	ns1:N-0000-002170 ,
+		ns1:N-0000-002232 ,
+		ns1:N-0000-002381 .
+ns1:N-0000-002171	ns0:carbohydrate-network	ns1:N-0000-002173 .
+ns1:N-0000-002172	ns0:carbohydrate-network	ns1:N-0000-002173 .
+ns1:N-0000-002174	ns0:carbohydrate-network	ns1:N-0000-002176 ,
+		ns1:N-0000-002177 ,
+		ns1:N-0000-002706 .
+ns1:N-0000-002175	ns0:carbohydrate-network	ns1:N-0000-002176 ,
+		ns1:N-0000-002177 .
+ns1:N-0000-002178	ns0:carbohydrate-network	ns1:N-0000-002180 ,
+		ns1:N-0000-002181 .
+ns1:N-0000-002179	ns0:carbohydrate-network	ns1:N-0000-002180 ,
+		ns1:N-0000-002181 .
+ns1:N-0000-002182	ns0:carbohydrate-network	ns1:N-0000-001642 ,
+		ns1:N-0000-002011 ,
+		ns1:N-0000-002012 ,
+		ns1:N-0000-002468 ,
+		ns1:N-0000-003337 ,
+		ns1:N-0000-003338 ,
+		ns1:N-0000-004919 ,
+		ns1:N-0000-003340 ,
+		ns1:N-0000-003341 ,
+		ns1:N-0000-003308 ,
+		ns1:N-0000-003309 ,
+		ns1:N-0000-003068 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 .
+ns1:N-0000-002183	ns0:carbohydrate-network	ns1:N-0000-004919 .
+ns1:N-0000-002185	ns0:carbohydrate-network	ns1:N-0000-002188 .
+ns1:N-0000-002186	ns0:carbohydrate-network	ns1:N-0000-002188 ,
+		ns1:N-0000-002261 ,
+		ns1:N-0000-002258 .
+ns1:N-0000-002189	ns0:carbohydrate-network	ns1:N-0000-000072 .
+ns1:N-0000-002191	ns0:carbohydrate-network	ns1:N-0000-005481 ,
+		ns1:N-0000-005459 ,
+		ns1:N-0000-005460 ,
+		ns1:N-0000-002194 ,
+		ns1:N-0000-003311 ,
+		ns1:N-0000-003312 .
+ns1:N-0000-002192	ns0:carbohydrate-network	ns1:N-0000-002194 .
+ns1:N-0000-002195	ns0:carbohydrate-network	ns1:N-0000-002197 .
+ns1:N-0000-002198	ns0:carbohydrate-network	ns1:N-0000-003058 ,
+		ns1:N-0000-000069 ,
+		ns1:N-0000-000070 .
+ns1:N-0000-002200	ns0:carbohydrate-network	ns1:N-0000-002205 ,
+		ns1:N-0000-002203 ,
+		ns1:N-0000-002217 ,
+		ns1:N-0000-002216 .
+ns1:N-0000-002201	ns0:carbohydrate-network	ns1:N-0000-002203 .
+ns1:N-0000-002204	ns0:carbohydrate-network	ns1:N-0000-002205 ,
+		ns1:N-0000-002568 ,
+		ns1:N-0000-002274 .
+ns1:N-0000-002206	ns0:carbohydrate-network	ns1:N-0000-002208 ,
+		ns1:N-0000-002209 .
+ns1:N-0000-002207	ns0:carbohydrate-network	ns1:N-0000-002208 ,
+		ns1:N-0000-002209 .
+ns1:N-0000-002210	ns0:carbohydrate-network	ns1:N-0000-002213 ,
+		ns1:N-0000-002212 .
+ns1:N-0000-002211	ns0:carbohydrate-network	ns1:N-0000-004346 ,
+		ns1:N-0000-004333 ,
+		ns1:N-0000-004334 ,
+		ns1:N-0000-002212 ,
+		ns1:N-0000-002213 ,
+		ns1:N-0000-002403 .
+ns1:N-0000-002214	ns0:carbohydrate-network	ns1:N-0000-002216 ,
+		ns1:N-0000-002217 .
+ns1:N-0000-002218	ns0:carbohydrate-network	ns1:N-0000-002220 .
+ns1:N-0000-002219	ns0:carbohydrate-network	ns1:N-0000-002220 .
+ns1:N-0000-002221	ns0:carbohydrate-network	ns1:N-0000-003793 ,
+		ns1:N-0000-002223 .
+ns1:N-0000-002223	ns0:carbohydrate-network	ns1:N-0000-002225 ,
+		ns1:N-0000-002226 .
+ns1:N-0000-002224	ns0:carbohydrate-network	ns1:N-0000-002225 ,
+		ns1:N-0000-002226 .
+ns1:N-0000-002227	ns0:carbohydrate-network	ns1:N-0000-002229 .
+ns1:N-0000-002228	ns0:carbohydrate-network	ns1:N-0000-002229 .
+ns1:N-0000-002230	ns0:carbohydrate-network	ns1:N-0000-002231 .
+ns1:N-0000-002233	ns0:carbohydrate-network	ns1:N-0000-003519 ,
+		ns1:N-0000-003520 ,
+		ns1:N-0000-002235 ,
+		ns1:N-0000-002379 .
+ns1:N-0000-002234	ns0:carbohydrate-network	ns1:N-0000-002235 .
+ns1:N-0000-002236	ns0:carbohydrate-network	ns1:N-0000-002237 .
+ns1:N-0000-002238	ns0:carbohydrate-network	ns1:N-0000-002240 ,
+		ns1:N-0000-002587 ,
+		ns1:N-0000-002746 .
+ns1:N-0000-002239	ns0:carbohydrate-network	ns1:N-0000-002240 .
+ns1:N-0000-002240	ns0:carbohydrate-network	ns1:N-0000-002588 .
+ns1:N-0000-002243	ns0:carbohydrate-network	ns1:N-0000-003517 ,
+		ns1:N-0000-002244 .
+ns1:N-0000-002245	ns0:carbohydrate-network	ns1:N-0000-002247 .
+ns1:N-0000-002246	ns0:carbohydrate-network	ns1:N-0000-002247 .
+ns1:N-0000-002248	ns0:carbohydrate-network	ns1:N-0000-002250 .
+ns1:N-0000-002251	ns0:carbohydrate-network	ns1:N-0000-002252 .
+ns1:N-0000-002253	ns0:carbohydrate-network	ns1:N-0000-003324 ,
+		ns1:N-0000-003287 ,
+		ns1:N-0000-002254 ,
+		ns1:N-0000-002256 ,
+		ns1:N-0000-002481 .
+ns1:N-0000-002255	ns0:carbohydrate-network	ns1:N-0000-002347 ,
+		ns1:N-0000-002256 .
+ns1:N-0000-002257	ns0:carbohydrate-network	ns1:N-0000-002258 .
+ns1:N-0000-002260	ns0:carbohydrate-network	ns1:N-0000-002261 .
+ns1:N-0000-002262	ns0:carbohydrate-network	ns1:N-0000-002265 .
+ns1:N-0000-002263	ns0:carbohydrate-network	ns1:N-0000-003348 ,
+		ns1:N-0000-003349 ,
+		ns1:N-0000-003346 ,
+		ns1:N-0000-003347 ,
+		ns1:N-0000-003396 ,
+		ns1:N-0000-003397 ,
+		ns1:N-0000-003398 ,
+		ns1:N-0000-003399 ,
+		ns1:N-0000-003400 ,
+		ns1:N-0000-003401 ,
+		ns1:N-0000-003402 ,
+		ns1:N-0000-003403 ,
+		ns1:N-0000-003392 ,
+		ns1:N-0000-003393 ,
+		ns1:N-0000-003394 ,
+		ns1:N-0000-003395 ,
+		ns1:N-0000-002265 .
+ns1:N-0000-002266	ns0:carbohydrate-network	ns1:N-0000-003720 ,
+		ns1:N-0000-002992 ,
+		ns1:N-0000-002988 ,
+		ns1:N-0000-002989 ,
+		ns1:N-0000-002970 ,
+		ns1:N-0000-004932 ,
+		ns1:N-0000-002269 ,
+		ns1:N-0000-002650 ,
+		ns1:N-0000-002114 .
+ns1:N-0000-002267	ns0:carbohydrate-network	ns1:N-0000-002269 .
+ns1:N-0000-002270	ns0:carbohydrate-network	ns1:N-0000-002272 .
+ns1:N-0000-002273	ns0:carbohydrate-network	ns1:N-0000-002274 .
+ns1:N-0000-002275	ns0:carbohydrate-network	ns1:N-0000-002278 ,
+		ns1:N-0000-002279 .
+ns1:N-0000-002276	ns0:carbohydrate-network	ns1:N-0000-002278 ,
+		ns1:N-0000-002279 .
+ns1:N-0000-002280	ns0:carbohydrate-network	ns1:N-0000-002232 .
+ns1:N-0000-002281	ns0:carbohydrate-network	ns1:N-0000-002232 .
+ns1:N-0000-002282	ns0:carbohydrate-network	ns1:N-0000-002284 .
+ns1:N-0000-002283	ns0:carbohydrate-network	ns1:N-0000-002284 .
+ns1:N-0000-002285	ns0:carbohydrate-network	ns1:N-0000-003031 ,
+		ns1:N-0000-002286 .
+ns1:N-0000-002287	ns0:carbohydrate-network	ns1:N-0000-000069 ,
+		ns1:N-0000-000070 .
+ns1:N-0000-002289	ns0:carbohydrate-network	ns1:N-0000-002294 ,
+		ns1:N-0000-002291 ,
+		ns1:N-0000-002292 .
+ns1:N-0000-002290	ns0:carbohydrate-network	ns1:N-0000-002291 ,
+		ns1:N-0000-002292 .
+ns1:N-0000-002293	ns0:carbohydrate-network	ns1:N-0000-002294 .
+ns1:N-0000-002295	ns0:carbohydrate-network	ns1:N-0000-002297 .
+ns1:N-0000-002296	ns0:carbohydrate-network	ns1:N-0000-002297 .
+ns1:N-0000-002299	ns0:carbohydrate-network	ns1:N-0000-002302 .
+ns1:N-0000-002300	ns0:carbohydrate-network	ns1:N-0000-002302 .
+ns1:N-0000-002303	ns0:carbohydrate-network	ns1:N-0000-003205 ,
+		ns1:N-0000-003206 ,
+		ns1:N-0000-002304 .
+ns1:N-0000-002305	ns0:carbohydrate-network	ns1:N-0000-002307 .
+ns1:N-0000-002308	ns0:carbohydrate-network	ns1:N-0000-002310 .
+ns1:N-0000-002309	ns0:carbohydrate-network	ns1:N-0000-004297 ,
+		ns1:N-0000-002310 .
+ns1:N-0000-002311	ns0:carbohydrate-network	ns1:N-0000-002313 ,
+		ns1:N-0000-002314 .
+ns1:N-0000-002312	ns0:carbohydrate-network	ns1:N-0000-002314 ,
+		ns1:N-0000-002313 .
+ns1:N-0000-002316	ns0:carbohydrate-network	ns1:N-0000-002318 ,
+		ns1:N-0000-002319 .
+ns1:N-0000-002317	ns0:carbohydrate-network	ns1:N-0000-002318 ,
+		ns1:N-0000-002319 .
+ns1:N-0000-002320	ns0:carbohydrate-network	ns1:N-0000-002322 ,
+		ns1:N-0000-002323 .
+ns1:N-0000-002322	ns0:carbohydrate-network	ns1:N-0000-002325 .
+ns1:N-0000-002326	ns0:carbohydrate-network	ns1:N-0000-003031 ,
+		ns1:N-0000-002328 .
+ns1:N-0000-002327	ns0:carbohydrate-network	ns1:N-0000-002328 .
+ns1:N-0000-002329	ns0:carbohydrate-network	ns1:N-0000-002331 ,
+		ns1:N-0000-002332 .
+ns1:N-0000-002330	ns0:carbohydrate-network	ns1:N-0000-002331 .
+ns1:N-0000-002333	ns0:carbohydrate-network	ns1:N-0000-002335 .
+ns1:N-0000-002336	ns0:carbohydrate-network	ns1:N-0000-002337 .
+ns1:N-0000-002337	ns0:carbohydrate-network	ns1:N-0000-002339 .
+ns1:N-0000-002338	ns0:carbohydrate-network	ns1:N-0000-002339 .
+ns1:N-0000-002340	ns0:carbohydrate-network	ns1:N-0000-002342 .
+ns1:N-0000-002341	ns0:carbohydrate-network	ns1:N-0000-002342 .
+ns1:N-0000-002343	ns0:carbohydrate-network	ns1:N-0000-002344 ,
+		ns1:N-0000-002345 .
+ns1:N-0000-002346	ns0:carbohydrate-network	ns1:N-0000-002347 .
+ns1:N-0000-002348	ns0:carbohydrate-network	ns1:N-0000-002349 .
+ns1:N-0000-002350	ns0:carbohydrate-network	ns1:N-0000-002352 .
+ns1:N-0000-002351	ns0:carbohydrate-network	ns1:N-0000-002352 .
+ns1:N-0000-002354	ns0:carbohydrate-network	ns1:N-0000-002356 ,
+		ns1:N-0000-002357 .
+ns1:N-0000-002355	ns0:carbohydrate-network	ns1:N-0000-002356 ,
+		ns1:N-0000-002357 .
+ns1:N-0000-002358	ns0:carbohydrate-network	ns1:N-0000-002360 .
+ns1:N-0000-002359	ns0:carbohydrate-network	ns1:N-0000-002360 ,
+		ns1:N-0000-005049 ,
+		ns1:N-0000-005050 .
+ns1:N-0000-002361	ns0:carbohydrate-network	ns1:N-0000-002363 .
+ns1:N-0000-002364	ns0:carbohydrate-network	ns1:N-0000-002368 ,
+		ns1:N-0000-002369 .
+ns1:N-0000-002365	ns0:carbohydrate-network	ns1:N-0000-002368 ,
+		ns1:N-0000-002369 .
+ns1:N-0000-002370	ns0:carbohydrate-network	ns1:N-0000-002372 ,
+		ns1:N-0000-002373 .
+ns1:N-0000-002371	ns0:carbohydrate-network	ns1:N-0000-002372 ,
+		ns1:N-0000-002373 .
+ns1:N-0000-002374	ns0:carbohydrate-network	ns1:N-0000-002376 ,
+		ns1:N-0000-002377 .
+ns1:N-0000-002379	ns0:carbohydrate-network	ns1:N-0000-003689 .
+ns1:N-0000-002380	ns0:carbohydrate-network	ns1:N-0000-003688 ,
+		ns1:N-0000-002944 ,
+		ns1:N-0000-002381 ,
+		ns1:N-0000-002385 ,
+		ns1:N-0000-005157 .
+ns1:N-0000-002381	ns0:carbohydrate-network	ns1:N-0000-002383 .
+ns1:N-0000-002384	ns0:carbohydrate-network	ns1:N-0000-002385 .
+ns1:N-0000-002386	ns0:carbohydrate-network	ns1:N-0000-002388 .
+ns1:N-0000-002387	ns0:carbohydrate-network	ns1:N-0000-002388 .
+ns1:N-0000-002389	ns0:carbohydrate-network	ns1:N-0000-002390 ,
+		ns1:N-0000-002391 .
+ns1:N-0000-002392	ns0:carbohydrate-network	ns1:N-0000-002394 ,
+		ns1:N-0000-002395 .
+ns1:N-0000-002396	ns0:carbohydrate-network	ns1:N-0000-002397 .
+ns1:N-0000-002397	ns0:carbohydrate-network	ns1:N-0000-002399 ,
+		ns1:N-0000-002400 .
+ns1:N-0000-002398	ns0:carbohydrate-network	ns1:N-0000-002399 ,
+		ns1:N-0000-002400 .
+ns1:N-0000-002400	ns0:carbohydrate-network	ns1:N-0000-002401 .
+ns1:N-0000-002402	ns0:carbohydrate-network	ns1:N-0000-002403 .
+ns1:N-0000-002406	ns0:carbohydrate-network	ns1:N-0000-004921 ,
+		ns1:N-0000-004922 ,
+		ns1:N-0000-004924 .
+ns1:N-0000-002412	ns0:carbohydrate-network	ns1:N-0000-002413 .
+ns1:N-0000-002413	ns0:carbohydrate-network	ns1:N-0000-002414 .
+ns1:N-0000-002414	ns0:carbohydrate-network	ns1:N-0000-002416 .
+ns1:N-0000-002417	ns0:carbohydrate-network	ns1:N-0000-002418 ,
+		ns1:N-0000-002419 .
+ns1:N-0000-002419	ns0:carbohydrate-network	ns1:N-0000-002420 .
+ns1:N-0000-002421	ns0:carbohydrate-network	ns1:N-0000-002423 .
+ns1:N-0000-002422	ns0:carbohydrate-network	ns1:N-0000-002423 .
+ns1:N-0000-002423	ns0:carbohydrate-network	ns1:N-0000-002425 .
+ns1:N-0000-002426	ns0:carbohydrate-network	ns1:N-0000-002179 .
+ns1:N-0000-002428	ns0:carbohydrate-network	ns1:N-0000-002429 .
+ns1:N-0000-002430	ns0:carbohydrate-network	ns1:N-0000-003051 ,
+		ns1:N-0000-003050 ,
+		ns1:N-0000-003625 ,
+		ns1:N-0000-003626 ,
+		ns1:N-0000-002431 .
+ns1:N-0000-002432	ns0:carbohydrate-network	ns1:N-0000-002433 .
+ns1:N-0000-002435	ns0:carbohydrate-network	ns1:N-0000-002436 .
+ns1:N-0000-002437	ns0:carbohydrate-network	ns1:N-0000-002438 .
+ns1:N-0000-002439	ns0:carbohydrate-network	ns1:N-0000-002440 .
+ns1:N-0000-002441	ns0:carbohydrate-network	ns1:N-0000-002444 .
+ns1:N-0000-002445	ns0:carbohydrate-network	ns1:N-0000-001627 .
+ns1:N-0000-002446	ns0:carbohydrate-network	ns1:N-0000-002449 .
+ns1:N-0000-002450	ns0:carbohydrate-network	ns1:N-0000-002451 .
+ns1:N-0000-002452	ns0:carbohydrate-network	ns1:N-0000-002204 .
+ns1:N-0000-002453	ns0:carbohydrate-network	ns1:N-0000-002454 .
+ns1:N-0000-002455	ns0:carbohydrate-network	ns1:N-0000-002456 .
+ns1:N-0000-002456	ns0:carbohydrate-network	ns1:N-0000-002457 .
+ns1:N-0000-002458	ns0:carbohydrate-network	ns1:N-0000-002461 .
+ns1:N-0000-002462	ns0:carbohydrate-network	ns1:N-0000-002463 .
+ns1:N-0000-002464	ns0:carbohydrate-network	ns1:N-0000-002465 .
+ns1:N-0000-002466	ns0:carbohydrate-network	ns1:N-0000-002467 .
+ns1:N-0000-002468	ns0:carbohydrate-network	ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-000072 ,
+		ns1:N-0000-000073 ,
+		ns1:N-0000-001642 ,
+		ns1:N-0000-001663 ,
+		ns1:N-0000-002476 ,
+		ns1:N-0000-002477 ,
+		ns1:N-0000-002491 ,
+		ns1:N-0000-002492 ,
+		ns1:N-0000-002493 ,
+		ns1:N-0000-002470 .
+ns1:N-0000-002470	ns0:carbohydrate-network	ns1:N-0000-000069 ,
+		ns1:N-0000-000070 ,
+		ns1:N-0000-001642 .
+ns1:N-0000-002471	ns0:carbohydrate-network	ns1:N-0000-002473 .
+ns1:N-0000-002473	ns0:carbohydrate-network	ns1:N-0000-002474 .
+ns1:N-0000-002474	ns0:carbohydrate-network	ns1:N-0000-002475 .
+ns1:N-0000-002475	ns0:carbohydrate-network	ns1:N-0000-002476 ,
+		ns1:N-0000-002477 .
+ns1:N-0000-002478	ns0:carbohydrate-network	ns1:N-0000-002480 ,
+		ns1:N-0000-002479 .
+ns1:N-0000-002479	ns0:carbohydrate-network	ns1:N-0000-002480 .
+ns1:N-0000-002481	ns0:carbohydrate-network	ns1:N-0000-002494 ,
+		ns1:N-0000-002495 ,
+		ns1:N-0000-002496 ,
+		ns1:N-0000-002497 ,
+		ns1:N-0000-002482 .
+ns1:N-0000-002482	ns0:carbohydrate-network	ns1:N-0000-002481 .
+ns1:N-0000-002485	ns0:carbohydrate-network	ns1:N-0000-002486 .
+ns1:N-0000-002486	ns0:carbohydrate-network	ns1:N-0000-002498 ,
+		ns1:N-0000-002499 ,
+		ns1:N-0000-002500 ,
+		ns1:N-0000-002501 .
+ns1:N-0000-002487	ns0:carbohydrate-network	ns1:N-0000-002488 .
+ns1:N-0000-002488	ns0:carbohydrate-network	ns1:N-0000-002502 ,
+		ns1:N-0000-002503 ,
+		ns1:N-0000-002504 ,
+		ns1:N-0000-002505 .
+ns1:N-0000-002489	ns0:carbohydrate-network	ns1:N-0000-002490 .
+ns1:N-0000-002490	ns0:carbohydrate-network	ns1:N-0000-002506 ,
+		ns1:N-0000-002507 ,
+		ns1:N-0000-002508 ,
+		ns1:N-0000-002509 .
+ns1:N-0000-002510	ns0:carbohydrate-network	ns1:N-0000-003204 ,
+		ns1:N-0000-003203 ,
+		ns1:N-0000-002511 .
+ns1:N-0000-002511	ns0:carbohydrate-network	ns1:N-0000-002512 ,
+		ns1:N-0000-002513 .
+ns1:N-0000-002512	ns0:carbohydrate-network	ns1:N-0000-002514 .
+ns1:N-0000-002514	ns0:carbohydrate-network	ns1:N-0000-002514 ,
+		ns1:N-0000-002516 .
+ns1:N-0000-002515	ns0:carbohydrate-network	ns1:N-0000-002516 ,
+		ns1:N-0000-002514 .
+ns1:N-0000-002516	ns0:carbohydrate-network	ns1:N-0000-002517 .
+ns1:N-0000-002517	ns0:carbohydrate-network	ns1:N-0000-002518 .
+ns1:N-0000-002518	ns0:carbohydrate-network	ns1:N-0000-002520 .
+ns1:N-0000-002520	ns0:carbohydrate-network	ns1:N-0000-002521 .
+ns1:N-0000-002522	ns0:carbohydrate-network	ns1:N-0000-003624 ,
+		ns1:N-0000-002523 .
+ns1:N-0000-002523	ns0:carbohydrate-network	ns1:N-0000-002524 .
+ns1:N-0000-002524	ns0:carbohydrate-network	ns1:N-0000-002525 .
+ns1:N-0000-002525	ns0:carbohydrate-network	ns1:N-0000-002526 .
+ns1:N-0000-002526	ns0:carbohydrate-network	ns1:N-0000-002528 .
+ns1:N-0000-002527	ns0:carbohydrate-network	ns1:N-0000-002528 .
+ns1:N-0000-002528	ns0:carbohydrate-network	ns1:N-0000-002529 .
+ns1:N-0000-002529	ns0:carbohydrate-network	ns1:N-0000-002530 .
+ns1:N-0000-002530	ns0:carbohydrate-network	ns1:N-0000-002531 .
+ns1:N-0000-002531	ns0:carbohydrate-network	ns1:N-0000-002735 ,
+		ns1:N-0000-002533 .
+ns1:N-0000-002533	ns0:carbohydrate-network	ns1:N-0000-002534 .
+ns1:N-0000-002534	ns0:carbohydrate-network	ns1:N-0000-002536 .
+ns1:N-0000-002536	ns0:carbohydrate-network	ns1:N-0000-002537 .
+ns1:N-0000-002537	ns0:carbohydrate-network	ns1:N-0000-002538 .
+ns1:N-0000-002539	ns0:carbohydrate-network	ns1:N-0000-002540 .
+ns1:N-0000-002540	ns0:carbohydrate-network	ns1:N-0000-002542 .
+ns1:N-0000-002541	ns0:carbohydrate-network	ns1:N-0000-002815 ,
+		ns1:N-0000-002826 ,
+		ns1:N-0000-002542 .
+ns1:N-0000-002542	ns0:carbohydrate-network	ns1:N-0000-002543 .
+ns1:N-0000-002543	ns0:carbohydrate-network	ns1:N-0000-002544 .
+ns1:N-0000-002544	ns0:carbohydrate-network	ns1:N-0000-002545 .
+ns1:N-0000-002545	ns0:carbohydrate-network	ns1:N-0000-002546 .
+ns1:N-0000-002546	ns0:carbohydrate-network	ns1:N-0000-002547 .
+ns1:N-0000-002547	ns0:carbohydrate-network	ns1:N-0000-002548 .
+ns1:N-0000-002548	ns0:carbohydrate-network	ns1:N-0000-002549 .
+ns1:N-0000-002549	ns0:carbohydrate-network	ns1:N-0000-002550 .
+ns1:N-0000-002551	ns0:carbohydrate-network	ns1:N-0000-002552 .
+ns1:N-0000-002552	ns0:carbohydrate-network	ns1:N-0000-002554 .
+ns1:N-0000-002554	ns0:carbohydrate-network	ns1:N-0000-002555 .
+ns1:N-0000-002556	ns0:carbohydrate-network	ns1:N-0000-002557 .
+ns1:N-0000-002557	ns0:carbohydrate-network	ns1:N-0000-002558 .
+ns1:N-0000-002558	ns0:carbohydrate-network	ns1:N-0000-002560 .
+ns1:N-0000-002560	ns0:carbohydrate-network	ns1:N-0000-002561 .
+ns1:N-0000-002561	ns0:carbohydrate-network	ns1:N-0000-002563 .
+ns1:N-0000-002563	ns0:carbohydrate-network	ns1:N-0000-002564 .
+ns1:N-0000-002564	ns0:carbohydrate-network	ns1:N-0000-002565 .
+ns1:N-0000-002565	ns0:carbohydrate-network	ns1:N-0000-002567 .
+ns1:N-0000-002567	ns0:carbohydrate-network	ns1:N-0000-002568 .
+ns1:N-0000-002568	ns0:carbohydrate-network	ns1:N-0000-002569 .
+ns1:N-0000-002569	ns0:carbohydrate-network	ns1:N-0000-002570 .
+ns1:N-0000-002570	ns0:carbohydrate-network	ns1:N-0000-002571 .
+ns1:N-0000-002571	ns0:carbohydrate-network	ns1:N-0000-002572 .
+ns1:N-0000-002572	ns0:carbohydrate-network	ns1:N-0000-002573 .
+ns1:N-0000-002573	ns0:carbohydrate-network	ns1:N-0000-002574 .
+ns1:N-0000-002574	ns0:carbohydrate-network	ns1:N-0000-002575 .
+ns1:N-0000-002576	ns0:carbohydrate-network	ns1:N-0000-002577 .
+ns1:N-0000-002577	ns0:carbohydrate-network	ns1:N-0000-002578 .
+ns1:N-0000-002578	ns0:carbohydrate-network	ns1:N-0000-002579 .
+ns1:N-0000-002579	ns0:carbohydrate-network	ns1:N-0000-002581 .
+ns1:N-0000-002581	ns0:carbohydrate-network	ns1:N-0000-002582 .
+ns1:N-0000-002582	ns0:carbohydrate-network	ns1:N-0000-002583 .
+ns1:N-0000-002583	ns0:carbohydrate-network	ns1:N-0000-002584 .
+ns1:N-0000-002584	ns0:carbohydrate-network	ns1:N-0000-002585 .
+ns1:N-0000-002586	ns0:carbohydrate-network	ns1:N-0000-002587 .
+ns1:N-0000-002587	ns0:carbohydrate-network	ns1:N-0000-002240 .
+ns1:N-0000-002588	ns0:carbohydrate-network	ns1:N-0000-002590 .
+ns1:N-0000-002589	ns0:carbohydrate-network	ns1:N-0000-002590 .
+ns1:N-0000-002590	ns0:carbohydrate-network	ns1:N-0000-002592 ,
+		ns1:N-0000-002594 .
+ns1:N-0000-002591	ns0:carbohydrate-network	ns1:N-0000-002592 .
+ns1:N-0000-002593	ns0:carbohydrate-network	ns1:N-0000-002594 .
+ns1:N-0000-002594	ns0:carbohydrate-network	ns1:N-0000-002595 .
+ns1:N-0000-002600	ns0:carbohydrate-network	ns1:N-0000-002601 .
+ns1:N-0000-002602	ns0:carbohydrate-network	ns1:N-0000-002603 .
+ns1:N-0000-002604	ns0:carbohydrate-network	ns1:N-0000-004945 .
+ns1:N-0000-002617	ns0:carbohydrate-network	ns1:N-0000-004954 ,
+		ns1:N-0000-004955 .
+ns1:N-0000-002628	ns0:carbohydrate-network	ns1:N-0000-002630 .
+ns1:N-0000-002630	ns0:carbohydrate-network	ns1:N-0000-002631 ,
+		ns1:N-0000-002633 .
+ns1:N-0000-002634	ns0:carbohydrate-network	ns1:N-0000-002635 .
+ns1:N-0000-002635	ns0:carbohydrate-network	ns1:N-0000-002636 .
+ns1:N-0000-002636	ns0:carbohydrate-network	ns1:N-0000-002641 ,
+		ns1:N-0000-002642 .
+ns1:N-0000-002642	ns0:carbohydrate-network	ns1:N-0000-002644 .
+ns1:N-0000-002645	ns0:carbohydrate-network	ns1:N-0000-002646 .
+ns1:N-0000-002646	ns0:carbohydrate-network	ns1:N-0000-002647 .
+ns1:N-0000-002647	ns0:carbohydrate-network	ns1:N-0000-002648 .
+ns1:N-0000-002650	ns0:carbohydrate-network	ns1:N-0000-002651 .
+ns1:N-0000-002651	ns0:carbohydrate-network	ns1:N-0000-002863 .
+ns1:N-0000-002652	ns0:carbohydrate-network	ns1:N-0000-002653 .
+ns1:N-0000-002653	ns0:carbohydrate-network	ns1:N-0000-002672 .
+ns1:N-0000-002654	ns0:carbohydrate-network	ns1:N-0000-002655 .
+ns1:N-0000-002655	ns0:carbohydrate-network	ns1:N-0000-003348 ,
+		ns1:N-0000-003349 .
+ns1:N-0000-002656	ns0:carbohydrate-network	ns1:N-0000-002657 ,
+		ns1:N-0000-002658 .
+ns1:N-0000-002659	ns0:carbohydrate-network	ns1:N-0000-002661 .
+ns1:N-0000-002660	ns0:carbohydrate-network	ns1:N-0000-002661 .
+ns1:N-0000-002662	ns0:carbohydrate-network	ns1:N-0000-002664 .
+ns1:N-0000-002663	ns0:carbohydrate-network	ns1:N-0000-002664 .
+ns1:N-0000-002665	ns0:carbohydrate-network	ns1:N-0000-002667 .
+ns1:N-0000-002666	ns0:carbohydrate-network	ns1:N-0000-002667 .
+ns1:N-0000-002667	ns0:carbohydrate-network	ns1:N-0000-003053 ,
+		ns1:N-0000-003054 .
+ns1:N-0000-002668	ns0:carbohydrate-network	ns1:N-0000-002670 .
+ns1:N-0000-002669	ns0:carbohydrate-network	ns1:N-0000-002670 .
+ns1:N-0000-002671	ns0:carbohydrate-network	ns1:N-0000-002672 .
+ns1:N-0000-002673	ns0:carbohydrate-network	ns1:N-0000-002675 .
+ns1:N-0000-002674	ns0:carbohydrate-network	ns1:N-0000-002675 .
+ns1:N-0000-002676	ns0:carbohydrate-network	ns1:N-0000-002678 .
+ns1:N-0000-002677	ns0:carbohydrate-network	ns1:N-0000-002678 .
+ns1:N-0000-002679	ns0:carbohydrate-network	ns1:N-0000-002681 ,
+		ns1:N-0000-002682 .
+ns1:N-0000-002680	ns0:carbohydrate-network	ns1:N-0000-002681 ,
+		ns1:N-0000-002682 .
+ns1:N-0000-002683	ns0:carbohydrate-network	ns1:N-0000-002685 .
+ns1:N-0000-002684	ns0:carbohydrate-network	ns1:N-0000-002685 .
+ns1:N-0000-002685	ns0:carbohydrate-network	ns1:N-0000-002686 ,
+		ns1:N-0000-002687 .
+ns1:N-0000-002688	ns0:carbohydrate-network	ns1:N-0000-002690 .
+ns1:N-0000-002689	ns0:carbohydrate-network	ns1:N-0000-002690 .
+ns1:N-0000-002691	ns0:carbohydrate-network	ns1:N-0000-002692 .
+ns1:N-0000-002693	ns0:carbohydrate-network	ns1:N-0000-002694 .
+ns1:N-0000-002695	ns0:carbohydrate-network	ns1:N-0000-002696 .
+ns1:N-0000-002697	ns0:carbohydrate-network	ns1:N-0000-004926 .
+ns1:N-0000-002700	ns0:carbohydrate-network	ns1:N-0000-002703 .
+ns1:N-0000-002705	ns0:carbohydrate-network	ns1:N-0000-002706 .
+ns1:N-0000-002707	ns0:carbohydrate-network	ns1:N-0000-002708 .
+ns1:N-0000-002709	ns0:carbohydrate-network	ns1:N-0000-002710 ,
+		ns1:N-0000-002711 .
+ns1:N-0000-002710	ns0:carbohydrate-network	ns1:N-0000-002713 .
+ns1:N-0000-002714	ns0:carbohydrate-network	ns1:N-0000-002715 .
+ns1:N-0000-002715	ns0:carbohydrate-network	ns1:N-0000-002717 .
+ns1:N-0000-002716	ns0:carbohydrate-network	ns1:N-0000-002717 .
+ns1:N-0000-002718	ns0:carbohydrate-network	ns1:N-0000-002719 .
+ns1:N-0000-002720	ns0:carbohydrate-network	ns1:N-0000-002723 .
+ns1:N-0000-002721	ns0:carbohydrate-network	ns1:N-0000-002723 .
+ns1:N-0000-002724	ns0:carbohydrate-network	ns1:N-0000-002725 ,
+		ns1:N-0000-002726 .
+ns1:N-0000-002726	ns0:carbohydrate-network	ns1:N-0000-002728 .
+ns1:N-0000-002727	ns0:carbohydrate-network	ns1:N-0000-002728 .
+ns1:N-0000-002729	ns0:carbohydrate-network	ns1:N-0000-002730 .
+ns1:N-0000-002730	ns0:carbohydrate-network	ns1:N-0000-002732 .
+ns1:N-0000-002731	ns0:carbohydrate-network	ns1:N-0000-002732 .
+ns1:N-0000-002736	ns0:carbohydrate-network	ns1:N-0000-002737 .
+ns1:N-0000-002737	ns0:carbohydrate-network	ns1:N-0000-002739 .
+ns1:N-0000-002738	ns0:carbohydrate-network	ns1:N-0000-002739 .
+ns1:N-0000-002739	ns0:carbohydrate-network	ns1:N-0000-002740 .
+ns1:N-0000-002741	ns0:carbohydrate-network	ns1:N-0000-002743 .
+ns1:N-0000-002742	ns0:carbohydrate-network	ns1:N-0000-002743 .
+ns1:N-0000-002744	ns0:carbohydrate-network	ns1:N-0000-002902 ,
+		ns1:N-0000-002901 ,
+		ns1:N-0000-002848 ,
+		ns1:N-0000-002745 .
+ns1:N-0000-002747	ns0:carbohydrate-network	ns1:N-0000-002748 .
+ns1:N-0000-002749	ns0:carbohydrate-network	ns1:N-0000-002750 .
+ns1:N-0000-002750	ns0:carbohydrate-network	ns1:N-0000-002751 .
+ns1:N-0000-002751	ns0:carbohydrate-network	ns1:N-0000-002752 .
+ns1:N-0000-002752	ns0:carbohydrate-network	ns1:N-0000-002753 .
+ns1:N-0000-002753	ns0:carbohydrate-network	ns1:N-0000-002754 .
+ns1:N-0000-002754	ns0:carbohydrate-network	ns1:N-0000-002772 .
+ns1:N-0000-002755	ns0:carbohydrate-network	ns1:N-0000-002757 ,
+		ns1:N-0000-002758 .
+ns1:N-0000-002756	ns0:carbohydrate-network	ns1:N-0000-002758 ,
+		ns1:N-0000-002757 ,
+		ns1:N-0000-002774 .
+ns1:N-0000-002759	ns0:carbohydrate-network	ns1:N-0000-002761 ,
+		ns1:N-0000-002998 .
+ns1:N-0000-002760	ns0:carbohydrate-network	ns1:N-0000-002761 .
+ns1:N-0000-002762	ns0:carbohydrate-network	ns1:N-0000-002764 .
+ns1:N-0000-002763	ns0:carbohydrate-network	ns1:N-0000-002764 .
+ns1:N-0000-002765	ns0:carbohydrate-network	ns1:N-0000-002766 .
+ns1:N-0000-002767	ns0:carbohydrate-network	ns1:N-0000-002768 .
+ns1:N-0000-002770	ns0:carbohydrate-network	ns1:N-0000-002771 .
+ns1:N-0000-002771	ns0:carbohydrate-network	ns1:N-0000-002772 .
+ns1:N-0000-002773	ns0:carbohydrate-network	ns1:N-0000-002774 .
+ns1:N-0000-002775	ns0:carbohydrate-network	ns1:N-0000-002777 .
+ns1:N-0000-002777	ns0:carbohydrate-network	ns1:N-0000-002778 .
+ns1:N-0000-002779	ns0:carbohydrate-network	ns1:N-0000-002791 ,
+		ns1:N-0000-002793 ,
+		ns1:N-0000-002781 .
+ns1:N-0000-002780	ns0:carbohydrate-network	ns1:N-0000-000471 ,
+		ns1:N-0000-000472 ,
+		ns1:N-0000-002790 ,
+		ns1:N-0000-002784 ,
+		ns1:N-0000-002786 ,
+		ns1:N-0000-002787 ,
+		ns1:N-0000-002789 ,
+		ns1:N-0000-002781 .
+ns1:N-0000-002781	ns0:carbohydrate-network	ns1:N-0000-002800 .
+ns1:N-0000-002783	ns0:carbohydrate-network	ns1:N-0000-002784 .
+ns1:N-0000-002784	ns0:carbohydrate-network	ns1:N-0000-002806 .
+ns1:N-0000-002785	ns0:carbohydrate-network	ns1:N-0000-002796 ,
+		ns1:N-0000-002797 ,
+		ns1:N-0000-002786 ,
+		ns1:N-0000-002787 .
+ns1:N-0000-002788	ns0:carbohydrate-network	ns1:N-0000-002790 ,
+		ns1:N-0000-002789 ,
+		ns1:N-0000-002798 ,
+		ns1:N-0000-002799 .
+ns1:N-0000-002791	ns0:carbohydrate-network	ns1:N-0000-000818 .
+ns1:N-0000-002792	ns0:carbohydrate-network	ns1:N-0000-002793 ,
+		ns1:N-0000-002795 .
+ns1:N-0000-002800	ns0:carbohydrate-network	ns1:N-0000-002801 .
+ns1:N-0000-002801	ns0:carbohydrate-network	ns1:N-0000-002842 ,
+		ns1:N-0000-002832 ,
+		ns1:N-0000-002833 ,
+		ns1:N-0000-002823 .
+ns1:N-0000-002802	ns0:carbohydrate-network	ns1:N-0000-002837 .
+ns1:N-0000-002803	ns0:carbohydrate-network	ns1:N-0000-002804 .
+ns1:N-0000-002804	ns0:carbohydrate-network	ns1:N-0000-002805 .
+ns1:N-0000-002806	ns0:carbohydrate-network	ns1:N-0000-002807 .
+ns1:N-0000-002807	ns0:carbohydrate-network	ns1:N-0000-002808 .
+ns1:N-0000-002808	ns0:carbohydrate-network	ns1:N-0000-002810 .
+ns1:N-0000-002810	ns0:carbohydrate-network	ns1:N-0000-002811 .
+ns1:N-0000-002812	ns0:carbohydrate-network	ns1:N-0000-002814 .
+ns1:N-0000-002813	ns0:carbohydrate-network	ns1:N-0000-002814 .
+ns1:N-0000-002814	ns0:carbohydrate-network	ns1:N-0000-002815 .
+ns1:N-0000-002815	ns0:carbohydrate-network	ns1:N-0000-002817 .
+ns1:N-0000-002816	ns0:carbohydrate-network	ns1:N-0000-002817 .
+ns1:N-0000-002817	ns0:carbohydrate-network	ns1:N-0000-002818 .
+ns1:N-0000-002818	ns0:carbohydrate-network	ns1:N-0000-002820 .
+ns1:N-0000-002819	ns0:carbohydrate-network	ns1:N-0000-002820 .
+ns1:N-0000-002820	ns0:carbohydrate-network	ns1:N-0000-002821 .
+ns1:N-0000-002821	ns0:carbohydrate-network	ns1:N-0000-002822 .
+ns1:N-0000-002822	ns0:carbohydrate-network	ns1:N-0000-002823 .
+ns1:N-0000-002823	ns0:carbohydrate-network	ns1:N-0000-002824 .
+ns1:N-0000-002824	ns0:carbohydrate-network	ns1:N-0000-002825 .
+ns1:N-0000-002825	ns0:carbohydrate-network	ns1:N-0000-002826 .
+ns1:N-0000-002826	ns0:carbohydrate-network	ns1:N-0000-002827 .
+ns1:N-0000-002827	ns0:carbohydrate-network	ns1:N-0000-002828 .
+ns1:N-0000-002829	ns0:carbohydrate-network	ns1:N-0000-002830 .
+ns1:N-0000-002831	ns0:carbohydrate-network	ns1:N-0000-002832 ,
+		ns1:N-0000-002833 .
+ns1:N-0000-002834	ns0:carbohydrate-network	ns1:N-0000-002835 .
+ns1:N-0000-002836	ns0:carbohydrate-network	ns1:N-0000-002837 .
+ns1:N-0000-002838	ns0:carbohydrate-network	ns1:N-0000-002839 .
+ns1:N-0000-002839	ns0:carbohydrate-network	ns1:N-0000-002840 .
+ns1:N-0000-002841	ns0:carbohydrate-network	ns1:N-0000-002842 .
+ns1:N-0000-002843	ns0:carbohydrate-network	ns1:N-0000-002855 ,
+		ns1:N-0000-002844 .
+ns1:N-0000-002844	ns0:carbohydrate-network	ns1:N-0000-003810 ,
+		ns1:N-0000-003811 ,
+		ns1:N-0000-003812 ,
+		ns1:N-0000-003813 ,
+		ns1:N-0000-003517 ,
+		ns1:N-0000-003505 ,
+		ns1:N-0000-002923 .
+ns1:N-0000-002845	ns0:carbohydrate-network	ns1:N-0000-000298 .
+ns1:N-0000-002846	ns0:carbohydrate-network	ns1:N-0000-004929 .
+ns1:N-0000-002848	ns0:carbohydrate-network	ns1:N-0000-000792 ,
+		ns1:N-0000-002959 ,
+		ns1:N-0000-002960 ,
+		ns1:N-0000-002961 ,
+		ns1:N-0000-002962 ,
+		ns1:N-0000-002965 ,
+		ns1:N-0000-002966 .
+ns1:N-0000-002850	ns0:carbohydrate-network	ns1:N-0000-002852 .
+ns1:N-0000-002852	ns0:carbohydrate-network	ns1:N-0000-002853 .
+ns1:N-0000-002853	ns0:carbohydrate-network	ns1:N-0000-002854 .
+ns1:N-0000-002857	ns0:carbohydrate-network	ns1:N-0000-002859 .
+ns1:N-0000-002860	ns0:carbohydrate-network	ns1:N-0000-003040 ,
+		ns1:N-0000-002887 ,
+		ns1:N-0000-002861 .
+ns1:N-0000-002865	ns0:carbohydrate-network	ns1:N-0000-004152 ,
+		ns1:N-0000-004153 ,
+		ns1:N-0000-004154 ,
+		ns1:N-0000-002866 .
+ns1:N-0000-002867	ns0:carbohydrate-network	ns1:N-0000-002869 .
+ns1:N-0000-002870	ns0:carbohydrate-network	ns1:N-0000-002872 .
+ns1:N-0000-002873	ns0:carbohydrate-network	ns1:N-0000-001631 ,
+		ns1:N-0000-003618 ,
+		ns1:N-0000-002879 ,
+		ns1:N-0000-002880 ,
+		ns1:N-0000-002874 .
+ns1:N-0000-002874	ns0:carbohydrate-network	ns1:N-0000-002875 .
+ns1:N-0000-002876	ns0:carbohydrate-network	ns1:N-0000-002451 ,
+		ns1:N-0000-002877 .
+ns1:N-0000-002880	ns0:carbohydrate-network	ns1:N-0000-002881 .
+ns1:N-0000-002882	ns0:carbohydrate-network	ns1:N-0000-002884 .
+ns1:N-0000-002883	ns0:carbohydrate-network	ns1:N-0000-002884 .
+ns1:N-0000-002884	ns0:carbohydrate-network	ns1:N-0000-002885 .
+ns1:N-0000-002888	ns0:carbohydrate-network	ns1:N-0000-002889 .
+ns1:N-0000-002890	ns0:carbohydrate-network	ns1:N-0000-002892 .
+ns1:N-0000-002893	ns0:carbohydrate-network	ns1:N-0000-003614 ,
+		ns1:N-0000-002894 .
+ns1:N-0000-002894	ns0:carbohydrate-network	ns1:N-0000-002895 ,
+		ns1:N-0000-002896 .
+ns1:N-0000-002895	ns0:carbohydrate-network	ns1:N-0000-003620 .
+ns1:N-0000-002897	ns0:carbohydrate-network	ns1:N-0000-002445 ,
+		ns1:N-0000-002898 .
+ns1:N-0000-002903	ns0:carbohydrate-network	ns1:N-0000-002906 .
+ns1:N-0000-002907	ns0:carbohydrate-network	ns1:N-0000-002908 .
+ns1:N-0000-002909	ns0:carbohydrate-network	ns1:N-0000-002910 .
+ns1:N-0000-002911	ns0:carbohydrate-network	ns1:N-0000-002913 .
+ns1:N-0000-002912	ns0:carbohydrate-network	ns1:N-0000-002913 .
+ns1:N-0000-002915	ns0:carbohydrate-network	ns1:N-0000-002916 .
+ns1:N-0000-002916	ns0:carbohydrate-network	ns1:N-0000-002917 .
+ns1:N-0000-002920	ns0:carbohydrate-network	ns1:N-0000-002921 .
+ns1:N-0000-002923	ns0:carbohydrate-network	ns1:N-0000-002924 .
+ns1:N-0000-002924	ns0:carbohydrate-network	ns1:N-0000-002925 .
+ns1:N-0000-002926	ns0:carbohydrate-network	ns1:N-0000-002948 ,
+		ns1:N-0000-002932 ,
+		ns1:N-0000-002927 ,
+		ns1:N-0000-003033 .
+ns1:N-0000-002927	ns0:carbohydrate-network	ns1:N-0000-003408 ,
+		ns1:N-0000-003409 ,
+		ns1:N-0000-003444 ,
+		ns1:N-0000-003445 ,
+		ns1:N-0000-002929 .
+ns1:N-0000-002929	ns0:carbohydrate-network	ns1:N-0000-002930 .
+ns1:N-0000-002932	ns0:carbohydrate-network	ns1:N-0000-002935 .
+ns1:N-0000-002936	ns0:carbohydrate-network	ns1:N-0000-002937 .
+ns1:N-0000-002937	ns0:carbohydrate-network	ns1:N-0000-002938 .
+ns1:N-0000-002939	ns0:carbohydrate-network	ns1:N-0000-002406 .
+ns1:N-0000-002940	ns0:carbohydrate-network	ns1:N-0000-002941 .
+ns1:N-0000-002942	ns0:carbohydrate-network	ns1:N-0000-002943 .
+ns1:N-0000-002945	ns0:carbohydrate-network	ns1:N-0000-002947 .
+ns1:N-0000-002948	ns0:carbohydrate-network	ns1:N-0000-002949 .
+ns1:N-0000-002949	ns0:carbohydrate-network	ns1:N-0000-002951 .
+ns1:N-0000-002951	ns0:carbohydrate-network	ns1:N-0000-002952 .
+ns1:N-0000-002952	ns0:carbohydrate-network	ns1:N-0000-002954 .
+ns1:N-0000-002954	ns0:carbohydrate-network	ns1:N-0000-002955 .
+ns1:N-0000-002955	ns0:carbohydrate-network	ns1:N-0000-002956 .
+ns1:N-0000-002956	ns0:carbohydrate-network	ns1:N-0000-002957 .
+ns1:N-0000-002957	ns0:carbohydrate-network	ns1:N-0000-002958 .
+ns1:N-0000-002962	ns0:carbohydrate-network	ns1:N-0000-002964 .
+ns1:N-0000-002966	ns0:carbohydrate-network	ns1:N-0000-002967 .
+ns1:N-0000-002970	ns0:carbohydrate-network	ns1:N-0000-002114 .
+ns1:N-0000-002971	ns0:carbohydrate-network	ns1:N-0000-002708 .
+ns1:N-0000-002972	ns0:carbohydrate-network	ns1:N-0000-002974 .
+ns1:N-0000-002973	ns0:carbohydrate-network	ns1:N-0000-002974 .
+ns1:N-0000-002975	ns0:carbohydrate-network	ns1:N-0000-002976 .
+ns1:N-0000-002976	ns0:carbohydrate-network	ns1:N-0000-002977 .
+ns1:N-0000-002978	ns0:carbohydrate-network	ns1:N-0000-002979 .
+ns1:N-0000-002979	ns0:carbohydrate-network	ns1:N-0000-002982 .
+ns1:N-0000-002980	ns0:carbohydrate-network	ns1:N-0000-002664 .
+ns1:N-0000-002981	ns0:carbohydrate-network	ns1:N-0000-002982 .
+ns1:N-0000-002983	ns0:carbohydrate-network	ns1:N-0000-002984 .
+ns1:N-0000-002984	ns0:carbohydrate-network	ns1:N-0000-002985 .
+ns1:N-0000-002986	ns0:carbohydrate-network	ns1:N-0000-003629 ,
+		ns1:N-0000-002987 .
+ns1:N-0000-002988	ns0:carbohydrate-network	ns1:N-0000-002182 .
+ns1:N-0000-002993	ns0:carbohydrate-network	ns1:N-0000-002996 .
+ns1:N-0000-002997	ns0:carbohydrate-network	ns1:N-0000-002998 .
+ns1:N-0000-002999	ns0:carbohydrate-network	ns1:N-0000-000298 ,
+		ns1:N-0000-003000 ,
+		ns1:N-0000-003001 .
+ns1:N-0000-003001	ns0:carbohydrate-network	ns1:N-0000-002999 .
+ns1:N-0000-003002	ns0:carbohydrate-network	ns1:N-0000-003003 .
+ns1:N-0000-003003	ns0:carbohydrate-network	ns1:N-0000-003005 .
+ns1:N-0000-003004	ns0:carbohydrate-network	ns1:N-0000-003005 .
+ns1:N-0000-003005	ns0:carbohydrate-network	ns1:N-0000-003007 .
+ns1:N-0000-003008	ns0:carbohydrate-network	ns1:N-0000-003010 .
+ns1:N-0000-003010	ns0:carbohydrate-network	ns1:N-0000-003012 .
+ns1:N-0000-003011	ns0:carbohydrate-network	ns1:N-0000-003012 .
+ns1:N-0000-003013	ns0:carbohydrate-network	ns1:N-0000-003014 .
+ns1:N-0000-003015	ns0:carbohydrate-network	ns1:N-0000-003017 .
+ns1:N-0000-003017	ns0:carbohydrate-network	ns1:N-0000-003019 .
+ns1:N-0000-003018	ns0:carbohydrate-network	ns1:N-0000-003019 .
+ns1:N-0000-003019	ns0:carbohydrate-network	ns1:N-0000-003020 .
+ns1:N-0000-003021	ns0:carbohydrate-network	ns1:N-0000-003022 .
+ns1:N-0000-003022	ns0:carbohydrate-network	ns1:N-0000-003023 .
+ns1:N-0000-003024	ns0:carbohydrate-network	ns1:N-0000-003578 ,
+		ns1:N-0000-003581 ,
+		ns1:N-0000-004282 ,
+		ns1:N-0000-004283 ,
+		ns1:N-0000-004289 ,
+		ns1:N-0000-004290 ,
+		ns1:N-0000-004292 ,
+		ns1:N-0000-004293 ,
+		ns1:N-0000-003025 .
+ns1:N-0000-003025	ns0:carbohydrate-network	ns1:N-0000-003026 .
+ns1:N-0000-003027	ns0:carbohydrate-network	ns1:N-0000-003647 ,
+		ns1:N-0000-003028 .
+ns1:N-0000-003028	ns0:carbohydrate-network	ns1:N-0000-003030 .
+ns1:N-0000-003029	ns0:carbohydrate-network	ns1:N-0000-003030 .
+ns1:N-0000-003033	ns0:carbohydrate-network	ns1:N-0000-003034 .
+ns1:N-0000-003035	ns0:carbohydrate-network	ns1:N-0000-003037 .
+ns1:N-0000-003037	ns0:carbohydrate-network	ns1:N-0000-003038 .
+ns1:N-0000-003038	ns0:carbohydrate-network	ns1:N-0000-003039 .
+ns1:N-0000-003040	ns0:carbohydrate-network	ns1:N-0000-003041 .
+ns1:N-0000-003041	ns0:carbohydrate-network	ns1:N-0000-003042 .
+ns1:N-0000-003042	ns0:carbohydrate-network	ns1:N-0000-003043 .
+ns1:N-0000-003043	ns0:carbohydrate-network	ns1:N-0000-003458 ,
+		ns1:N-0000-003046 .
+ns1:N-0000-003049	ns0:carbohydrate-network	ns1:N-0000-003051 ,
+		ns1:N-0000-003050 .
+ns1:N-0000-003052	ns0:carbohydrate-network	ns1:N-0000-002665 ,
+		ns1:N-0000-002666 .
+ns1:N-0000-003053	ns0:carbohydrate-network	ns1:N-0000-003055 .
+ns1:N-0000-003054	ns0:carbohydrate-network	ns1:N-0000-003055 .
+ns1:N-0000-003055	ns0:carbohydrate-network	ns1:N-0000-003056 .
+ns1:N-0000-003057	ns0:carbohydrate-network	ns1:N-0000-003058 .
+ns1:N-0000-003059	ns0:carbohydrate-network	ns1:N-0000-003060 .
+ns1:N-0000-003060	ns0:carbohydrate-network	ns1:N-0000-003062 .
+ns1:N-0000-003061	ns0:carbohydrate-network	ns1:N-0000-003062 ,
+		ns1:N-0000-003064 ,
+		ns1:N-0000-003066 .
+ns1:N-0000-003062	ns0:carbohydrate-network	ns1:N-0000-003063 .
+ns1:N-0000-003063	ns0:carbohydrate-network	ns1:N-0000-003064 .
+ns1:N-0000-003064	ns0:carbohydrate-network	ns1:N-0000-003065 .
+ns1:N-0000-003065	ns0:carbohydrate-network	ns1:N-0000-003066 .
+ns1:N-0000-003067	ns0:carbohydrate-network	ns1:N-0000-003068 ,
+		ns1:N-0000-003071 .
+ns1:N-0000-003068	ns0:carbohydrate-network	ns1:N-0000-003069 .
+ns1:N-0000-003069	ns0:carbohydrate-network	ns1:N-0000-003070 .
+ns1:N-0000-003070	ns0:carbohydrate-network	ns1:N-0000-003071 .
+ns1:N-0000-003072	ns0:carbohydrate-network	ns1:N-0000-003074 ,
+		ns1:N-0000-003111 ,
+		ns1:N-0000-003107 ,
+		ns1:N-0000-003109 ,
+		ns1:N-0000-003110 ,
+		ns1:N-0000-003077 ,
+		ns1:N-0000-003087 ,
+		ns1:N-0000-003089 ,
+		ns1:N-0000-003083 ,
+		ns1:N-0000-003086 ,
+		ns1:N-0000-003096 ,
+		ns1:N-0000-003098 ,
+		ns1:N-0000-003091 ,
+		ns1:N-0000-003092 ,
+		ns1:N-0000-003094 ,
+		ns1:N-0000-003103 ,
+		ns1:N-0000-003105 ,
+		ns1:N-0000-003100 ,
+		ns1:N-0000-003102 .
+ns1:N-0000-003075	ns0:carbohydrate-network	ns1:N-0000-003074 .
+ns1:N-0000-003093	ns0:carbohydrate-network	ns1:N-0000-003094 .
+ns1:N-0000-003095	ns0:carbohydrate-network	ns1:N-0000-003096 .
+ns1:N-0000-003114	ns0:carbohydrate-network	ns1:N-0000-003115 ,
+		ns1:N-0000-003116 ,
+		ns1:N-0000-003117 .
+ns1:N-0000-003118	ns0:carbohydrate-network	ns1:N-0000-003119 .
+ns1:N-0000-003119	ns0:carbohydrate-network	ns1:N-0000-003140 ,
+		ns1:N-0000-003121 .
+ns1:N-0000-003121	ns0:carbohydrate-network	ns1:N-0000-003139 ,
+		ns1:N-0000-003138 ,
+		ns1:N-0000-003124 .
+ns1:N-0000-003124	ns0:carbohydrate-network	ns1:N-0000-003125 ,
+		ns1:N-0000-003126 .
+ns1:N-0000-003125	ns0:carbohydrate-network	ns1:N-0000-003127 ,
+		ns1:N-0000-003128 ,
+		ns1:N-0000-003129 ,
+		ns1:N-0000-003130 .
+ns1:N-0000-003127	ns0:carbohydrate-network	ns1:N-0000-003133 ,
+		ns1:N-0000-003134 ,
+		ns1:N-0000-003135 .
+ns1:N-0000-003129	ns0:carbohydrate-network	ns1:N-0000-003133 ,
+		ns1:N-0000-003134 ,
+		ns1:N-0000-003135 .
+ns1:N-0000-003138	ns0:carbohydrate-network	ns1:N-0000-003169 .
+ns1:N-0000-003140	ns0:carbohydrate-network	ns1:N-0000-003142 .
+ns1:N-0000-003141	ns0:carbohydrate-network	ns1:N-0000-003142 ,
+		ns1:N-0000-003145 .
+ns1:N-0000-003142	ns0:carbohydrate-network	ns1:N-0000-003143 .
+ns1:N-0000-003143	ns0:carbohydrate-network	ns1:N-0000-003144 ,
+		ns1:N-0000-003146 .
+ns1:N-0000-003144	ns0:carbohydrate-network	ns1:N-0000-003145 .
+ns1:N-0000-003145	ns0:carbohydrate-network	ns1:N-0000-003147 .
+ns1:N-0000-003146	ns0:carbohydrate-network	ns1:N-0000-003150 .
+ns1:N-0000-003147	ns0:carbohydrate-network	ns1:N-0000-003153 .
+ns1:N-0000-003150	ns0:carbohydrate-network	ns1:N-0000-003157 ,
+		ns1:N-0000-003152 .
+ns1:N-0000-003152	ns0:carbohydrate-network	ns1:N-0000-003159 .
+ns1:N-0000-003153	ns0:carbohydrate-network	ns1:N-0000-003154 .
+ns1:N-0000-003154	ns0:carbohydrate-network	ns1:N-0000-003160 .
+ns1:N-0000-003159	ns0:carbohydrate-network	ns1:N-0000-003162 .
+ns1:N-0000-003160	ns0:carbohydrate-network	ns1:N-0000-003164 .
+ns1:N-0000-003162	ns0:carbohydrate-network	ns1:N-0000-003165 .
+ns1:N-0000-003164	ns0:carbohydrate-network	ns1:N-0000-003166 .
+ns1:N-0000-003167	ns0:carbohydrate-network	ns1:N-0000-003168 .
+ns1:N-0000-003168	ns0:carbohydrate-network	ns1:N-0000-003169 .
+ns1:N-0000-003169	ns0:carbohydrate-network	ns1:N-0000-003170 .
+ns1:N-0000-003170	ns0:carbohydrate-network	ns1:N-0000-003170 .
+ns1:N-0000-003171	ns0:carbohydrate-network	ns1:N-0000-003172 .
+ns1:N-0000-003172	ns0:carbohydrate-network	ns1:N-0000-003173 .
+ns1:N-0000-003173	ns0:carbohydrate-network	ns1:N-0000-003174 .
+ns1:N-0000-003174	ns0:carbohydrate-network	ns1:N-0000-003175 .
+ns1:N-0000-003177	ns0:carbohydrate-network	ns1:N-0000-003179 ,
+		ns1:N-0000-003180 .
+ns1:N-0000-003180	ns0:carbohydrate-network	ns1:N-0000-003181 .
+ns1:N-0000-003182	ns0:carbohydrate-network	ns1:N-0000-003183 ,
+		ns1:N-0000-003184 .
+ns1:N-0000-003183	ns0:carbohydrate-network	ns1:N-0000-003186 ,
+		ns1:N-0000-003187 ,
+		ns1:N-0000-003189 ,
+		ns1:N-0000-003190 ,
+		ns1:N-0000-003185 .
+ns1:N-0000-003749	ns0:carbohydrate-network	ns1:N-0000-003752 ,
+		ns1:N-0000-003750 ,
+		ns1:N-0000-003751 ,
+		ns1:N-0000-002920 .
+ns1:N-0000-004917	ns0:carbohydrate-network	ns1:N-0000-004918 .
+ns1:N-0000-004920	ns0:carbohydrate-network	ns1:N-0000-004921 ,
+		ns1:N-0000-004922 .
+ns1:N-0000-004923	ns0:carbohydrate-network	ns1:N-0000-004924 .
+ns1:N-0000-004941	ns0:carbohydrate-network	ns1:N-0000-004942 .
+ns1:N-0000-004943	ns0:carbohydrate-network	ns1:N-0000-004944 .
+ns1:N-0000-004945	ns0:carbohydrate-network	ns1:N-0000-004946 ,
+		ns1:N-0000-004947 .
+ns1:N-0000-004946	ns0:carbohydrate-network	ns1:N-0000-004948 ,
+		ns1:N-0000-004950 .
+ns1:N-0000-004948	ns0:carbohydrate-network	ns1:N-0000-004949 .
+ns1:N-0000-004950	ns0:carbohydrate-network	ns1:N-0000-004951 .
+ns1:N-0000-004954	ns0:carbohydrate-network	ns1:N-0000-004956 ,
+		ns1:N-0000-004957 .
+ns1:N-0000-004957	ns0:carbohydrate-network	ns1:N-0000-002624 .
+ns1:N-0000-005077	ns0:carbohydrate-network	ns1:N-0000-004920 .
