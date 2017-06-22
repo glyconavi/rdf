@@ -1,1 +1,1 @@
-# rdf
+# rdf of GlycoNAVI
