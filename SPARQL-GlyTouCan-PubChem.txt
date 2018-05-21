@@ -1,0 +1,16 @@
+prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix glycan: <http://purl.jp/bio/12/glyco/glycan#>
+prefix dcterms: <http://purl.org/dc/terms/>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix glytoucan: <http://www.glytoucan.org/glyco/owl/glytoucan#>
+
+SELECT DISTINCT ?GTC_ID ?SID ?CID
+FROM <http://rdf.glycoinfo.org/glytoucan-pubchem>
+WHERE {
+?GTC dcterms:identifier ?GTC_ID .
+?GTC glycan:has_resource_entry ?SID_URI , ?CID_URI .
+?SID_URI skos:exactMatch ?SIDURL ; dcterms:identifier ?SID .
+?CID_URI skos:closeMatch ?CIDURL ; dcterms:identifier ?CID .
+}
+LIMIT 100
