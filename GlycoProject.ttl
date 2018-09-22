@@ -1,4 +1,5 @@
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
 @prefix sio:   <http://semanticscience.org/resource/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
@@ -8,37 +9,38 @@
 @prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
 @prefix obo:   <http://purl.obolibrary.org/obo/> .
 
-ga:AH-141  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-141  a    gn:Abundance .
 
-gs:AH-142  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-142  a                gn:Sample ;
         dcterms:identifier  "AH-142" .
 
-gs:AH-140  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-140  a                gn:Sample ;
         dcterms:identifier  "AH-140" .
 
-ga:AH-142  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-142  a    gn:Abundance .
 
-gs:AH-139  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-139  a                gn:Sample ;
         dcterms:identifier  "AH-139" .
 
-gp:GP_1  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_1  a                  gn:Project ;
         rdfs:label          "AH-139_AH-140_AH-141_AH-142_AH-143_" ;
         dcterms:identifier  "GP_1" ;
         sio:SIO_000008      ga:AH-142 , gs:AH-143 , gs:AH-141 , gs:AH-140 , ga:AH-143 , ga:AH-141 , ga:AH-140 , gs:AH-139 , gs:AH-142 , ga:AH-139 ;
         skos:altLabel       "P-27601598-1" .
 
-gs:AH-143  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-143  a                gn:Sample ;
         dcterms:identifier  "AH-143" .
 
-ga:AH-140  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-140  a    gn:Abundance .
 
-ga:AH-139  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-139  a    gn:Abundance .
 
-gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-141  a                gn:Sample ;
         dcterms:identifier  "AH-141" .
 
-ga:AH-143  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-143  a    gn:Abundance .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
 @prefix sio:   <http://semanticscience.org/resource/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
@@ -48,73 +50,74 @@ ga:AH-143  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
 @prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
 @prefix obo:   <http://purl.obolibrary.org/obo/> .
 
-ga:AH-141  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-141  a    gn:Abundance .
 
-gs:AH-23  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-23  a                 gn:Sample ;
         dcterms:identifier  "AH-23" .
 
-gs:AH-140  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-140  a                gn:Sample ;
         dcterms:identifier  "AH-140" .
 
-gp:GP_2  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_2  a                  gn:Project ;
         rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
         dcterms:identifier  "GP_2" ;
         sio:SIO_000008      ga:AH-19 , gs:AH-18 , ga:AH-23 , gs:AH-19 , gs:AH-20 , gs:AH-23 , gs:AH-21 , gs:AH-22 , ga:AH-20 , ga:AH-22 , ga:AH-21 , ga:AH-18 ;
         skos:altLabel       "P-16385567-2" .
 
-ga:AH-140  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-140  a    gn:Abundance .
 
-gs:AH-19  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-19  a                 gn:Sample ;
         dcterms:identifier  "AH-19" .
 
-gs:AH-22  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-22  a                 gn:Sample ;
         dcterms:identifier  "AH-22" .
 
-gp:GP_1  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_1  a                  gn:Project ;
         rdfs:label          "AH-139_AH-140_AH-141_AH-142_AH-143_" ;
         dcterms:identifier  "GP_1" ;
         sio:SIO_000008      ga:AH-142 , gs:AH-143 , gs:AH-141 , gs:AH-140 , ga:AH-143 , ga:AH-141 , ga:AH-140 , gs:AH-139 , gs:AH-142 , ga:AH-139 ;
         skos:altLabel       "P-27601598-1" .
 
-ga:AH-23  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-23  a     gn:Abundance .
 
-gs:AH-18  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-18  a                 gn:Sample ;
         dcterms:identifier  "AH-18" .
 
-gs:AH-21  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-21  a                 gn:Sample ;
         dcterms:identifier  "AH-21" .
 
-ga:AH-19  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-19  a     gn:Abundance .
 
-ga:AH-22  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-22  a     gn:Abundance .
 
-gs:AH-20  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-20  a                 gn:Sample ;
         dcterms:identifier  "AH-20" .
 
-gs:AH-143  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-143  a                gn:Sample ;
         dcterms:identifier  "AH-143" .
 
-ga:AH-143  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-143  a    gn:Abundance .
 
-ga:AH-18  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-18  a     gn:Abundance .
 
-ga:AH-21  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-21  a     gn:Abundance .
 
-gs:AH-139  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-139  a                gn:Sample ;
         dcterms:identifier  "AH-139" .
 
-ga:AH-139  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-139  a    gn:Abundance .
 
-gs:AH-142  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-142  a                gn:Sample ;
         dcterms:identifier  "AH-142" .
 
-ga:AH-142  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-142  a    gn:Abundance .
 
-ga:AH-20  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-20  a     gn:Abundance .
 
-gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-141  a                gn:Sample ;
         dcterms:identifier  "AH-141" .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
 @prefix sio:   <http://semanticscience.org/resource/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
@@ -124,89 +127,90 @@ gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
 @prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
 @prefix obo:   <http://purl.obolibrary.org/obo/> .
 
-gp:GP_3  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_3  a                  gn:Project ;
         rdfs:label          "AH-24_AH-25_" ;
         dcterms:identifier  "GP_3" ;
         sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
         skos:altLabel       "P-16385567-3" .
 
-ga:AH-141  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-141  a    gn:Abundance .
 
-ga:AH-25  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-25  a     gn:Abundance .
 
-gs:AH-23  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-23  a                 gn:Sample ;
         dcterms:identifier  "AH-23" .
 
-gs:AH-140  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-140  a                gn:Sample ;
         dcterms:identifier  "AH-140" .
 
-gp:GP_2  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_2  a                  gn:Project ;
         rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
         dcterms:identifier  "GP_2" ;
         sio:SIO_000008      ga:AH-19 , gs:AH-18 , ga:AH-23 , gs:AH-19 , gs:AH-20 , gs:AH-23 , gs:AH-21 , gs:AH-22 , ga:AH-20 , ga:AH-22 , ga:AH-21 , ga:AH-18 ;
         skos:altLabel       "P-16385567-2" .
 
-ga:AH-140  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-140  a    gn:Abundance .
 
-ga:AH-24  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-24  a     gn:Abundance .
 
-gs:AH-19  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-19  a                 gn:Sample ;
         dcterms:identifier  "AH-19" .
 
-gs:AH-22  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-22  a                 gn:Sample ;
         dcterms:identifier  "AH-22" .
 
-gp:GP_1  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_1  a                  gn:Project ;
         rdfs:label          "AH-139_AH-140_AH-141_AH-142_AH-143_" ;
         dcterms:identifier  "GP_1" ;
         sio:SIO_000008      ga:AH-142 , gs:AH-143 , gs:AH-141 , gs:AH-140 , ga:AH-143 , ga:AH-141 , ga:AH-140 , gs:AH-139 , gs:AH-142 , ga:AH-139 ;
         skos:altLabel       "P-27601598-1" .
 
-ga:AH-23  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-23  a     gn:Abundance .
 
-gs:AH-18  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-18  a                 gn:Sample ;
         dcterms:identifier  "AH-18" .
 
-gs:AH-21  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-21  a                 gn:Sample ;
         dcterms:identifier  "AH-21" .
 
-ga:AH-19  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-19  a     gn:Abundance .
 
-ga:AH-22  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-22  a     gn:Abundance .
 
-gs:AH-20  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-20  a                 gn:Sample ;
         dcterms:identifier  "AH-20" .
 
-gs:AH-143  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-143  a                gn:Sample ;
         dcterms:identifier  "AH-143" .
 
-ga:AH-143  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-143  a    gn:Abundance .
 
-ga:AH-18  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-18  a     gn:Abundance .
 
-ga:AH-21  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-21  a     gn:Abundance .
 
-gs:AH-139  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-139  a                gn:Sample ;
         dcterms:identifier  "AH-139" .
 
-gs:AH-25  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-25  a                 gn:Sample ;
         dcterms:identifier  "AH-25" .
 
-ga:AH-139  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-139  a    gn:Abundance .
 
-gs:AH-142  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-142  a                gn:Sample ;
         dcterms:identifier  "AH-142" .
 
-ga:AH-142  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-142  a    gn:Abundance .
 
-ga:AH-20  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-20  a     gn:Abundance .
 
-gs:AH-24  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-24  a                 gn:Sample ;
         dcterms:identifier  "AH-24" .
 
-gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-141  a                gn:Sample ;
         dcterms:identifier  "AH-141" .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
 @prefix sio:   <http://semanticscience.org/resource/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
@@ -216,95 +220,96 @@ gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
 @prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
 @prefix obo:   <http://purl.obolibrary.org/obo/> .
 
-gp:GP_3  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_3  a                  gn:Project ;
         rdfs:label          "AH-24_AH-25_" ;
         dcterms:identifier  "GP_3" ;
         sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
         skos:altLabel       "P-16385567-3" .
 
-ga:AH-141  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-141  a    gn:Abundance .
 
-ga:AH-25  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-25  a     gn:Abundance .
 
-gs:AH-23  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-23  a                 gn:Sample ;
         dcterms:identifier  "AH-23" .
 
-gs:AH-140  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-140  a                gn:Sample ;
         dcterms:identifier  "AH-140" .
 
-gp:GP_2  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_2  a                  gn:Project ;
         rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
         dcterms:identifier  "GP_2" ;
         sio:SIO_000008      ga:AH-19 , gs:AH-18 , ga:AH-23 , gs:AH-19 , gs:AH-20 , gs:AH-23 , gs:AH-21 , gs:AH-22 , ga:AH-20 , ga:AH-22 , ga:AH-21 , ga:AH-18 ;
         skos:altLabel       "P-16385567-2" .
 
-ga:AH-140  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-140  a    gn:Abundance .
 
-ga:AH-24  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-24  a     gn:Abundance .
 
-gs:AH-19  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-19  a                 gn:Sample ;
         dcterms:identifier  "AH-19" .
 
-gs:AH-22  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-22  a                 gn:Sample ;
         dcterms:identifier  "AH-22" .
 
-gp:GP_1  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_1  a                  gn:Project ;
         rdfs:label          "AH-139_AH-140_AH-141_AH-142_AH-143_" ;
         dcterms:identifier  "GP_1" ;
         sio:SIO_000008      ga:AH-142 , gs:AH-143 , gs:AH-141 , gs:AH-140 , ga:AH-143 , ga:AH-141 , ga:AH-140 , gs:AH-139 , gs:AH-142 , ga:AH-139 ;
         skos:altLabel       "P-27601598-1" .
 
-ga:AH-23  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-23  a     gn:Abundance .
 
-gs:AH-18  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-18  a                 gn:Sample ;
         dcterms:identifier  "AH-18" .
 
-gs:AH-21  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-21  a                 gn:Sample ;
         dcterms:identifier  "AH-21" .
 
-ga:AH-19  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-19  a     gn:Abundance .
 
-ga:AH-22  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-22  a     gn:Abundance .
 
-gs:AH-20  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-20  a                 gn:Sample ;
         dcterms:identifier  "AH-20" .
 
-gs:AH-143  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-143  a                gn:Sample ;
         dcterms:identifier  "AH-143" .
 
-ga:AH-143  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-143  a    gn:Abundance .
 
-ga:AH-18  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-18  a     gn:Abundance .
 
-ga:AH-21  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-21  a     gn:Abundance .
 
-gs:AH-139  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-139  a                gn:Sample ;
         dcterms:identifier  "AH-139" .
 
-gs:AH-25  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-25  a                 gn:Sample ;
         dcterms:identifier  "AH-25" .
 
-ga:AH-139  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-139  a    gn:Abundance .
 
-gs:AH-142  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-142  a                gn:Sample ;
         dcterms:identifier  "AH-142" .
 
-gp:GP_4  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_4  a                  gn:Project ;
         rdfs:label          "AH-18_AH-19_" ;
         dcterms:identifier  "GP_4" ;
         sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
         skos:altLabel       "P-16385567-4" .
 
-ga:AH-142  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-142  a    gn:Abundance .
 
-ga:AH-20  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-20  a     gn:Abundance .
 
-gs:AH-24  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-24  a                 gn:Sample ;
         dcterms:identifier  "AH-24" .
 
-gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-141  a                gn:Sample ;
         dcterms:identifier  "AH-141" .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
 @prefix sio:   <http://semanticscience.org/resource/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
@@ -314,107 +319,107 @@ gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
 @prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
 @prefix obo:   <http://purl.obolibrary.org/obo/> .
 
-gp:GP_3  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_3  a                  gn:Project ;
         rdfs:label          "AH-24_AH-25_" ;
         dcterms:identifier  "GP_3" ;
         sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
         skos:altLabel       "P-16385567-3" .
 
-ga:AH-141  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-141  a    gn:Abundance .
 
-ga:AH-25  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-25  a     gn:Abundance .
 
-gs:AH-23  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-23  a                 gn:Sample ;
         dcterms:identifier  "AH-23" .
 
-gs:AH-140  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-140  a                gn:Sample ;
         dcterms:identifier  "AH-140" .
 
-gp:GP_2  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_2  a                  gn:Project ;
         rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
         dcterms:identifier  "GP_2" ;
         sio:SIO_000008      ga:AH-19 , gs:AH-18 , ga:AH-23 , gs:AH-19 , gs:AH-20 , gs:AH-23 , gs:AH-21 , gs:AH-22 , ga:AH-20 , ga:AH-22 , ga:AH-21 , ga:AH-18 ;
         skos:altLabel       "P-16385567-2" .
 
-ga:AH-140  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-140  a    gn:Abundance .
 
-ga:AH-24  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-24  a     gn:Abundance .
 
-gs:AH-19  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-19  a                 gn:Sample ;
         dcterms:identifier  "AH-19" .
 
-gs:AH-22  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-22  a                 gn:Sample ;
         dcterms:identifier  "AH-22" .
 
-gp:GP_1  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_1  a                  gn:Project ;
         rdfs:label          "AH-139_AH-140_AH-141_AH-142_AH-143_" ;
         dcterms:identifier  "GP_1" ;
         sio:SIO_000008      ga:AH-142 , gs:AH-143 , gs:AH-141 , gs:AH-140 , ga:AH-143 , ga:AH-141 , ga:AH-140 , gs:AH-139 , gs:AH-142 , ga:AH-139 ;
         skos:altLabel       "P-27601598-1" .
 
-ga:AH-23  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-23  a     gn:Abundance .
 
-gs:AH-18  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-18  a                 gn:Sample ;
         dcterms:identifier  "AH-18" .
 
-gs:AH-21  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-21  a                 gn:Sample ;
         dcterms:identifier  "AH-21" .
 
-gs:AH-27  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-27  a                 gn:Sample ;
         dcterms:identifier  "AH-27" .
 
-ga:AH-19  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-19  a     gn:Abundance .
 
-ga:AH-22  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-22  a     gn:Abundance .
 
-gs:AH-26  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-26  a                 gn:Sample ;
         dcterms:identifier  "AH-26" .
 
-gs:AH-20  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-20  a                 gn:Sample ;
         dcterms:identifier  "AH-20" .
 
-gs:AH-143  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-143  a                gn:Sample ;
         dcterms:identifier  "AH-143" .
 
-gp:GP_5  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_5  a                  gn:Project ;
         rdfs:label          "AH-26_AH-27_" ;
         dcterms:identifier  "GP_5" ;
         sio:SIO_000008      gs:AH-27 , ga:AH-27 , gs:AH-26 , ga:AH-26 ;
         skos:altLabel       "P-16385567-5" .
 
-ga:AH-143  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-143  a    gn:Abundance .
 
-ga:AH-18  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-18  a     gn:Abundance .
 
-ga:AH-27  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-27  a     gn:Abundance .
 
-ga:AH-21  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-21  a     gn:Abundance .
 
-gs:AH-139  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-139  a                gn:Sample ;
         dcterms:identifier  "AH-139" .
 
-gs:AH-25  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-25  a                 gn:Sample ;
         dcterms:identifier  "AH-25" .
 
-ga:AH-139  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-139  a    gn:Abundance .
 
-gs:AH-142  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-142  a                gn:Sample ;
         dcterms:identifier  "AH-142" .
 
-gp:GP_4  a                  <http://purl.jp/bio/12/glyco/glyconavi#Project> ;
+gp:GP_4  a                  gn:Project ;
         rdfs:label          "AH-18_AH-19_" ;
         dcterms:identifier  "GP_4" ;
         sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
         skos:altLabel       "P-16385567-4" .
 
-ga:AH-142  a    <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-142  a    gn:Abundance .
 
-ga:AH-20  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-20  a     gn:Abundance .
 
-ga:AH-26  a     <http://purl.jp/bio/12/glyco/glyconavi#Abundance> .
+ga:AH-26  a     gn:Abundance .
 
-gs:AH-24  a                 <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-24  a                 gn:Sample ;
         dcterms:identifier  "AH-24" .
 
-gs:AH-141  a                <http://purl.jp/bio/12/glyco/glyconavi#Sample> ;
+gs:AH-141  a                gn:Sample ;
         dcterms:identifier  "AH-141" .
