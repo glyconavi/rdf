@@ -1,0 +1,2333 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_8  a                  gn:Project ;
+        rdfs:label          "AH-24_AH-25_" ;
+        dcterms:identifier  "GP_8" ;
+        sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
+        skos:altLabel       "P-16385567-8" ;
+        skos:note           "Haptoglobin between the clinical stages of pancreatic cancer" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+gs:AH-25  a                 gn:Sample ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-25  a                 gn:Abundance ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gs:AH-24  a                 gn:Sample ;
+        dcterms:identifier  "AH-24" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-24  a                 gn:Abundance ;
+        dcterms:identifier  "AH-24" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_8  a                  gn:Project ;
+        rdfs:label          "AH-24_AH-25_" ;
+        dcterms:identifier  "GP_8" ;
+        sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
+        skos:altLabel       "P-16385567-8" ;
+        skos:note           "Haptoglobin between the clinical stages of pancreatic cancer" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+gs:AH-25  a                 gn:Sample ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-25  a                 gn:Abundance ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gs:AH-24  a                 gn:Sample ;
+        dcterms:identifier  "AH-24" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-24  a                 gn:Abundance ;
+        dcterms:identifier  "AH-24" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gp:GP_9  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_" ;
+        dcterms:identifier  "GP_9" ;
+        sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
+        skos:altLabel       "P-16385567-9" ;
+        skos:note           "Haptoglobin in the serum of patients with pancreatic cancer and healthy" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_8  a                  gn:Project ;
+        rdfs:label          "AH-24_AH-25_" ;
+        dcterms:identifier  "GP_8" ;
+        sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
+        skos:altLabel       "P-16385567-8" ;
+        skos:note           "Haptoglobin between the clinical stages of pancreatic cancer" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-27  a                 gn:Sample ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-27  a                 gn:Abundance ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-152  a                gn:Sample ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gp:GP_10  a                 gn:Project ;
+        rdfs:label          "AH-148_AH-149_AH-150_AH-151_AH-152_AH-26_AH-27_" ;
+        dcterms:identifier  "GP_10" ;
+        sio:SIO_000008      gs:AH-26 , gs:AH-27 , gs:AH-150 , ga:AH-26 , gs:AH-151 , ga:AH-27 , ga:AH-148 , gs:AH-152 , ga:AH-149 , ga:AH-150 , gs:AH-148 , ga:AH-151 , gs:AH-149 , ga:AH-152 ;
+        skos:altLabel       "P-16385567-10" ;
+        skos:note           "Haptoglobin between pancreatic cancer cell lines and a hepatocellular carcinoma cell line for RT-PCR analysis" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+gs:AH-26  a                 gn:Sample ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-26  a                 gn:Abundance ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-151  a                gn:Sample ;
+        dcterms:identifier  "AH-151" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-152  a                gn:Abundance ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+gs:AH-149  a                gn:Sample ;
+        dcterms:identifier  "AH-149" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+gs:AH-25  a                 gn:Sample ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-25  a                 gn:Abundance ;
+        dcterms:identifier  "AH-25" .
+
+gs:AH-150  a                gn:Sample ;
+        dcterms:identifier  "AH-150" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-151  a                gn:Abundance ;
+        dcterms:identifier  "AH-151" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gs:AH-148  a                gn:Sample ;
+        dcterms:identifier  "AH-148" .
+
+ga:AH-149  a                gn:Abundance ;
+        dcterms:identifier  "AH-149" .
+
+gs:AH-24  a                 gn:Sample ;
+        dcterms:identifier  "AH-24" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-24  a                 gn:Abundance ;
+        dcterms:identifier  "AH-24" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-150  a                gn:Abundance ;
+        dcterms:identifier  "AH-150" .
+
+gp:GP_9  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_" ;
+        dcterms:identifier  "GP_9" ;
+        sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
+        skos:altLabel       "P-16385567-9" ;
+        skos:note           "Haptoglobin in the serum of patients with pancreatic cancer and healthy" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-148  a                gn:Abundance ;
+        dcterms:identifier  "AH-148" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+ga:AH-29  a                 gn:Abundance ;
+        dcterms:identifier  "AH-29" .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+gs:AH-30  a                 gn:Sample ;
+        dcterms:identifier  "AH-30" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-28  a                 gn:Sample ;
+        dcterms:identifier  "AH-28" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_8  a                  gn:Project ;
+        rdfs:label          "AH-24_AH-25_" ;
+        dcterms:identifier  "GP_8" ;
+        sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
+        skos:altLabel       "P-16385567-8" ;
+        skos:note           "Haptoglobin between the clinical stages of pancreatic cancer" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-30  a                 gn:Abundance ;
+        dcterms:identifier  "AH-30" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-28  a                 gn:Abundance ;
+        dcterms:identifier  "AH-28" .
+
+gp:GP_11  a                 gn:Project ;
+        rdfs:label          "AH-28_AH-29_AH-30_" ;
+        dcterms:identifier  "GP_11" ;
+        sio:SIO_000008      ga:AH-28 , gs:AH-29 , ga:AH-29 , ga:AH-30 , gs:AH-30 , gs:AH-28 ;
+        skos:altLabel       "P-18214858-11" ;
+        skos:note           "Haptoglobin in the serum of  healthy and patients with pancreatic cancer and chronic pancreatitis" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-27  a                 gn:Sample ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-27  a                 gn:Abundance ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-152  a                gn:Sample ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gp:GP_10  a                 gn:Project ;
+        rdfs:label          "AH-148_AH-149_AH-150_AH-151_AH-152_AH-26_AH-27_" ;
+        dcterms:identifier  "GP_10" ;
+        sio:SIO_000008      gs:AH-26 , gs:AH-27 , gs:AH-150 , ga:AH-26 , gs:AH-151 , ga:AH-27 , ga:AH-148 , gs:AH-152 , ga:AH-149 , ga:AH-150 , gs:AH-148 , ga:AH-151 , gs:AH-149 , ga:AH-152 ;
+        skos:altLabel       "P-16385567-10" ;
+        skos:note           "Haptoglobin between pancreatic cancer cell lines and a hepatocellular carcinoma cell line for RT-PCR analysis" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+gs:AH-26  a                 gn:Sample ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-26  a                 gn:Abundance ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-151  a                gn:Sample ;
+        dcterms:identifier  "AH-151" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-152  a                gn:Abundance ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+gs:AH-149  a                gn:Sample ;
+        dcterms:identifier  "AH-149" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+gs:AH-25  a                 gn:Sample ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-25  a                 gn:Abundance ;
+        dcterms:identifier  "AH-25" .
+
+gs:AH-150  a                gn:Sample ;
+        dcterms:identifier  "AH-150" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-151  a                gn:Abundance ;
+        dcterms:identifier  "AH-151" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gs:AH-148  a                gn:Sample ;
+        dcterms:identifier  "AH-148" .
+
+ga:AH-149  a                gn:Abundance ;
+        dcterms:identifier  "AH-149" .
+
+gs:AH-24  a                 gn:Sample ;
+        dcterms:identifier  "AH-24" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-24  a                 gn:Abundance ;
+        dcterms:identifier  "AH-24" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gs:AH-29  a                 gn:Sample ;
+        dcterms:identifier  "AH-29" .
+
+ga:AH-150  a                gn:Abundance ;
+        dcterms:identifier  "AH-150" .
+
+gp:GP_9  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_" ;
+        dcterms:identifier  "GP_9" ;
+        sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
+        skos:altLabel       "P-16385567-9" ;
+        skos:note           "Haptoglobin in the serum of patients with pancreatic cancer and healthy" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-148  a                gn:Abundance ;
+        dcterms:identifier  "AH-148" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+ga:AH-29  a                 gn:Abundance ;
+        dcterms:identifier  "AH-29" .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+gp:GP_12  a                 gn:Project ;
+        rdfs:label          "AH-31_AH-32_AH-33_AH-34_" ;
+        dcterms:identifier  "GP_12" ;
+        sio:SIO_000008      ga:AH-33 , ga:AH-34 , gs:AH-34 , gs:AH-31 , ga:AH-31 , gs:AH-32 , ga:AH-32 , gs:AH-33 ;
+        skos:altLabel       "P-18214858-12" ;
+        skos:note           "Haptoglobin in the serum of  healthy (young and old) and patients with pancreatic cancer and chronic pancreatitis" .
+
+gs:AH-30  a                 gn:Sample ;
+        dcterms:identifier  "AH-30" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-28  a                 gn:Sample ;
+        dcterms:identifier  "AH-28" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_8  a                  gn:Project ;
+        rdfs:label          "AH-24_AH-25_" ;
+        dcterms:identifier  "GP_8" ;
+        sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
+        skos:altLabel       "P-16385567-8" ;
+        skos:note           "Haptoglobin between the clinical stages of pancreatic cancer" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-30  a                 gn:Abundance ;
+        dcterms:identifier  "AH-30" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-28  a                 gn:Abundance ;
+        dcterms:identifier  "AH-28" .
+
+gp:GP_11  a                 gn:Project ;
+        rdfs:label          "AH-28_AH-29_AH-30_" ;
+        dcterms:identifier  "GP_11" ;
+        sio:SIO_000008      ga:AH-28 , gs:AH-29 , ga:AH-29 , ga:AH-30 , gs:AH-30 , gs:AH-28 ;
+        skos:altLabel       "P-18214858-11" ;
+        skos:note           "Haptoglobin in the serum of  healthy and patients with pancreatic cancer and chronic pancreatitis" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-27  a                 gn:Sample ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-34  a                 gn:Sample ;
+        dcterms:identifier  "AH-34" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-27  a                 gn:Abundance ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-152  a                gn:Sample ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gp:GP_10  a                 gn:Project ;
+        rdfs:label          "AH-148_AH-149_AH-150_AH-151_AH-152_AH-26_AH-27_" ;
+        dcterms:identifier  "GP_10" ;
+        sio:SIO_000008      gs:AH-26 , gs:AH-27 , gs:AH-150 , ga:AH-26 , gs:AH-151 , ga:AH-27 , ga:AH-148 , gs:AH-152 , ga:AH-149 , ga:AH-150 , gs:AH-148 , ga:AH-151 , gs:AH-149 , ga:AH-152 ;
+        skos:altLabel       "P-16385567-10" ;
+        skos:note           "Haptoglobin between pancreatic cancer cell lines and a hepatocellular carcinoma cell line for RT-PCR analysis" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-34  a                 gn:Abundance ;
+        dcterms:identifier  "AH-34" .
+
+gs:AH-26  a                 gn:Sample ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-33  a                 gn:Sample ;
+        dcterms:identifier  "AH-33" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-26  a                 gn:Abundance ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-151  a                gn:Sample ;
+        dcterms:identifier  "AH-151" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-152  a                gn:Abundance ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+gs:AH-149  a                gn:Sample ;
+        dcterms:identifier  "AH-149" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-33  a                 gn:Abundance ;
+        dcterms:identifier  "AH-33" .
+
+gs:AH-25  a                 gn:Sample ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+gs:AH-32  a                 gn:Sample ;
+        dcterms:identifier  "AH-32" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-25  a                 gn:Abundance ;
+        dcterms:identifier  "AH-25" .
+
+gs:AH-150  a                gn:Sample ;
+        dcterms:identifier  "AH-150" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-151  a                gn:Abundance ;
+        dcterms:identifier  "AH-151" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gs:AH-148  a                gn:Sample ;
+        dcterms:identifier  "AH-148" .
+
+ga:AH-32  a                 gn:Abundance ;
+        dcterms:identifier  "AH-32" .
+
+ga:AH-149  a                gn:Abundance ;
+        dcterms:identifier  "AH-149" .
+
+gs:AH-24  a                 gn:Sample ;
+        dcterms:identifier  "AH-24" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-31  a                 gn:Sample ;
+        dcterms:identifier  "AH-31" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-24  a                 gn:Abundance ;
+        dcterms:identifier  "AH-24" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gs:AH-29  a                 gn:Sample ;
+        dcterms:identifier  "AH-29" .
+
+ga:AH-150  a                gn:Abundance ;
+        dcterms:identifier  "AH-150" .
+
+gp:GP_9  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_" ;
+        dcterms:identifier  "GP_9" ;
+        sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
+        skos:altLabel       "P-16385567-9" ;
+        skos:note           "Haptoglobin in the serum of patients with pancreatic cancer and healthy" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-31  a                 gn:Abundance ;
+        dcterms:identifier  "AH-31" .
+
+ga:AH-148  a                gn:Abundance ;
+        dcterms:identifier  "AH-148" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix gp:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoProject#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+ga:AH-29  a                 gn:Abundance ;
+        dcterms:identifier  "AH-29" .
+
+gp:GP_3  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_AH-4_" ;
+        dcterms:identifier  "GP_3" ;
+        sio:SIO_000008      gs:AH-4 , gs:AH-3 , ga:AH-4 , ga:AH-3 , gs:AH-1 , gs:AH-2 , ga:AH-1 , ga:AH-2 ;
+        skos:altLabel       "P-3930453-3" ;
+        skos:note           "Choriocarcinoma human chorionic gonadotropins" .
+
+ga:AH-5_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A8" .
+
+gp:GP_12  a                 gn:Project ;
+        rdfs:label          "AH-31_AH-32_AH-33_AH-34_" ;
+        dcterms:identifier  "GP_12" ;
+        sio:SIO_000008      ga:AH-33 , ga:AH-34 , gs:AH-34 , gs:AH-31 , ga:AH-31 , gs:AH-32 , ga:AH-32 , gs:AH-33 ;
+        skos:altLabel       "P-18214858-12" ;
+        skos:note           "Haptoglobin in the serum of  healthy (young and old) and patients with pancreatic cancer and chronic pancreatitis" .
+
+gs:AH-30  a                 gn:Sample ;
+        dcterms:identifier  "AH-30" .
+
+ga:AH-10  a                 gn:Abundance ;
+        dcterms:identifier  "AH-10" .
+
+ga:AH-1  a                  gn:Abundance ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-23  a                 gn:Abundance ;
+        dcterms:identifier  "AH-23" .
+
+gs:AH-28  a                 gn:Sample ;
+        dcterms:identifier  "AH-28" .
+
+gs:AH-146  a                gn:Sample ;
+        dcterms:identifier  "AH-146" .
+
+gp:GP_8  a                  gn:Project ;
+        rdfs:label          "AH-24_AH-25_" ;
+        dcterms:identifier  "GP_8" ;
+        sio:SIO_000008      gs:AH-25 , ga:AH-25 , gs:AH-24 , ga:AH-24 ;
+        skos:altLabel       "P-16385567-8" ;
+        skos:note           "Haptoglobin between the clinical stages of pancreatic cancer" .
+
+gs:AH-5  a                  gn:Sample ;
+        dcterms:identifier  "AH-5" .
+
+ga:AH-30  a                 gn:Abundance ;
+        dcterms:identifier  "AH-30" .
+
+gs:AH-22  a                 gn:Sample ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-6_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A9" .
+
+ga:AH-6  a                  gn:Abundance ;
+        dcterms:identifier  "AH-6" .
+
+gp:GP_2  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-5_" ;
+        dcterms:identifier  "GP_2" ;
+        sio:SIO_000008      ga:AH-5 , gs:AH-145 , gs:AH-144 , ga:AH-145 , ga:AH-144 , gs:AH-5 ;
+        skos:altLabel       "P-3930453-2" ;
+        skos:note           "Complete hydatidiform mole human chorionic gonadotropins" .
+
+ga:AH-28  a                 gn:Abundance ;
+        dcterms:identifier  "AH-28" .
+
+gp:GP_11  a                 gn:Project ;
+        rdfs:label          "AH-28_AH-29_AH-30_" ;
+        dcterms:identifier  "GP_11" ;
+        sio:SIO_000008      ga:AH-28 , gs:AH-29 , ga:AH-29 , ga:AH-30 , gs:AH-30 , gs:AH-28 ;
+        skos:altLabel       "P-18214858-11" ;
+        skos:note           "Haptoglobin in the serum of  healthy and patients with pancreatic cancer and chronic pancreatitis" .
+
+ga:AH-22  a                 gn:Abundance ;
+        dcterms:identifier  "AH-22" .
+
+gs:AH-27  a                 gn:Sample ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-5_A9  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A9" .
+
+gs:AH-145  a                gn:Sample ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-4  a                  gn:Sample ;
+        dcterms:identifier  "AH-4" .
+
+gp:GP_7  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_AH-20_AH-21_AH-22_AH-23_" ;
+        dcterms:identifier  "GP_7" ;
+        sio:SIO_000008      ga:AH-21 , gs:AH-22 , ga:AH-19 , ga:AH-22 , gs:AH-23 , ga:AH-23 , gs:AH-21 , gs:AH-19 , gs:AH-20 , ga:AH-18 , gs:AH-18 , ga:AH-20 ;
+        skos:altLabel       "P-16385567-7" ;
+        skos:note           "Haptoglobin in the serum of patients with various diseases and healthy" .
+
+gs:AH-21  a                 gn:Sample ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-146  a                gn:Abundance ;
+        dcterms:identifier  "AH-146" .
+
+gs:AH-34  a                 gn:Sample ;
+        dcterms:identifier  "AH-34" .
+
+gs:AH-6_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-6_A8" .
+
+ga:AH-27  a                 gn:Abundance ;
+        dcterms:identifier  "AH-27" .
+
+gs:AH-152  a                gn:Sample ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-5  a                  gn:Abundance ;
+        dcterms:identifier  "AH-5" .
+
+gp:GP_1  a                  gn:Project ;
+        rdfs:label          "AH-146_AH-6_" ;
+        dcterms:identifier  "GP_1" ;
+        sio:SIO_000008      gs:AH-6 , ga:AH-6 , gs:AH-146 , ga:AH-146 ;
+        skos:altLabel       "P-3930453-1" ;
+        skos:note           "Healthy human chorionic gonadotropins" .
+
+gp:GP_10  a                 gn:Project ;
+        rdfs:label          "AH-148_AH-149_AH-150_AH-151_AH-152_AH-26_AH-27_" ;
+        dcterms:identifier  "GP_10" ;
+        sio:SIO_000008      gs:AH-26 , gs:AH-27 , gs:AH-150 , ga:AH-26 , gs:AH-151 , ga:AH-27 , ga:AH-148 , gs:AH-152 , ga:AH-149 , ga:AH-150 , gs:AH-148 , ga:AH-151 , gs:AH-149 , ga:AH-152 ;
+        skos:altLabel       "P-16385567-10" ;
+        skos:note           "Haptoglobin between pancreatic cancer cell lines and a hepatocellular carcinoma cell line for RT-PCR analysis" .
+
+gs:AH-19  a                 gn:Sample ;
+        dcterms:identifier  "AH-19" .
+
+ga:AH-21  a                 gn:Abundance ;
+        dcterms:identifier  "AH-21" .
+
+ga:AH-34  a                 gn:Abundance ;
+        dcterms:identifier  "AH-34" .
+
+gs:AH-26  a                 gn:Sample ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-5_A8  a               gn:Sample ;
+        dcterms:identifier  "AH-5_A8" .
+
+ga:AH-19  a                 gn:Abundance ;
+        dcterms:identifier  "AH-19" .
+
+gs:AH-144  a                gn:Sample ;
+        dcterms:identifier  "AH-144" .
+
+gp:GP_6  a                  gn:Project ;
+        rdfs:label          "AH-1_AH-2_AH-3_GP_1_GP_2_" ;
+        dcterms:identifier  "GP_6" ;
+        sio:SIO_000008      gp:GP_2 , gs:AH-2 , ga:AH-2 , gs:AH-1 , ga:AH-1 , gp:GP_1 , gs:AH-3 , ga:AH-3 ;
+        skos:altLabel       "P-3930453-6" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins analyzed in PMID: 3930453" .
+
+gs:AH-3  a                  gn:Sample ;
+        dcterms:identifier  "AH-3" .
+
+gs:AH-20  a                 gn:Sample ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-145  a                gn:Abundance ;
+        dcterms:identifier  "AH-145" .
+
+gs:AH-33  a                 gn:Sample ;
+        dcterms:identifier  "AH-33" .
+
+ga:AH-4  a                  gn:Abundance ;
+        dcterms:identifier  "AH-4" .
+
+ga:AH-26  a                 gn:Abundance ;
+        dcterms:identifier  "AH-26" .
+
+gs:AH-151  a                gn:Sample ;
+        dcterms:identifier  "AH-151" .
+
+gs:AH-18  a                 gn:Sample ;
+        dcterms:identifier  "AH-18" .
+
+ga:AH-152  a                gn:Abundance ;
+        dcterms:identifier  "AH-152" .
+
+ga:AH-6_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-6_A10" .
+
+gs:AH-149  a                gn:Sample ;
+        dcterms:identifier  "AH-149" .
+
+ga:AH-20  a                 gn:Abundance ;
+        dcterms:identifier  "AH-20" .
+
+ga:AH-33  a                 gn:Abundance ;
+        dcterms:identifier  "AH-33" .
+
+gs:AH-25  a                 gn:Sample ;
+        dcterms:identifier  "AH-25" .
+
+ga:AH-18  a                 gn:Abundance ;
+        dcterms:identifier  "AH-18" .
+
+gs:AH-5_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-5_A10" .
+
+gp:GP_5  a                  gn:Project ;
+        rdfs:label          "AH-144_AH-145_AH-146_AH-5_A10_AH-5_A8_AH-5_A9_AH-6_A10_AH-6_A8_AH-6_A9_" ;
+        dcterms:identifier  "GP_5" ;
+        sio:SIO_000008      gs:AH-6_A8 , ga:AH-6_A8 , ga:AH-144 , ga:AH-6_A9 , gs:AH-6_A9 , ga:AH-5_A10 , gs:AH-146 , gs:AH-145 , ga:AH-5_A9 , ga:AH-6_A10 , gs:AH-6_A10 , gs:AH-5_A10 , ga:AH-146 , gs:AH-5_A8 , ga:AH-145 , gs:AH-5_A9 , gs:AH-144 , ga:AH-5_A8 ;
+        skos:altLabel       "P-3930453-5" ;
+        skos:note           "Healthy and complete hydatidiform mole human chorionic gonadotropins" .
+
+gs:AH-2  a                  gn:Sample ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-144  a                gn:Abundance ;
+        dcterms:identifier  "AH-144" .
+
+gs:AH-32  a                 gn:Sample ;
+        dcterms:identifier  "AH-32" .
+
+ga:AH-3  a                  gn:Abundance ;
+        dcterms:identifier  "AH-3" .
+
+ga:AH-25  a                 gn:Abundance ;
+        dcterms:identifier  "AH-25" .
+
+gs:AH-150  a                gn:Sample ;
+        dcterms:identifier  "AH-150" .
+
+ga:AH-6_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A9" .
+
+gs:AH-6_A10  a              gn:Sample ;
+        dcterms:identifier  "AH-6_A10" .
+
+ga:AH-151  a                gn:Abundance ;
+        dcterms:identifier  "AH-151" .
+
+ga:AH-5_A10  a              gn:Abundance ;
+        dcterms:identifier  "AH-5_A10" .
+
+gs:AH-148  a                gn:Sample ;
+        dcterms:identifier  "AH-148" .
+
+gs:AH-11  a                 gn:Sample ;
+        dcterms:identifier  "AH-11" .
+
+ga:AH-32  a                 gn:Abundance ;
+        dcterms:identifier  "AH-32" .
+
+ga:AH-149  a                gn:Abundance ;
+        dcterms:identifier  "AH-149" .
+
+gs:AH-24  a                 gn:Sample ;
+        dcterms:identifier  "AH-24" .
+
+gp:GP_4  a                  gn:Project ;
+        rdfs:label          "GP_1_GP_2_GP_3_" ;
+        dcterms:identifier  "GP_4" ;
+        sio:SIO_000008      gp:GP_3 , gp:GP_2 , gp:GP_1 ;
+        skos:altLabel       "P-3930453-4" ;
+        skos:note           "Healthy, complete hydatidiform mole and choriocarcinoma human chorionic gonadotropins" .
+
+gs:AH-1  a                  gn:Sample ;
+        dcterms:identifier  "AH-1" .
+
+ga:AH-5_A9  a               gn:Abundance ;
+        dcterms:identifier  "AH-5_A9" .
+
+gp:GP_13  a                 gn:Project ;
+        rdfs:label          "AH-10_AH-11_" ;
+        dcterms:identifier  "GP_13" ;
+        sio:SIO_000008      gs:AH-11 , ga:AH-11 , gs:AH-10 , ga:AH-10 ;
+        skos:altLabel       "P-3346214-13" ;
+        skos:note           "" .
+
+gs:AH-31  a                 gn:Sample ;
+        dcterms:identifier  "AH-31" .
+
+ga:AH-11  a                 gn:Abundance ;
+        dcterms:identifier  "AH-11" .
+
+ga:AH-2  a                  gn:Abundance ;
+        dcterms:identifier  "AH-2" .
+
+ga:AH-24  a                 gn:Abundance ;
+        dcterms:identifier  "AH-24" .
+
+ga:AH-6_A8  a               gn:Abundance ;
+        dcterms:identifier  "AH-6_A8" .
+
+gs:AH-29  a                 gn:Sample ;
+        dcterms:identifier  "AH-29" .
+
+ga:AH-150  a                gn:Abundance ;
+        dcterms:identifier  "AH-150" .
+
+gs:AH-10  a                 gn:Sample ;
+        dcterms:identifier  "AH-10" .
+
+gp:GP_9  a                  gn:Project ;
+        rdfs:label          "AH-18_AH-19_" ;
+        dcterms:identifier  "GP_9" ;
+        sio:SIO_000008      gs:AH-19 , ga:AH-19 , gs:AH-18 , ga:AH-18 ;
+        skos:altLabel       "P-16385567-9" ;
+        skos:note           "Haptoglobin in the serum of patients with pancreatic cancer and healthy" .
+
+gs:AH-6  a                  gn:Sample ;
+        dcterms:identifier  "AH-6" .
+
+ga:AH-31  a                 gn:Abundance ;
+        dcterms:identifier  "AH-31" .
+
+ga:AH-148  a                gn:Abundance ;
+        dcterms:identifier  "AH-148" .
+
+gs:AH-23  a                 gn:Sample ;
+        dcterms:identifier  "AH-23" .

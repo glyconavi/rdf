@@ -1,0 +1,1730 @@
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_1  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-18 2018-05-16" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_1 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stained with CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin.The samples were digested with trypsin and was treated with <i>N</i>-Glycosidase F rec [<i>E. coli</i>]. The samples were modified PA (pyridylamino) and analyzed by LC-ESI-MS and MALDI-TOF-MS.   " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-16" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Eiji Miyoshi lab, Osaka University" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-18" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 34" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of healthy." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=16, female n=14" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "health_state" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "healthy" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        dcterms:created         "2018-05-16" ;
+        dcterms:identifier      "GS_1" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of healthy." ;
+        skos:altLabel           "AH-18" ;
+        skos:exactMatch         gs:AH-18 .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+gs:GS_2  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-19 2018-05-16" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_2 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with pancreatic cancer." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-19" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=31, female n=18" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 62" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-16" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stained with CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin.The samples were digested with trypsin and was treated with <i>N</i>-Glycosidase F rec [<i>E. coli</i>]. The samples were modified PA (pyridylamino) and analyzed by LC-ESI-MS and MALDI-TOF-MS.   " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        dcterms:created         "2018-05-16" ;
+        dcterms:identifier      "GS_2" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with pancreatic cancer." ;
+        skos:altLabel           "AH-19" ;
+        skos:exactMatch         gs:AH-19 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+gs:GS_3  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-20 2018-05-16" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_3 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with hepatocellular carcinoma." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-16" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stainedwith CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:684" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=17, female n=6" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-20" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 69" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "hepatocellular carcinoma" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        dcterms:created         "2018-05-16" ;
+        dcterms:identifier      "GS_3" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with hepatocellular carcinoma." ;
+        skos:altLabel           "AH-20" ;
+        skos:exactMatch         gs:AH-20 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_4  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-21 2018-05-16" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_4 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:5082" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=9, female n=3" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stainedwith CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with liver cirrhosis." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "liver cirrhosis" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-16" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 63" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-21" ]
+                                ] ;
+        dcterms:created         "2018-05-16" ;
+        dcterms:identifier      "GS_4" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with liver cirrhosis." ;
+        skos:altLabel           "AH-21" ;
+        skos:exactMatch         gs:AH-21 .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_5  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-22 2018-05-17" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_5 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-22" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 59" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:10534" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with gastric cancer." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-17" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stainedwith CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=5, female n=5" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "gastric cancer" ]
+                                ] ;
+        dcterms:created         "2018-05-17" ;
+        dcterms:identifier      "GS_5" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with gastric cancer." ;
+        skos:altLabel           "AH-22" ;
+        skos:exactMatch         gs:AH-22 .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_6  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-23 2018-05-17" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_6 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 61" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stainedwith CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-23" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "colon cancer" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:219" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=10, female n=7" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-17" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with colon cancer." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        dcterms:created         "2018-05-17" ;
+        dcterms:identifier      "GS_6" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with colon cancer." ;
+        skos:altLabel           "AH-23" ;
+        skos:exactMatch         gs:AH-23 .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_7  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-24 2018-05-18" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_7 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with pancreatic cancer at stage I and II." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stainedwith CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-18" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease_stage" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "I, II" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        dcterms:created         "2018-05-18" ;
+        dcterms:identifier      "GS_7" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with pancreatic cancer at stage I and II." ;
+        skos:altLabel           "AH-24" ;
+        skos:exactMatch         gs:AH-24 .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+gs:GS_8  a                      gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-25 2018-05-18" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_8 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-18" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-25" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease_stage" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "III, IV" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of patients with pancreatic cancer at stage III and IV." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka National Hospital, Osaka University Hospital and Osaka Medical Center for Cancer and CVD. " ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The fraction  was subjected to SDS-PAGE and stainedwith CBB or blotted onto a nitrocellulose membrane followed by lectin blot analyses using aleuria aurantia lectin or aspergillus oryzae lectin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        dcterms:created         "2018-05-18" ;
+        dcterms:identifier      "GS_8" ;
+        dcterms:references      pubmed:16385567 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of patients with pancreatic cancer at stage III and IV." ;
+        skos:altLabel           "AH-25" ;
+        skos:exactMatch         gs:AH-25 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+gs:GS_9  a                  gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-26 2018-05-22" ;
+        gs:has_abundance    ga:GA_9 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel.Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cells were extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate.PSN-1 and MIAPaCa-2 cells were cultured in serum-free medium for 2 days. " ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-05-22" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "PSN-1" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-26" ]
+                            ] ;
+        dcterms:created     "2018-05-22" ;
+        dcterms:identifier  "GS_9" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-26" ;
+        skos:exactMatch     gs:AH-26 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_10  a                 gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-148 2018-10-15" ;
+        gs:has_abundance    ga:GA_10 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel.Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-148" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cells were extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate.PSN-1 and MIAPaCa-2 cells were cultured in serum-free medium for 2 days. " ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-10-15" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "KLM-1" ]
+                            ] ;
+        dcterms:created     "2018-10-15" ;
+        dcterms:identifier  "GS_10" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-148" ;
+        skos:exactMatch     gs:AH-148 .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_11  a                 gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-149 2018-10-15" ;
+        gs:has_abundance    ga:GA_11 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-10-15" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "MIA PaCa-2" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel. Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-149" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cells were extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate. PSN-1 and MIAPaCa-2 cells were cultured in serum-free medium for 2 days. " ]
+                            ] ;
+        dcterms:created     "2018-10-15" ;
+        dcterms:identifier  "GS_11" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-149" ;
+        skos:exactMatch     gs:AH-149 .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+gs:GS_12  a                 gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-150 2018-10-15" ;
+        gs:has_abundance    ga:GA_12 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-10-15" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cells were extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate. PSN-1 and MIAPaCa-2 cells were cultured in serum-free medium for 2 days. " ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel. Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-150" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "PK8" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                            ] ;
+        dcterms:created     "2018-10-15" ;
+        dcterms:identifier  "GS_12" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-150" ;
+        skos:exactMatch     gs:AH-150 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+gs:GS_13  a                 gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-151 2018-10-15" ;
+        gs:has_abundance    ga:GA_13 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cells were extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate. PSN-1 and MIAPaCa-2 cells were cultured in serum-free medium for 2 days. " ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "PK59" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel. Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-151" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-10-15" ]
+                            ] ;
+        dcterms:created     "2018-10-15" ;
+        dcterms:identifier  "GS_13" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-151" ;
+        skos:exactMatch     gs:AH-151 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+gs:GS_14  a                 gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-152 2018-10-15" ;
+        gs:has_abundance    ga:GA_14 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "PANC-1" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-152" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel. Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cells were extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate. PSN-1 and MIAPaCa-2 cells were cultured in serum-free medium for 2 days. " ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-10-15" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                            ] ;
+        dcterms:created     "2018-10-15" ;
+        dcterms:identifier  "GS_14" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human pancreatic carcinoma cell lines (PSN-1, KLM-1, MiaPaCa-2, PK8, PK59, PANC-1) and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-152" ;
+        skos:exactMatch     gs:AH-152 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_15  a                 gn:Sample ;
+        rdfs:label          "GlycoSample DOI: PMID:16385567 ISBN: Table1&Fig4\n AH-27 2018-05-22" ;
+        gs:has_abundance    ga:GA_15 ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "P00738" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RNA extract from human hepatoma cell line (Hep3B)  and haptoglobin induction by pancreatic cancer cells." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-27" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                              rdf:propertyValue  [ rdfs:label  "RT-PCR was performed and its products were run on an agarose gel. Western blot analysis using an anti-human haptoglobin antibody was performed." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                              rdf:propertyValue  [ rdfs:label  "hepatocellular carcinoma" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                              rdf:propertyValue  [ rdfs:label  "DOID:684" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DB Memo" ] ;
+                              rdf:propertyValue  [ rdfs:label  "There are 2 possibilities of mechanisms increased fucosylation of haptoglobin in the sera of patients with pancreatic cancer. One is that fucosylated haptoglobin is produced by pancreatic cancer cells. Haptoglobin mRNA was expressed only in PSN-1 cells. Both core fucosylation and the α 1-3/α 1-4 fucosylation of haptoglobin were observed in the conditioned media of PSN-1 cells using LC-ESI-MS analysis (data not shown). The other is that a factor induced the production of fucosylated haptoglobin from the liver may be produced by pancreatic cancer. This possibility is supported from that haptoglobin production was increased in a hepatoma cell line, Hep3B added media from pancreatic cancer cells PSN-1 and MIA PaCa-2." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                              rdf:propertyValue  [ rdfs:label  "ATCC (American Type Culture Collection), or the Institute of Development, Aging and Cancer, Tohoku University." ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "cell_line" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Hep3B" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Cultured cell line was extracted RNA using trizol, chloroform, 2-propanol and diethylpyrocarbonate. Hep3B cell was cultured in serum-free medium for 2 days. After collecting the medium, media from PSN-1 or MIAPaCa-2 cells were added and the suspension was further incubated for 2 days. " ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Internal Memo 3" ] ;
+                              rdf:propertyValue  [ rdfs:label  "AH-26とAH-27にAbunはないが、DB Memoと絡めてならユーザへ表示出来る内容と山田さんと判断し、サンプルはたて、Abunがなし、Memoありという状態で残す。" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                              rdf:propertyValue  [ rdfs:label  "2018-05-22" ]
+                            ] ;
+        obo:NCIT_C25447     [ rdf:propertyType   [ rdfs:label  "DB Memo" ] ;
+                              rdf:propertyValue  [ rdfs:label  "Edited Memo" ]
+                            ] ;
+        dcterms:created     "2018-05-22" ;
+        dcterms:identifier  "GS_15" ;
+        dcterms:references  pubmed:16385567 ;
+        dcterms:title       "RNA extract from human hepatoma cell line (Hep3B)  and haptoglobin induction by pancreatic cancer cells." ;
+        skos:altLabel       "AH-27" ;
+        skos:exactMatch     gs:AH-27 .
+
+id_pubmed:16385567  dcterms:identifier  "16385567" .
+
+pubmed:16385567  rdfs:seeAlso  id_pubmed:16385567 ;
+        dcterms:identifier  "16385567" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+
+gs:GS_16  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-28 2018-05-23" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_16 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-28" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 46" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-23" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS. The samples were removed sialic acid with acidic treatment. The samples were digested with PNGase F and labeled with PA. A portion of PA-labeled <i>N</i>-glycans was further digested with α1-3/4 fucosidase followed by digestion with β1-4 galactosidase. Then samples were subjected to NP-HPLC analysis using an amino column." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "health_state" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "healthy" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of healthy." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Eiji Miyoshi lab, Osaka University" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=5, female n=3" ]
+                                ] ;
+        dcterms:created         "2018-05-23" ;
+        dcterms:identifier      "GS_16" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of healthy." ;
+        skos:altLabel           "AH-28" ;
+        skos:exactMatch         gs:AH-28 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+
+gs:GS_17  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-29 2018-05-24" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_17 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 65" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=2, female n=3" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin β chain purified from sera of pancreatic cancer." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka University-related Hospitals" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of pancreatic cancer using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS. The samples were removed sialic acid with acidic treatment. The samples were digested with PNGase F and labeled with PA. A portion of PA-labeled <i>N</i>-glycans was further digested with α1-3/4 fucosidase followed by digestion with β1-4 galactosidase. Then samples were subjected to NP-HPLC analysis." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-29" ]
+                                ] ;
+        dcterms:created         "2018-05-24" ;
+        dcterms:identifier      "GS_17" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin β chain purified from sera of pancreatic cancer." ;
+        skos:altLabel           "AH-29" ;
+        skos:exactMatch         gs:AH-29 .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_18  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-30 2018-05-24" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_18 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-30" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=3, female n=2" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka University-related Hospitals" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "MESH" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "D050500" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "chronic pancreatitis" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 66" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of chronic pancreatitis using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS. The samples were removed sialic acid with acidic treatment. The samples were digested with PNGase F and labeled with PA. A portion of PA-labeled <i>N</i>-glycans was further digested with α1-3/4 fucosidase followed by digestion with β1-4 galactosidase. Then samples were subjected to NP-HPLC analysis." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of chronic pancreatitis." ]
+                                ] ;
+        dcterms:created         "2018-05-24" ;
+        dcterms:identifier      "GS_18" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of chronic pancreatitis." ;
+        skos:altLabel           "AH-30" ;
+        skos:exactMatch         gs:AH-30 .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_19  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-31 2018-05-24" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_19 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS analysis of glycopeptides at N184 and N241. The samples were applied to Sepharose CL4B and removal of sialic acids with acidic treatment. Then the samples were digested with endoprotease Glu-C and separated by reverse-phase HPLC for LC-ESI-MS analysis of glycopeptides at N207 and N211." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "health_state" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "healthy" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-31" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of young healthy." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "26–38 years of age, n=5" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Eiji Miyoshi lab, Osaka University" ]
+                                ] ;
+        dcterms:created         "2018-05-24" ;
+        dcterms:identifier      "GS_19" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of young healthy." ;
+        skos:altLabel           "AH-31" ;
+        skos:exactMatch         gs:AH-31 .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_20  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-32 2018-05-24" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_20 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of old healthy." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Eiji Miyoshi lab, Osaka University" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-32" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS analysis of glycopeptides at N184 and N241. The samples were applied to Sepharose CL4B and removal of sialic acids with acidic treatment. Then the samples were digested with endoprotease Glu-C and separated by reverse-phase HPLC for LC-ESI-MS analysis of glycopeptides at N207 and N211." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "health_state" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "healthy" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "63–75 years of age, n=3" ]
+                                ] ;
+        dcterms:created         "2018-05-24" ;
+        dcterms:identifier      "GS_20" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of old healthy." ;
+        skos:altLabel           "AH-32" ;
+        skos:exactMatch         gs:AH-32 .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_21  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-33 2018-05-24" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_21 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka University-related Hospitals" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=2, female n=3" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of pancreatic cancer." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "pancreatic cancer" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "DOID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "DOID:1793" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-33" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS analysis of glycopeptides at N184 and N241. The samples were applied to Sepharose CL4B and removal of sialic acids with acidic treatment. Then the samples were digested with endoprotease Glu-C and separated by reverse-phase HPLC for LC-ESI-MS analysis of glycopeptides at N207 and N211." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 65" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        dcterms:created         "2018-05-24" ;
+        dcterms:identifier      "GS_21" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of pancreatic cancer." ;
+        skos:altLabel           "AH-33" ;
+        skos:exactMatch         gs:AH-33 .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+gs:GS_22  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:18214858 ISBN: Fig2b&Fig2c&Fig2d&Supplemental Fig3A&Supplemental Fig3B\n AH-34 2018-05-24" ;
+        gs:gene                 "HP" ;
+        gs:has_abundance        ga:GA_22 ;
+        gs:has_amino_acid__seq  "MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ;
+        gs:organism             "Homo sapiens" ;
+        gs:taxonomy             "9606" ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain was purified from sera of healthy using an anti-haptoglobin afﬁnity column coupled with anti human haptoglobin antibody." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "age" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "mean 66" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P00738" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_mat_process" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "The samples were analyzed using Aleuria aurantia lectin (AAL) blot. The samples were digested with trypsin and lysylendopeptidase for LC-ESI-MS analysis of glycopeptides at N184 and N241. The samples were applied to Sepharose CL4B and removal of sialic acids with acidic treatment. Then the samples were digested with endoprotease Glu-C and separated by reverse-phase HPLC for LC-ESI-MS analysis of glycopeptides at N207 and N211." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1MSALGAVIALLLWGQLFAVDSGNDVTDIADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNDKKQWINKAVGDKLPECEADDGCPKPPEIAHGYVEHSVRYQCKNYYKLRTEGDGVYTLNNEKQWINKAVGDKLPECEAVCGKPKNPANPVQRILGGHLDAKGSFPWQAKMVSHHNLTTGATLINEQWLLTTAKNLFLNHSENATAKDIAPTLTLYVGKKQLVEIEKVVLHPNYSQVDIGLIKLKQKVSVNERVMPICLPSKDYAEVGRVGYVSGWGRNANFKFTDHLKYVMLPVADQDQCIRHYEGSTVPEKKTPKSPVGVQPILNEHTFCAGMSKYQEDTCYGDAGSAFAVHDLEEDTWYATGILSFDKSCAVAEYGVYVKVTSIQDWVQKTIAEN" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Gene (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "HP" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-24" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "organism" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Haptoglobin beta chain purified from sera of chronic pancreatitis." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "MESH" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "D050500" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Organism (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Homo sapiens" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Taxonomic identifier (UniProt)" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "9606" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "bio_fluids" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "serum" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_store_temp" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "-80 degree Celsius" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "biomaterial_provider" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Osaka University-related Hospitals" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-34" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sex" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "male n=3, female n=2" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "disease" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "chronic pancreatitis" ]
+                                ] ;
+        dcterms:created         "2018-05-24" ;
+        dcterms:identifier      "GS_22" ;
+        dcterms:references      pubmed:18214858 ;
+        dcterms:title           "Haptoglobin beta chain purified from sera of chronic pancreatitis." ;
+        skos:altLabel           "AH-34" ;
+        skos:exactMatch         gs:AH-34 .
+
+id_pubmed:18214858  dcterms:identifier  "18214858" .
+
+pubmed:18214858  rdfs:seeAlso  id_pubmed:18214858 ;
+        dcterms:identifier  "18214858" .
+@prefix pubmed: <http://www.ncbi.nlm.nih.gov/pubmed/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix id_pubmed: <http://identifiers.org/pubmed/> .
+@prefix gn:    <http://purl.jp/bio/12/glyco/glyconavi#> .
+@prefix sio:   <http://semanticscience.org/resource/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ga:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoAbun#> .
+@prefix gs:    <http://purl.jp/bio/12/glyco/glyconavi/GlycoSample#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+pubmed:429259  rdfs:seeAlso  id_pubmed:429259 ;
+        dcterms:identifier  "429259" .
+
+id_pubmed:429259  dcterms:identifier  "429259" .
+
+gs:GS_23  a                     gn:Sample ;
+        rdfs:label              "GlycoSample DOI: PMID:429259 ISBN: Fig7\n AH-17 2018-05-14" ;
+        gs:has_abundance        ga:GA_23 ;
+        gs:has_amino_acid__seq  "MDYYRKYAAIFLVTLSVFLHVLHSAPDVQDCPECTLQENPFFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCCVAKSYNRVTVMGGFKVENHTACHCSTCYYHKS>sp|P0DN87|CGB7_HUMAN Choriogonadotropin subunit beta 7 OS=Homo sapiens OX=9606 GN=CGB7 PE=2 " ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Chains from HCG by Hydrazinolysis" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Date" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "2018-05-14" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "sample_title" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "Commercial human chorionic gonadotropin." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Uniprot ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "P01215&P0DN87,P0DN86" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "Protein Name" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "human chorionic gonadotropin" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "samp_collect_device" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "A commercial hCG was freed from human chorionic thyroid-stimulating hormone by passage through a column of carboxymethyl cellulose.The sample in the unadsorbed fraction was further purified by the method of Bahl (PMID: 5768856). The sample was heated in anhydrous hydrazine at 100 degree Celsius for 20 h. The sample was then evaporated to dryness under reduced pressure over concentrated H<sub>2</sub>SO<sub>4</sub>. After freed from hydrazine by repeated evaporation with toluene, the sample was dried in a desiccator over concentrated H<sub>2</sub>SO<sub>4</sub> overnight. The sample was dissolved in saturated NaHCO<sub>3</sub> solution." ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "local ID" ] ;
+                                  rdf:propertyValue  [ rdfs:label  "AH-17" ]
+                                ] ;
+        obo:NCIT_C25447         [ rdf:propertyType   [ rdfs:label  "UniProtID->Seq" ] ;
+                                  rdf:propertyValue  [ rdfs:label  ">sp|P01215|GLHA_HUMAN Glycoprotein hormones alpha chain OS=Homo sapiens OX=9606 GN=CGA PE=1 SV=1MDYYRKYAAIFLVTLSVFLHVLHSAPDVQDCPECTLQENPFFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCCVAKSYNRVTVMGGFKVENHTACHCSTCYYHKS>sp|P0DN87|CGB7_HUMAN Choriogonadotropin subunit beta 7 OS=Homo sapiens OX=9606 GN=CGB7 PE=2 SV=1MEMFQGLLLLLLLSMGGTWASREMLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCDDPRFQASSSSKAPPPSLPSPSRLPGPSDTPILPQ>sp|P0DN86|CGB3_HUMAN Choriogonadotropin subunit beta 3 OS=Homo sapiens OX=9606 GN=CGB3 PE=1 SV=1MEMFQGLLLLLLLSMGGTWASKEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYRDVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCDDPRFQDSSSSKAPPPSLPSPSRLPGPSDTPILPQ" ]
+                                ] ;
+        dcterms:created         "2018-05-14" ;
+        dcterms:identifier      "GS_23" ;
+        dcterms:references      pubmed:429259 ;
+        dcterms:title           "Commercial human chorionic gonadotropin." ;
+        skos:altLabel           "AH-17" ;
+        skos:exactMatch         gs:AH-17 .
