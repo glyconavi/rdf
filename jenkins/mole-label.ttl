@@ -1,190 +1,48 @@
-@prefix res: <http://www.w3.org/2005/sparql-results#> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-_:_ a res:ResultSet .
-_:_ res:resultVariable "s" , "p" , "o" .
-@prefix ns0:	<http://glyconavi.org/Mole/> .
 @prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000469 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "469_GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000470 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "470_Neu5Ac" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000471 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "471_Neu5AcGalGlc_GM3" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000472 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "472_Neu5AcGalGlc_GM3" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000473 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "473_NeuNTroc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000474 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "474_NeuNTrocGalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000475 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "475_Neu5NTrocGalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000482 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "482_GalNPhth" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000483 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "483_Neu5Ac(GalNPhth)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000492 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "492_Neu5Ac(GalNAc)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000493 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "493_Gal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000494 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "494_Neu5Ac(GalGalNAc)GalGlc_GM1" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000495 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "495_Neu5Ac(GalGalNAc)GalGlc_GM1" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000496 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "496_Neu5Ac(Gal(Gal)GalNAc)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000497 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "497_GalNTroc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000499 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "499_GalNTroc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000502 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "502_GalNTroc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000503 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "503_Neu5NTrocGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000504 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "504_Neu5Troc(GalNTroc)Gal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000505 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "505_Neu5Troc(GalNTroc)Gal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000508 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "508_GalNTroc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000509 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "509_Neu5NTrocGalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000510 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "510_Neu5NTroc(GalNTroc)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000511 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "511_Neu5Ac(GalNAc)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000513 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "513_Neu5Ac(GalNAc)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000514 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "514_Gal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000515 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "515_Gal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000516 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "516_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000518 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "518_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000519 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "519_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000520 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "520_Neu5AcNeu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000523 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "523_Neu5AcNeu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000524 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "524_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000525 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "525_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000526 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "526_Neu5AcNeu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000527 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "527_Neu5AcNeu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000529 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "529_Neu5Ac(GalGalNAc)GalGlc_GM1" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000532 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "532_Neu5Ac(GalGalNAc)GalGlc_GM1" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000533 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "533_Neu5Ac(Neu5AcGalGalNAc)GalGlc_GD1a" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000534 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "534_Neu5Ac(Neu5AcGalGalNAc)GalGlc_GD1a" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000535 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "535_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000536 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "536_Neu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000537 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "537_Neu5AcNeu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000538 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "538_Neu5Ac(Neu5AcNeu5AcGalGalNAc)GalGlc" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000539 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "539_Neu5AcNeu5AcGal" ] ] .
-_:_ res:solution [
-      res:binding [ res:variable "s" ; res:value ns0:N-0000-000540 ] ;
-      res:binding [ res:variable "p" ; res:value rdfs:label ] ;
-      res:binding [ res:variable "o" ; res:value "540_Neu5Ac(Neu5AcNeu5AcGalGalNAc)GalGlc" ] ] .
+@prefix ns1:	<http://glyconavi.org/Mole/> .
+ns1:N-0000-000469	rdfs:label	"469_GalGlc" .
+ns1:N-0000-000470	rdfs:label	"470_Neu5Ac" .
+ns1:N-0000-000471	rdfs:label	"471_Neu5AcGalGlc_GM3" .
+ns1:N-0000-000472	rdfs:label	"472_Neu5AcGalGlc_GM3" .
+ns1:N-0000-000473	rdfs:label	"473_NeuNTroc" .
+ns1:N-0000-000474	rdfs:label	"474_NeuNTrocGalGlc" .
+ns1:N-0000-000475	rdfs:label	"475_Neu5NTrocGalGlc" .
+ns1:N-0000-000482	rdfs:label	"482_GalNPhth" .
+ns1:N-0000-000483	rdfs:label	"483_Neu5Ac(GalNPhth)GalGlc" .
+ns1:N-0000-000492	rdfs:label	"492_Neu5Ac(GalNAc)GalGlc" .
+ns1:N-0000-000493	rdfs:label	"493_Gal" .
+ns1:N-0000-000494	rdfs:label	"494_Neu5Ac(GalGalNAc)GalGlc_GM1" .
+ns1:N-0000-000495	rdfs:label	"495_Neu5Ac(GalGalNAc)GalGlc_GM1" .
+ns1:N-0000-000496	rdfs:label	"496_Neu5Ac(Gal(Gal)GalNAc)GalGlc" .
+ns1:N-0000-000497	rdfs:label	"497_GalNTroc" .
+ns1:N-0000-000499	rdfs:label	"499_GalNTroc" .
+ns1:N-0000-000502	rdfs:label	"502_GalNTroc" .
+ns1:N-0000-000503	rdfs:label	"503_Neu5NTrocGal" .
+ns1:N-0000-000504	rdfs:label	"504_Neu5Troc(GalNTroc)Gal" .
+ns1:N-0000-000505	rdfs:label	"505_Neu5Troc(GalNTroc)Gal" .
+ns1:N-0000-000508	rdfs:label	"508_GalNTroc" .
+ns1:N-0000-000509	rdfs:label	"509_Neu5NTrocGalGlc" .
+ns1:N-0000-000510	rdfs:label	"510_Neu5NTroc(GalNTroc)GalGlc" .
+ns1:N-0000-000511	rdfs:label	"511_Neu5Ac(GalNAc)GalGlc" .
+ns1:N-0000-000513	rdfs:label	"513_Neu5Ac(GalNAc)GalGlc" .
+ns1:N-0000-000514	rdfs:label	"514_Gal" .
+ns1:N-0000-000515	rdfs:label	"515_Gal" .
+ns1:N-0000-000516	rdfs:label	"516_Neu5AcGal" .
+ns1:N-0000-000518	rdfs:label	"518_Neu5AcGal" .
+ns1:N-0000-000519	rdfs:label	"519_Neu5AcGal" .
+ns1:N-0000-000520	rdfs:label	"520_Neu5AcNeu5AcGal" .
+ns1:N-0000-000523	rdfs:label	"523_Neu5AcNeu5AcGal" .
+ns1:N-0000-000524	rdfs:label	"524_Neu5AcGal" .
+ns1:N-0000-000525	rdfs:label	"525_Neu5AcGal" .
+ns1:N-0000-000526	rdfs:label	"526_Neu5AcNeu5AcGal" .
+ns1:N-0000-000527	rdfs:label	"527_Neu5AcNeu5AcGal" .
+ns1:N-0000-000529	rdfs:label	"529_Neu5Ac(GalGalNAc)GalGlc_GM1" .
+ns1:N-0000-000532	rdfs:label	"532_Neu5Ac(GalGalNAc)GalGlc_GM1" .
+ns1:N-0000-000533	rdfs:label	"533_Neu5Ac(Neu5AcGalGalNAc)GalGlc_GD1a" .
+ns1:N-0000-000534	rdfs:label	"534_Neu5Ac(Neu5AcGalGalNAc)GalGlc_GD1a" .
+ns1:N-0000-000535	rdfs:label	"535_Neu5AcGal" .
+ns1:N-0000-000536	rdfs:label	"536_Neu5AcGal" .
+ns1:N-0000-000537	rdfs:label	"537_Neu5AcNeu5AcGal" .
+ns1:N-0000-000538	rdfs:label	"538_Neu5Ac(Neu5AcNeu5AcGalGalNAc)GalGlc" .
+ns1:N-0000-000539	rdfs:label	"539_Neu5AcNeu5AcGal" .
+ns1:N-0000-000540	rdfs:label	"540_Neu5Ac(Neu5AcNeu5AcGalGalNAc)GalGlc" .
