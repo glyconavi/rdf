@@ -7,6 +7,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glycoinfo.org/glycans/type/O-GalNAc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G57321FI> .
 <http://glytoucan.org/Structures/Glycans/G57321FI>
+ <http://purl.org/dc/terms/identifier> "G57321FI";
  skos:prefLabel "alpha-GalpNAc" ;
  skos:altLabel "O-GalNAc" ;
  rdfs:label "a2112h-1a_1-5_2*NCC/3=O" ;
@@ -18,6 +19,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glycoinfo.org/glycans/type/O-Fuc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G96881BQ> .
 <http://glytoucan.org/Structures/Glycans/G96881BQ>
+ <http://purl.org/dc/terms/identifier> "G96881BQ";
  skos:prefLabel "alpha-Fucp" ;
  skos:altLabel "O-Fuc" ;
  rdfs:label "a1221m-1a_1-5" ;
@@ -29,6 +31,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glycoinfo.org/glycans/type/O-Glc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G58161NS> .
 <http://glytoucan.org/Structures/Glycans/G58161NS>
+ <http://purl.org/dc/terms/identifier> "G58161NS";
  skos:prefLabel "alpha-Glcp" ;
  rdfs:label "a2122h-1a_1-5" ;
  glycan:has_Glycosylated_AA
@@ -38,6 +41,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glycoinfo.org/glycans/type/O-GlcNAc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G68544GH> .
 <http://glytoucan.org/Structures/Glycans/G68544GH>
+ <http://purl.org/dc/terms/identifier> "G68544GH";
  skos:prefLabel "alpha-GlcpNAc" ;
  skos:altLabel "O-GlcNAc" ;
  rdfs:label "a2122h-1a_1-5_2*NCC/3=O" ;
@@ -65,6 +69,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glycoinfo.org/glycans/type/N-GlcNAc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G49108TO> .
 <http://glytoucan.org/Structures/Glycans/G49108TO>
+ <http://purl.org/dc/terms/identifier> "G49108TO";
 rdfs:label "a2122h-1b_1-5_2*NCC/3=O" ;
 skos:prefLabel "beta-GlcpNAc" ;
  glycan:has_Glycosylated_AA
@@ -76,14 +81,14 @@ skos:prefLabel "beta-GlcpNAc" ;
  rdfs:label "L-asparagine residue" ;
  <http://purl.org/dc/terms/identifier> "CHEBI:50347" ;
  skos:prefLabel "N" ;
- a glycan:glycosylated_AA ;
- glycan:has_attached_glycan <http://glytoucan.org/Structures/Glycans/G49108TO> .
+ a glycan:glycosylated_AA  .
 
 
 # C-glycan
 <http://glycoinfo.org/glycans/type/C-Man>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G61491DK> .
 <http://glytoucan.org/Structures/Glycans/G61491DK>
+ <http://purl.org/dc/terms/identifier> "G61491DK";
 rdfs:label "a1122h-1a_1-5" ;
 skos:prefLabel "alpha-Manp" ;
  skos:altLabel "C-Man" ;
