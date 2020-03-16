@@ -10,7 +10,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
  skos:prefLabel "alpha-GalpNAc" ;
  skos:altLabel "O-GalNAc" ;
  rdfs:label "a2112h-1a_1-5_2*NCC/3=O" ;
- glycan:has-Glycosylated_AA
+ glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_29999> ,
      <http://purl.obolibrary.org/obo/CHEBI_30013> . 
 
@@ -21,7 +21,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
  skos:prefLabel "alpha-Fucp" ;
  skos:altLabel "O-Fuc" ;
  rdfs:label "a1221m-1a_1-5" ;
- glycan:has-Glycosylated_AA
+ glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_29999> ,
      <http://purl.obolibrary.org/obo/CHEBI_30013> . 
 
@@ -31,7 +31,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glytoucan.org/Structures/Glycans/G58161NS>
  skos:prefLabel "alpha-Glcp" ;
  rdfs:label "a2122h-1a_1-5" ;
- glycan:has-Glycosylated_AA
+ glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_29999> . 
 
 # O-GlcNAc
@@ -41,7 +41,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
  skos:prefLabel "alpha-GlcpNAc" ;
  skos:altLabel "O-GlcNAc" ;
  rdfs:label "a2122h-1a_1-5_2*NCC/3=O" ;
- glycan:has-Glycosylated_AA
+ glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_29999> ,
      <http://purl.obolibrary.org/obo/CHEBI_30013> . 
 
@@ -67,7 +67,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 <http://glytoucan.org/Structures/Glycans/G49108TO>
 rdfs:label "a2122h-1b_1-5_2*NCC/3=O" ;
 skos:prefLabel "beta-GlcpNAc" ;
- glycan:has-Glycosylated_AA
+ glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_50347> . 
 
 # L-Asparagine Residue
@@ -87,7 +87,7 @@ skos:prefLabel "beta-GlcpNAc" ;
 rdfs:label "a1122h-1a_1-5" ;
 skos:prefLabel "alpha-Manp" ;
  skos:altLabel "C-Man" ;
- glycan:has-Glycosylated_AA
+ glycan:has_Glycosylated_AA
       <http://purl.obolibrary.org/obo/CHEBI_29954> . 
 
 # L-Tryptophan Residue
