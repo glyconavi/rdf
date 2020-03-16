@@ -32,8 +32,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
  skos:prefLabel "alpha-Glcp" ;
  rdfs:label "a2122h-1a_1-5" ;
  glycan:has-Glycosylated_AA
-     <http://purl.obolibrary.org/obo/CHEBI_29999> ,
-     <http://purl.obolibrary.org/obo/CHEBI_30013> . 
+     <http://purl.obolibrary.org/obo/CHEBI_29999> . 
 
 # O-GlcNAc
 <http://glycoinfo.org/glycans/type/O-GlcNAc>
