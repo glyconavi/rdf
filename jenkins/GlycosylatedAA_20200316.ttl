@@ -1,11 +1,13 @@
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX glycan: <http://purl.jp/bio/12/glyco/glycan#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX glycopro: <http://glyconavi.org/protein/>
 
 # O-glycan
 # O-GalNAc
 <http://glycoinfo.org/glycans/type/O-GalNAc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G57321FI> .
+
 <http://glytoucan.org/Structures/Glycans/G57321FI>
  <http://purl.org/dc/terms/identifier> "G57321FI";
  skos:prefLabel "alpha-GalpNAc" ;
@@ -17,7 +19,9 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 # O-Fuc
 <http://glycoinfo.org/glycans/type/O-Fuc>
- glycan:has_component <http://glytoucan.org/Structures/Glycans/G96881BQ> .
+ glycan:has_component <http://glytoucan.org/Structures/Glycans/G96881BQ> ;
+ glycopro:consensus_sequence <http://glycoinfo.org/glycans/type/O-Fuc/consensus_sequence> .
+
 <http://glytoucan.org/Structures/Glycans/G96881BQ>
  <http://purl.org/dc/terms/identifier> "G96881BQ";
  skos:prefLabel "alpha-Fucp" ;
@@ -27,9 +31,18 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
      <http://purl.obolibrary.org/obo/CHEBI_29999> ,
      <http://purl.obolibrary.org/obo/CHEBI_30013> . 
 
+<http://glycoinfo.org/glycans/type/O-Fuc/consensus_sequence>
+ a <http://semanticscience.org/resource/SIO_001118> ;
+ rdfs:label "CysXaaXaaGlyGlySerCys or CysXaaXaaGlyGlyThrCys" ;
+skos:prefLabel "CXXGGSC", "CXXGGTC" ;
+skos:altLabel "CysXaaXaaGlyGlySerCys", "CysXaaXaaGlyGlyThrCys" .
+
+
 # O-Glc
 <http://glycoinfo.org/glycans/type/O-Glc>
- glycan:has_component <http://glytoucan.org/Structures/Glycans/G58161NS> .
+ glycan:has_component <http://glytoucan.org/Structures/Glycans/G58161NS> ;
+ glycopro:consensus_sequence <http://glycoinfo.org/glycans/type/O-Glc/consensus_sequence> .
+
 <http://glytoucan.org/Structures/Glycans/G58161NS>
  <http://purl.org/dc/terms/identifier> "G58161NS";
  skos:prefLabel "alpha-Glcp" ;
@@ -37,9 +50,18 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
  glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_29999> . 
 
+<http://glycoinfo.org/glycans/type/O-Glc/consensus_sequence>
+ a <http://semanticscience.org/resource/SIO_001118> ;
+ rdfs:label "CysXaaSerXaaProCys" ;
+skos:prefLabel "CXSXPC" ;
+skos:altLabel "CysXaaSerXaaProCys" .
+
+
+
 # O-GlcNAc
 <http://glycoinfo.org/glycans/type/O-GlcNAc>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G68544GH> .
+
 <http://glytoucan.org/Structures/Glycans/G68544GH>
  <http://purl.org/dc/terms/identifier> "G68544GH";
  skos:prefLabel "alpha-GlcpNAc" ;
@@ -67,13 +89,21 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 # N-glycan
 <http://glycoinfo.org/glycans/type/N-GlcNAc>
- glycan:has_component <http://glytoucan.org/Structures/Glycans/G49108TO> .
+ glycan:has_component <http://glytoucan.org/Structures/Glycans/G49108TO> ;
+ glycopro:consensus_sequence <http://glycoinfo.org/glycans/type/N-GlcNAc/consensus_sequence> .
+
 <http://glytoucan.org/Structures/Glycans/G49108TO>
  <http://purl.org/dc/terms/identifier> "G49108TO";
 rdfs:label "a2122h-1b_1-5_2*NCC/3=O" ;
 skos:prefLabel "beta-GlcpNAc" ;
  glycan:has_Glycosylated_AA
      <http://purl.obolibrary.org/obo/CHEBI_50347> . 
+
+<http://glycoinfo.org/glycans/type/N-GlcNAc/consensus_sequence>
+ a <http://semanticscience.org/resource/SIO_001118> ;
+ rdfs:label "Asn-Xaa-Ser/Thr (where Xaa is not Pro; note that Thr is more common than Ser) and more rarely Asn-X-Cys" ;
+skos:prefLabel "NXS", "NXT", "NXC" ;
+skos:altLabel "AsnXaaSer", "AsnXaaThr" , "AsnXaaCys" .
 
 # L-Asparagine Residue
 <http://purl.obolibrary.org/obo/CHEBI_50347>
@@ -87,6 +117,7 @@ skos:prefLabel "beta-GlcpNAc" ;
 # C-glycan
 <http://glycoinfo.org/glycans/type/C-Man>
  glycan:has_component <http://glytoucan.org/Structures/Glycans/G61491DK> .
+
 <http://glytoucan.org/Structures/Glycans/G61491DK>
  <http://purl.org/dc/terms/identifier> "G61491DK";
 rdfs:label "a1122h-1a_1-5" ;
