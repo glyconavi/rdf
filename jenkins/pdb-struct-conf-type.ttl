@@ -1,0 +1,377 @@
+@base <http://glycoinfo.org/pdb/struct_conf_type.id> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix gn: <http://glyconavi.org/owl#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+<HELX_LH_27_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_27_P" ;
+  dc:description "left-handed 2-7 helix (protein)" .
+<HELX_LH_3T_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_3T_P" ;
+  dc:description "left-handed 3-10 helix (protein)" .
+<HELX_LH_AL_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_AL_P" ;
+  dc:description "left-handed alpha helix (protein)" .
+<HELX_LH_A_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_A_N" ;
+  dc:description "left-handed A helix (nucleic acid)" .
+<HELX_LH_B_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_B_N" ;
+  dc:description "left-handed B helix (nucleic acid)" .
+<HELX_LH_GA_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_GA_P" ;
+  dc:description "left-handed gamma helix (protein)" .
+<HELX_LH_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_N" ;
+  dc:description "left-handed helix with type not specified (nucleic acid)" .
+<HELX_LH_OM_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_OM_P" ;
+  dc:description "left-handed omega helix (protein)" .
+<HELX_LH_OT_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_OT_N" ;
+  dc:description "left-handed helix with type that does not conform to an accepted category (nucleic acid)" .
+<HELX_LH_OT_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_OT_P" ;
+  dc:description "left-handed helix with type that does not conform to an accepted category (protein)" .
+<HELX_LH_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_P" ;
+  dc:description "left-handed helix with type not specified (protein)" .
+<HELX_LH_PI_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_PI_P" ;
+  dc:description "left-handed pi helix (protein)" .
+<HELX_LH_PP_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_PP_P" ;
+  dc:description "left-handed polyproline helix (protein)" .
+<HELX_LH_Z_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_LH_Z_N" ;
+  dc:description "left-handed Z helix (nucleic acid)" .
+<HELX_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_N" ;
+  dc:description "helix with handedness and type not specified (nucleic acid)" .
+<HELX_OT_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_OT_N" ;
+  dc:description "helix with handedness and type that do not conform to an accepted category (nucleic acid)" .
+<HELX_OT_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_OT_P" ;
+  dc:description "helix with handedness and type that do not conform to an accepted category (protein)" .
+<HELX_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_P" ;
+  dc:description "helix with handedness and type not specified (protein)" .
+<HELX_RH_27_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_27_P" ;
+  dc:description "right-handed 2-7 helix (protein)" .
+<HELX_RH_3T_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_3T_P" ;
+  dc:description "right-handed 3-10 helix (protein)" .
+<HELX_RH_AL_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_AL_P" ;
+  dc:description "right-handed alpha helix (protein)" .
+<HELX_RH_A_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_A_N" ;
+  dc:description "right-handed A helix (nucleic acid)" .
+<HELX_RH_B_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_B_N" ;
+  dc:description "right-handed B helix (nucleic acid)" .
+<HELX_RH_GA_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_GA_P" ;
+  dc:description "right-handed gamma helix (protein)" .
+<HELX_RH_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_N" ;
+  dc:description "right-handed helix with type not specified (nucleic acid)" .
+<HELX_RH_OM_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_OM_P" ;
+  dc:description "right-handed omega helix (protein)" .
+<HELX_RH_OT_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_OT_N" ;
+  dc:description "right-handed helix with type that does not conform to an accepted category (nucleic acid)" .
+<HELX_RH_OT_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_OT_P" ;
+  dc:description "right-handed helix with type that does not conform to an accepted category (protein)" .
+<HELX_RH_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_P" ;
+  dc:description "right-handed helix with type not specified (protein)" .
+<HELX_RH_PI_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_PI_P" ;
+  dc:description "right-handed pi helix (protein)" .
+<HELX_RH_PP_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_PP_P" ;
+  dc:description "right-handed polyproline helix (protein)" .
+<HELX_RH_Z_N>
+  a gn:Struct_conf_type ;
+  rdfs:label "HELX_RH_Z_N" ;
+  dc:description "right-handed Z helix (nucleic acid)" .
+<STRN>
+  a gn:Struct_conf_type ;
+  rdfs:label "STRN" ;
+  dc:description "beta strand (protein)" .
+<TURN_OT_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_OT_P" ;
+  dc:description "turn with type that does not conform to an accepted category (protein)" .
+<TURN_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_P" ;
+  dc:description "turn with type not specified (protein)" .
+<TURN_TY1P_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_TY1P_P" ;
+  dc:description "type I prime turn (protein)" .
+<TURN_TY1_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_TY1_P" ;
+  dc:description "type I turn (protein)" .
+<TURN_TY2P_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_TY2P_P" ;
+  dc:description "type II prime turn (protein)" .
+<TURN_TY2_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_TY2_P" ;
+  dc:description "type II turn (protein)" .
+<TURN_TY3P_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_TY3P_P" ;
+  dc:description "type III prime turn (protein)" .
+<TURN_TY3_P>
+  a gn:Struct_conf_type ;
+  rdfs:label "TURN_TY3_P" ;
+  dc:description "type III turn (protein)" .
+@base <http://glycoinfo.org/pdb/struct_conf_type.id/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix pdbo: <https://rdf.wwpdb.org/schema/pdbx-v50.owl#> .
+<HELX_LH_27_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_27_P" ;
+  dc:identifier "HELX_LH_27_P" ;
+  dc:description "left-handed 2-7 helix (protein)" .
+<HELX_LH_3T_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_3T_P" ;
+  dc:identifier "HELX_LH_3T_P" ;
+  dc:description "left-handed 3-10 helix (protein)" .
+<HELX_LH_AL_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_AL_P" ;
+  dc:identifier "HELX_LH_AL_P" ;
+  dc:description "left-handed alpha helix (protein)" .
+<HELX_LH_A_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_A_N" ;
+  dc:identifier "HELX_LH_A_N" ;
+  dc:description "left-handed A helix (nucleic acid)" .
+<HELX_LH_B_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_B_N" ;
+  dc:identifier "HELX_LH_B_N" ;
+  dc:description "left-handed B helix (nucleic acid)" .
+<HELX_LH_GA_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_GA_P" ;
+  dc:identifier "HELX_LH_GA_P" ;
+  dc:description "left-handed gamma helix (protein)" .
+<HELX_LH_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_N" ;
+  dc:identifier "HELX_LH_N" ;
+  dc:description "left-handed helix with type not specified (nucleic acid)" .
+<HELX_LH_OM_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_OM_P" ;
+  dc:identifier "HELX_LH_OM_P" ;
+  dc:description "left-handed omega helix (protein)" .
+<HELX_LH_OT_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_OT_N" ;
+  dc:identifier "HELX_LH_OT_N" ;
+  dc:description "left-handed helix with type that does not conform to an accepted category (nucleic acid)" .
+<HELX_LH_OT_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_OT_P" ;
+  dc:identifier "HELX_LH_OT_P" ;
+  dc:description "left-handed helix with type that does not conform to an accepted category (protein)" .
+<HELX_LH_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_P" ;
+  dc:identifier "HELX_LH_P" ;
+  dc:description "left-handed helix with type not specified (protein)" .
+<HELX_LH_PI_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_PI_P" ;
+  dc:identifier "HELX_LH_PI_P" ;
+  dc:description "left-handed pi helix (protein)" .
+<HELX_LH_PP_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_PP_P" ;
+  dc:identifier "HELX_LH_PP_P" ;
+  dc:description "left-handed polyproline helix (protein)" .
+<HELX_LH_Z_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_LH_Z_N" ;
+  dc:identifier "HELX_LH_Z_N" ;
+  dc:description "left-handed Z helix (nucleic acid)" .
+<HELX_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_N" ;
+  dc:identifier "HELX_N" ;
+  dc:description "helix with handedness and type not specified (nucleic acid)" .
+<HELX_OT_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_OT_N" ;
+  dc:identifier "HELX_OT_N" ;
+  dc:description "helix with handedness and type that do not conform to an accepted category (nucleic acid)" .
+<HELX_OT_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_OT_P" ;
+  dc:identifier "HELX_OT_P" ;
+  dc:description "helix with handedness and type that do not conform to an accepted category (protein)" .
+<HELX_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_P" ;
+  dc:identifier "HELX_P" ;
+  dc:description "helix with handedness and type not specified (protein)" .
+<HELX_RH_27_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_27_P" ;
+  dc:identifier "HELX_RH_27_P" ;
+  dc:description "right-handed 2-7 helix (protein)" .
+<HELX_RH_3T_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_3T_P" ;
+  dc:identifier "HELX_RH_3T_P" ;
+  dc:description "right-handed 3-10 helix (protein)" .
+<HELX_RH_AL_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_AL_P" ;
+  dc:identifier "HELX_RH_AL_P" ;
+  dc:description "right-handed alpha helix (protein)" .
+<HELX_RH_A_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_A_N" ;
+  dc:identifier "HELX_RH_A_N" ;
+  dc:description "right-handed A helix (nucleic acid)" .
+<HELX_RH_B_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_B_N" ;
+  dc:identifier "HELX_RH_B_N" ;
+  dc:description "right-handed B helix (nucleic acid)" .
+<HELX_RH_GA_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_GA_P" ;
+  dc:identifier "HELX_RH_GA_P" ;
+  dc:description "right-handed gamma helix (protein)" .
+<HELX_RH_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_N" ;
+  dc:identifier "HELX_RH_N" ;
+  dc:description "right-handed helix with type not specified (nucleic acid)" .
+<HELX_RH_OM_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_OM_P" ;
+  dc:identifier "HELX_RH_OM_P" ;
+  dc:description "right-handed omega helix (protein)" .
+<HELX_RH_OT_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_OT_N" ;
+  dc:identifier "HELX_RH_OT_N" ;
+  dc:description "right-handed helix with type that does not conform to an accepted category (nucleic acid)" .
+<HELX_RH_OT_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_OT_P" ;
+  dc:identifier "HELX_RH_OT_P" ;
+  dc:description "right-handed helix with type that does not conform to an accepted category (protein)" .
+<HELX_RH_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_P" ;
+  dc:identifier "HELX_RH_P" ;
+  dc:description "right-handed helix with type not specified (protein)" .
+<HELX_RH_PI_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_PI_P" ;
+  dc:identifier "HELX_RH_PI_P" ;
+  dc:description "right-handed pi helix (protein)" .
+<HELX_RH_PP_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_PP_P" ;
+  dc:identifier "HELX_RH_PP_P" ;
+  dc:description "right-handed polyproline helix (protein)" .
+<HELX_RH_Z_N>
+  a pdbo:struct_conf_type ;
+  rdfs:label "HELX_RH_Z_N" ;
+  dc:identifier "HELX_RH_Z_N" ;
+  dc:description "right-handed Z helix (nucleic acid)" .
+<STRN>
+  a pdbo:struct_conf_type ;
+  rdfs:label "STRN" ;
+  dc:identifier "STRN" ;
+  dc:description "beta strand (protein)" .
+<TURN_OT_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_OT_P" ;
+  dc:identifier "TURN_OT_P" ;
+  dc:description "turn with type that does not conform to an accepted category (protein)" .
+<TURN_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_P" ;
+  dc:identifier "TURN_P" ;
+  dc:description "turn with type not specified (protein)" .
+<TURN_TY1P_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_TY1P_P" ;
+  dc:identifier "TURN_TY1P_P" ;
+  dc:description "type I prime turn (protein)" .
+<TURN_TY1_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_TY1_P" ;
+  dc:identifier "TURN_TY1_P" ;
+  dc:description "type I turn (protein)" .
+<TURN_TY2P_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_TY2P_P" ;
+  dc:identifier "TURN_TY2P_P" ;
+  dc:description "type II prime turn (protein)" .
+<TURN_TY2_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_TY2_P" ;
+  dc:identifier "TURN_TY2_P" ;
+  dc:description "type II turn (protein)" .
+<TURN_TY3P_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_TY3P_P" ;
+  dc:identifier "TURN_TY3P_P" ;
+  dc:description "type III prime turn (protein)" .
+<TURN_TY3_P>
+  a pdbo:struct_conf_type ;
+  rdfs:label "TURN_TY3_P" ;
+  dc:identifier "TURN_TY3_P" ;
+  dc:description "type III turn (protein)" .
