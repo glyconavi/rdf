@@ -1,0 +1,5206 @@
+@base <http://glytoucan.org/Structures/Glycans/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix gn: <http://glyconavi.org/owl#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+<G10057XH>
+  a gn:Motif ;
+  rdfs:label "Sulfo-isogloboside" ;
+  dc:identifier "G10057XH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G87212TR>
+  a gn:Motif ;
+  rdfs:label "Mono-sulfated globotetraosylceramide" ;
+  dc:identifier "G87212TR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G17931GP>
+  a gn:Motif ;
+  rdfs:label "O-Fucose / EGF repeat" ;
+  dc:identifier "G17931GP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G89208KM>
+  a gn:Motif ;
+  rdfs:label "B-Ley" ;
+  dc:identifier "G89208KM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G89208KM>
+  a gn:Motif ;
+  rdfs:label "Blood group B (type 1)  (B-Lewis Y)" ;
+  dc:identifier "G89208KM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G89208KM>
+  a gn:Motif ;
+  rdfs:label "Blood group B (type 1) (B-Ley)" ;
+  dc:identifier "G89208KM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G89208KM>
+  a gn:Motif ;
+  rdfs:label "Blood group B (type 1)" ;
+  dc:identifier "G89208KM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G51379UR>
+  a gn:Motif ;
+  rdfs:label "alpha-oligomannoside" ;
+  dc:identifier "G51379UR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G51907PX>
+  a gn:Motif ;
+  rdfs:label "30-Sulfo-Lewis x (30-sulfo Lex))" ;
+  dc:identifier "G51907PX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G07490EK>
+  a gn:Motif ;
+  rdfs:label "alpha-oligomannoside" ;
+  dc:identifier "G07490EK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G62735WZ>
+  a gn:Motif ;
+  rdfs:label "Blood group A2 (A-associated H type 3)" ;
+  dc:identifier "G62735WZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G62735WZ>
+  a gn:Motif ;
+  rdfs:label "Blood Group A2" ;
+  dc:identifier "G62735WZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G40585SO>
+  a gn:Motif ;
+  rdfs:label "Paragloboside" ;
+  dc:identifier "G40585SO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G89591DK>
+  a gn:Motif ;
+  rdfs:label "HNK-1 antigen" ;
+  dc:identifier "G89591DK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G99524KA>
+  a gn:Motif ;
+  rdfs:label "GQ1c" ;
+  dc:identifier "G99524KA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G71142DF>
+  a gn:Motif ;
+  rdfs:label "Glucosylceramide" ;
+  dc:identifier "G71142DF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65562ZE>
+  a gn:Motif ;
+  rdfs:label "Sialyl T antigen" ;
+  dc:identifier "G65562ZE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G88393MK>
+  a gn:Motif ;
+  rdfs:label "Antigen H" ;
+  dc:identifier "G88393MK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G20009SF>
+  a gn:Motif ;
+  rdfs:label "Lewis b/y Like" ;
+  dc:identifier "G20009SF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G57036MA>
+  a gn:Motif ;
+  rdfs:label "Sulfo-isogloboside" ;
+  dc:identifier "G57036MA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G24034CH>
+  a gn:Motif ;
+  rdfs:label "II3Neu5GcGg4Cer, GM1(Gc)" ;
+  dc:identifier "G24034CH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81516LH>
+  a gn:Motif ;
+  rdfs:label "O-Mannose Lex" ;
+  dc:identifier "G81516LH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G81516LH>
+  a gn:Motif ;
+  rdfs:label "Lewis X" ;
+  dc:identifier "G81516LH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G84034JH>
+  a gn:Motif ;
+  rdfs:label "Neolactohexosylceramide" ;
+  dc:identifier "G84034JH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G50926NK>
+  a gn:Motif ;
+  rdfs:label "Ceramide dihexosyl sulfate" ;
+  dc:identifier "G50926NK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G31734OS>
+  a gn:Motif ;
+  rdfs:label "Blood group B (type 1)" ;
+  dc:identifier "G31734OS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G31734OS>
+  a gn:Motif ;
+  rdfs:label "Blood Group B Type 1" ;
+  dc:identifier "G31734OS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G64581RP>
+  a gn:Motif ;
+  rdfs:label "N-acetylglucosamine" ;
+  dc:identifier "G64581RP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G97345NY>
+  a gn:Motif ;
+  rdfs:label "SLex Core 2 O-glycan" ;
+  dc:identifier "G97345NY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G97345NY>
+  a gn:Motif ;
+  rdfs:label "SLex Core 2 O-glycan glycan" ;
+  dc:identifier "G97345NY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G01187XC>
+  a gn:Motif ;
+  rdfs:label "Lex" ;
+  dc:identifier "G01187XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G01187XC>
+  a gn:Motif ;
+  rdfs:label "Lewis x   (SSEA-1)" ;
+  dc:identifier "G01187XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G01187XC>
+  a gn:Motif ;
+  rdfs:label "Lewis x (Lex) (SSEA-1)" ;
+  dc:identifier "G01187XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G01187XC>
+  a gn:Motif ;
+  rdfs:label "SSEA-1" ;
+  dc:identifier "G01187XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G01187XC>
+  a gn:Motif ;
+  rdfs:label "Lewis x" ;
+  dc:identifier "G01187XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G72557NR>
+  a gn:Motif ;
+  rdfs:label "B-GD1b" ;
+  dc:identifier "G72557NR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G89659QV>
+  a gn:Motif ;
+  rdfs:label "Lewis Y" ;
+  dc:identifier "G89659QV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G84906ML>
+  a gn:Motif ;
+  rdfs:label "Disialyl T Antigen" ;
+  dc:identifier "G84906ML" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G60645OK>
+  a gn:Motif ;
+  rdfs:label "A-galactosylparagloboside" ;
+  dc:identifier "G60645OK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G61406KC>
+  a gn:Motif ;
+  rdfs:label "Tn Antigen" ;
+  dc:identifier "G61406KC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G22976NF>
+  a gn:Motif ;
+  rdfs:label "MECA-79" ;
+  dc:identifier "G22976NF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G36476BA>
+  a gn:Motif ;
+  rdfs:label "GT2" ;
+  dc:identifier "G36476BA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G36476BA>
+  a gn:Motif ;
+  rdfs:label "GT2" ;
+  dc:identifier "G36476BA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G13224CR>
+  a gn:Motif ;
+  rdfs:label "Sialopentaosylceramide" ;
+  dc:identifier "G13224CR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G90562PB>
+  a gn:Motif ;
+  rdfs:label "Gangliotriaosylceramide" ;
+  dc:identifier "G90562PB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G23094GH>
+  a gn:Motif ;
+  rdfs:label "6,60-bisSulfo-Lewis x (6,60-bissulfo Lex))" ;
+  dc:identifier "G23094GH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G73708UL>
+  a gn:Motif ;
+  rdfs:label "6-Sialyl LN (type 2)" ;
+  dc:identifier "G73708UL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G73708UL>
+  a gn:Motif ;
+  rdfs:label "6-Sialyl LN (type 1)" ;
+  dc:identifier "G73708UL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G73708UL>
+  a gn:Motif ;
+  rdfs:label "6-Sialyl-GalNAc" ;
+  dc:identifier "G73708UL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G73708UL>
+  a gn:Motif ;
+  rdfs:label "6-Sialyl-GalNAc or 6-Sialyl LN (type 1 or 2)" ;
+  dc:identifier "G73708UL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00552RX>
+  a gn:Motif ;
+  rdfs:label "GP1ca" ;
+  dc:identifier "G00552RX" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G25705KO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis a/x Like" ;
+  dc:identifier "G25705KO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G03067VG>
+  a gn:Motif ;
+  rdfs:label "I-active ganglioside" ;
+  dc:identifier "G03067VG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G78074HX>
+  a gn:Motif ;
+  rdfs:label "Isoglobotriaosylceramide" ;
+  dc:identifier "G78074HX" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00294TN>
+  a gn:Motif ;
+  rdfs:label "Blood group H (type 1)" ;
+  dc:identifier "G00294TN" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G11485ID>
+  a gn:Motif ;
+  rdfs:label "B-GM1" ;
+  dc:identifier "G11485ID" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00076PK>
+  a gn:Motif ;
+  rdfs:label "P1 Antigen" ;
+  dc:identifier "G00076PK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G32417JV>
+  a gn:Motif ;
+  rdfs:label "Sialyllacto-N-tetraose b" ;
+  dc:identifier "G32417JV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G59508TM>
+  a gn:Motif ;
+  rdfs:label "Gg4Cer II3-sulfate" ;
+  dc:identifier "G59508TM" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G53277CD>
+  a gn:Motif ;
+  rdfs:label "HNK-1 antigen" ;
+  dc:identifier "G53277CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G26203DP>
+  a gn:Motif ;
+  rdfs:label "GP1c" ;
+  dc:identifier "G26203DP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G44854SQ>
+  a gn:Motif ;
+  rdfs:label "Mono-sulfated globotetraosylceramide" ;
+  dc:identifier "G44854SQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G45714BQ>
+  a gn:Motif ;
+  rdfs:label "GD1a" ;
+  dc:identifier "G45714BQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G17961XM>
+  a gn:Motif ;
+  rdfs:label "Type 1 LN3" ;
+  dc:identifier "G17961XM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93805MV>
+  a gn:Motif ;
+  rdfs:label "GP1c" ;
+  dc:identifier "G93805MV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G34881WK>
+  a gn:Motif ;
+  rdfs:label "Blood group B (type 2)" ;
+  dc:identifier "G34881WK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G89565QL>
+  a gn:Motif ;
+  rdfs:label "O-GlcNAc" ;
+  dc:identifier "G89565QL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93694YU>
+  a gn:Motif ;
+  rdfs:label "2-Fucosyl-GD1b" ;
+  dc:identifier "G93694YU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G43784HS>
+  a gn:Motif ;
+  rdfs:label "Type 1 LN2" ;
+  dc:identifier "G43784HS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G43784HS>
+  a gn:Motif ;
+  rdfs:label "Type 1 LN" ;
+  dc:identifier "G43784HS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G30925QW>
+  a gn:Motif ;
+  rdfs:label "Mono-sulfated globopentaosylceramide" ;
+  dc:identifier "G30925QW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30925QW>
+  a gn:Motif ;
+  rdfs:label "Sulfo-isogloboside" ;
+  dc:identifier "G30925QW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G53231FE>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo-sialyl Lewis x (6-sulfo SLex)" ;
+  dc:identifier "G53231FE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G53231FE>
+  a gn:Motif ;
+  rdfs:label "Cyclic sialyl 6-sulfo Lewis x" ;
+  dc:identifier "G53231FE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G94938PL>
+  a gn:Motif ;
+  rdfs:label "B type 1 B Lewis b" ;
+  dc:identifier "G94938PL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G47428UI>
+  a gn:Motif ;
+  rdfs:label "Lactosamine Like Structure" ;
+  dc:identifier "G47428UI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G59168YE>
+  a gn:Motif ;
+  rdfs:label "3′-sialyl-N-acetyllactosamine(1-3)" ;
+  dc:identifier "G59168YE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93779QZ>
+  a gn:Motif ;
+  rdfs:label "6-sulfo sialyl Lewis c" ;
+  dc:identifier "G93779QZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G24566OP>
+  a gn:Motif ;
+  rdfs:label "Lewis a/x Like structure" ;
+  dc:identifier "G24566OP" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G25216QA>
+  a gn:Motif ;
+  rdfs:label "Blood group B (type 4)" ;
+  dc:identifier "G25216QA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G96596OC>
+  a gn:Motif ;
+  rdfs:label "Monosulfated gangliotetraosylceramide" ;
+  dc:identifier "G96596OC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G15021LG>
+  a gn:Motif ;
+  rdfs:label "Glucose" ;
+  dc:identifier "G15021LG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G43191LZ>
+  a gn:Motif ;
+  rdfs:label "6-sialyl-6-sulfo LN" ;
+  dc:identifier "G43191LZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G43191LZ>
+  a gn:Motif ;
+  rdfs:label "2,6-sialyl-Sulfo-LN (6-sialyl-6-sulfo LN)" ;
+  dc:identifier "G43191LZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G43191LZ>
+  a gn:Motif ;
+  rdfs:label "2,6-sialyl-Sulfo-LN" ;
+  dc:identifier "G43191LZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G32862WC>
+  a gn:Motif ;
+  rdfs:label "Isoglobotetraosylceramide" ;
+  dc:identifier "G32862WC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G12068BR>
+  a gn:Motif ;
+  rdfs:label "A type 1 A Lewis b" ;
+  dc:identifier "G12068BR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G68158BT>
+  a gn:Motif ;
+  rdfs:label "Galactose beta1" ;
+  dc:identifier "G68158BT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G68158BT>
+  a gn:Motif ;
+  rdfs:label "Galactose" ;
+  dc:identifier "G68158BT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G06378CG>
+  a gn:Motif ;
+  rdfs:label "60-Sulfo-sialyl Lewis x (60-sulfo SLex)" ;
+  dc:identifier "G06378CG" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G41323BT>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-4)[Fuc(a1-3)]Glc(b1)" ;
+  dc:identifier "G41323BT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82749ZI>
+  a gn:Motif ;
+  rdfs:label "Internal Blood Group H" ;
+  dc:identifier "G82749ZI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82749ZI>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Like" ;
+  dc:identifier "G82749ZI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G07982RO>
+  a gn:Motif ;
+  rdfs:label "Chitobios" ;
+  dc:identifier "G07982RO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G90598GO>
+  a gn:Motif ;
+  rdfs:label "GQ1aa" ;
+  dc:identifier "G90598GO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G21312EA>
+  a gn:Motif ;
+  rdfs:label "F1 Alpha" ;
+  dc:identifier "G21312EA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G57796RK>
+  a gn:Motif ;
+  rdfs:label "Monosulfated gangliotetraosylceramide" ;
+  dc:identifier "G57796RK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G12460DL>
+  a gn:Motif ;
+  rdfs:label "P1 antigen" ;
+  dc:identifier "G12460DL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G82106UN>
+  a gn:Motif ;
+  rdfs:label "Dimeric Lewis a" ;
+  dc:identifier "G82106UN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G92341SR>
+  a gn:Motif ;
+  rdfs:label "2,6-sialyl-Sulfo-LN (6-sialyl-6-sulfo LN)" ;
+  dc:identifier "G92341SR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G57142PA>
+  a gn:Motif ;
+  rdfs:label "Extended tetrafucosyl-Le" ;
+  dc:identifier "G57142PA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G23041XK>
+  a gn:Motif ;
+  rdfs:label "Precusor Lewis a" ;
+  dc:identifier "G23041XK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G96238FJ>
+  a gn:Motif ;
+  rdfs:label "I Antigen Like" ;
+  dc:identifier "G96238FJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G70323CJ>
+  a gn:Motif ;
+  rdfs:label "O-Mannose" ;
+  dc:identifier "G70323CJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G70323CJ>
+  a gn:Motif ;
+  rdfs:label "Mannose" ;
+  dc:identifier "G70323CJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G20420WT>
+  a gn:Motif ;
+  rdfs:label "Lactosylceramide" ;
+  dc:identifier "G20420WT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G70519XK>
+  a gn:Motif ;
+  rdfs:label "Blood group H (type 2)" ;
+  dc:identifier "G70519XK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G63069TR>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac)a2-6)Gal" ;
+  dc:identifier "G63069TR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G95090DW>
+  a gn:Motif ;
+  rdfs:label "Seminolipid" ;
+  dc:identifier "G95090DW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G95090DW>
+  a gn:Motif ;
+  rdfs:label "Seminolipid" ;
+  dc:identifier "G95090DW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G95090DW>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G95090DW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G95090DW>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G95090DW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G97569KL>
+  a gn:Motif ;
+  rdfs:label "Disialylactose" ;
+  dc:identifier "G97569KL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G46055MA>
+  a gn:Motif ;
+  rdfs:label "I' antigen" ;
+  dc:identifier "G46055MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46055MA>
+  a gn:Motif ;
+  rdfs:label "‘‘I’’ antigen" ;
+  dc:identifier "G46055MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46055MA>
+  a gn:Motif ;
+  rdfs:label "I' antigen'" ;
+  dc:identifier "G46055MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G44060QH>
+  a gn:Motif ;
+  rdfs:label "Blood group A1 (type 3)" ;
+  dc:identifier "G44060QH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G44060QH>
+  a gn:Motif ;
+  rdfs:label "Blood Group A1" ;
+  dc:identifier "G44060QH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G37830TX>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 4)" ;
+  dc:identifier "G37830TX" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G82625KX>
+  a gn:Motif ;
+  rdfs:label "KDN-Gal" ;
+  dc:identifier "G82625KX" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G38301SX>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn Antigen" ;
+  dc:identifier "G38301SX" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G29313LW>
+  a gn:Motif ;
+  rdfs:label "alpha-oligomannoside" ;
+  dc:identifier "G29313LW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G39211DH>
+  a gn:Motif ;
+  rdfs:label "Leb" ;
+  dc:identifier "G39211DH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G39211DH>
+  a gn:Motif ;
+  rdfs:label "Lewis b (Leb)" ;
+  dc:identifier "G39211DH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G39211DH>
+  a gn:Motif ;
+  rdfs:label "Lewis b" ;
+  dc:identifier "G39211DH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G50850NI>
+  a gn:Motif ;
+  rdfs:label "N-acetylneuraminic acid" ;
+  dc:identifier "G50850NI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G50850NI>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G50850NI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G50850NI>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G50850NI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G06953DR>
+  a gn:Motif ;
+  rdfs:label "2,6-Branched O-mannose" ;
+  dc:identifier "G06953DR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G20624LQ>
+  a gn:Motif ;
+  rdfs:label "Pentasaccharide N-linked glycan core" ;
+  dc:identifier "G20624LQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G65223RT>
+  a gn:Motif ;
+  rdfs:label "Mono-fucosyl LN" ;
+  dc:identifier "G65223RT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65223RT>
+  a gn:Motif ;
+  rdfs:label "Mono-fucosyl LN3" ;
+  dc:identifier "G65223RT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G62763GO>
+  a gn:Motif ;
+  rdfs:label "Galabiose" ;
+  dc:identifier "G62763GO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G14395NH>
+  a gn:Motif ;
+  rdfs:label "30-Sulfo-Lewis a (30-Sulfo Lea)" ;
+  dc:identifier "G14395NH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G41052GC>
+  a gn:Motif ;
+  rdfs:label "Sda/CT antigen" ;
+  dc:identifier "G41052GC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G09376MR>
+  a gn:Motif ;
+  rdfs:label "6′-sialyl-N-acetyllactosamine" ;
+  dc:identifier "G09376MR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G06898ZN>
+  a gn:Motif ;
+  rdfs:label "HNK-1 on O-mannose" ;
+  dc:identifier "G06898ZN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G31301MT>
+  a gn:Motif ;
+  rdfs:label "40-sulfated LDN" ;
+  dc:identifier "G31301MT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G14300ZJ>
+  a gn:Motif ;
+  rdfs:label "H type 1 Lewis b" ;
+  dc:identifier "G14300ZJ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G16775IT>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-8)Neu5Gc(a2-3)Gal" ;
+  dc:identifier "G16775IT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G10503MP>
+  a gn:Motif ;
+  rdfs:label "HNK-expressing SGLPG" ;
+  dc:identifier "G10503MP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G10902TC>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Like" ;
+  dc:identifier "G10902TC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G63072CF>
+  a gn:Motif ;
+  rdfs:label "O-Mannosyl Glycan-Yeast" ;
+  dc:identifier "G63072CF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G04433GV>
+  a gn:Motif ;
+  rdfs:label "GP1c" ;
+  dc:identifier "G04433GV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G23581GL>
+  a gn:Motif ;
+  rdfs:label "GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)" ;
+  dc:identifier "G23581GL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G82061CN>
+  a gn:Motif ;
+  rdfs:label "HNK-1 on O-mannose" ;
+  dc:identifier "G82061CN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G19619KS>
+  a gn:Motif ;
+  rdfs:label "SDLex" ;
+  dc:identifier "G19619KS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G05297EK>
+  a gn:Motif ;
+  rdfs:label "Mono-sulfated globotetraosylceramide" ;
+  dc:identifier "G05297EK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G28566CQ>
+  a gn:Motif ;
+  rdfs:label "I-Active ganglioside" ;
+  dc:identifier "G28566CQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G55286YY>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-8)Neu5Ac(a2-3)Gal" ;
+  dc:identifier "G55286YY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G43195TR>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal" ;
+  dc:identifier "G43195TR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81533KY>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac" ;
+  dc:identifier "G81533KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81533KY>
+  a gn:Motif ;
+  rdfs:label "N-acetylneuraminic acid" ;
+  dc:identifier "G81533KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81533KY>
+  a gn:Motif ;
+  rdfs:label "Sialic Acid" ;
+  dc:identifier "G81533KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98465JN>
+  a gn:Motif ;
+  rdfs:label "globoH" ;
+  dc:identifier "G98465JN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98465JN>
+  a gn:Motif ;
+  rdfs:label "Blood group H (type 4)" ;
+  dc:identifier "G98465JN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98465JN>
+  a gn:Motif ;
+  rdfs:label "GL-6 fucosylated (globoH)" ;
+  dc:identifier "G98465JN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98465JN>
+  a gn:Motif ;
+  rdfs:label "GL-6 fucosylated" ;
+  dc:identifier "G98465JN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81983KG>
+  a gn:Motif ;
+  rdfs:label "GD1c" ;
+  dc:identifier "G81983KG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81983KG>
+  a gn:Motif ;
+  rdfs:label "GD1 (GD1c)" ;
+  dc:identifier "G81983KG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81983KG>
+  a gn:Motif ;
+  rdfs:label "GD1" ;
+  dc:identifier "G81983KG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G62593IS>
+  a gn:Motif ;
+  rdfs:label "2'-fluorine-3′-sialyl-N-acetyllactosamine" ;
+  dc:identifier "G62593IS" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G05357CB>
+  a gn:Motif ;
+  rdfs:label "Gangliotetraosylceramide" ;
+  dc:identifier "G05357CB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G82576YO>
+  a gn:Motif ;
+  rdfs:label "O-Fucose" ;
+  dc:identifier "G82576YO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G82576YO>
+  a gn:Motif ;
+  rdfs:label "Fucose" ;
+  dc:identifier "G82576YO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G24432YB>
+  a gn:Motif ;
+  rdfs:label "alpha-Gal antigen" ;
+  dc:identifier "G24432YB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G24432YB>
+  a gn:Motif ;
+  rdfs:label "a-Gal antigen" ;
+  dc:identifier "G24432YB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G47812NS>
+  a gn:Motif ;
+  rdfs:label "2'-fluorine-3′-sialyl-N-acetyllactosamine" ;
+  dc:identifier "G47812NS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G51699SI>
+  a gn:Motif ;
+  rdfs:label "para-Forssman glycolipid" ;
+  dc:identifier "G51699SI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G27025MB>
+  a gn:Motif ;
+  rdfs:label "N-acetylgalactosamine" ;
+  dc:identifier "G27025MB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G41959YC>
+  a gn:Motif ;
+  rdfs:label "O-Mannosyl Glycan-Mammalian" ;
+  dc:identifier "G41959YC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G26295XE>
+  a gn:Motif ;
+  rdfs:label "M3FX" ;
+  dc:identifier "G26295XE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G50321QR>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis a glycolipid" ;
+  dc:identifier "G50321QR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G06239NA>
+  a gn:Motif ;
+  rdfs:label "Lc3" ;
+  dc:identifier "G06239NA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G06239NA>
+  a gn:Motif ;
+  rdfs:label "Lactotriaosylceramide (LC3)" ;
+  dc:identifier "G06239NA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G06239NA>
+  a gn:Motif ;
+  rdfs:label "Lactotriaosylceramide (Lc3)" ;
+  dc:identifier "G06239NA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G06239NA>
+  a gn:Motif ;
+  rdfs:label "Lactotriaosylceramide" ;
+  dc:identifier "G06239NA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98482BC>
+  a gn:Motif ;
+  rdfs:label "Ceramide dihexosyl sulfate" ;
+  dc:identifier "G98482BC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G14091MR>
+  a gn:Motif ;
+  rdfs:label "GH1cav" ;
+  dc:identifier "G14091MR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G14091MR>
+  a gn:Motif ;
+  rdfs:label "GH1ca" ;
+  dc:identifier "G14091MR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G57710SU>
+  a gn:Motif ;
+  rdfs:label "Mono-sulfated globopentaosylceramide" ;
+  dc:identifier "G57710SU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G57710SU>
+  a gn:Motif ;
+  rdfs:label "Cytolipin R" ;
+  dc:identifier "G57710SU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G57710SU>
+  a gn:Motif ;
+  rdfs:label "Isoglobotetraosylceramide" ;
+  dc:identifier "G57710SU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G50123ZO>
+  a gn:Motif ;
+  rdfs:label "Sialosyl paragloboside" ;
+  dc:identifier "G50123ZO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G61418DU>
+  a gn:Motif ;
+  rdfs:label "N-acetyl-D-galactosamine" ;
+  dc:identifier "G61418DU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G58645HA>
+  a gn:Motif ;
+  rdfs:label "Core 1 / T antigen" ;
+  dc:identifier "G58645HA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G58645HA>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G58645HA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G54315VV>
+  a gn:Motif ;
+  rdfs:label "Glucronoarabinoxylan" ;
+  dc:identifier "G54315VV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G94091AV>
+  a gn:Motif ;
+  rdfs:label "Glucronoxylan" ;
+  dc:identifier "G94091AV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G46558JB>
+  a gn:Motif ;
+  rdfs:label "1-3,1-4 beta Glucan" ;
+  dc:identifier "G46558JB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G25326UC>
+  a gn:Motif ;
+  rdfs:label "Xyloglucan" ;
+  dc:identifier "G25326UC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G93424OB>
+  a gn:Motif ;
+  rdfs:label "Galactomannan" ;
+  dc:identifier "G93424OB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G88924MD>
+  a gn:Motif ;
+  rdfs:label "Glucomannan" ;
+  dc:identifier "G88924MD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G22535ZZ>
+  a gn:Motif ;
+  rdfs:label "Arabinan" ;
+  dc:identifier "G22535ZZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G69386QK>
+  a gn:Motif ;
+  rdfs:label "1-6 beta Galactan" ;
+  dc:identifier "G69386QK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G77076MY>
+  a gn:Motif ;
+  rdfs:label "beta 1-4 Galactan" ;
+  dc:identifier "G77076MY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G12828SG>
+  a gn:Motif ;
+  rdfs:label "Arabinogalactan Type ll" ;
+  dc:identifier "G12828SG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98272RS>
+  a gn:Motif ;
+  rdfs:label "Arabinogalactan Type I" ;
+  dc:identifier "G98272RS" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00367NK>
+  a gn:Motif ;
+  rdfs:label "Xylogalacturonan" ;
+  dc:identifier "G00367NK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G25318VQ>
+  a gn:Motif ;
+  rdfs:label "Homogalacturonan" ;
+  dc:identifier "G25318VQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48117BL>
+  a gn:Motif ;
+  rdfs:label "GlcNAc(b1-3)Gal(b1-4)GlcNAc" ;
+  dc:identifier "G48117BL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G02880JU>
+  a gn:Motif ;
+  rdfs:label "GlcNAc(b1-3)Gal" ;
+  dc:identifier "G02880JU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G03509EL>
+  a gn:Motif ;
+  rdfs:label "2-6 Sialyl-LacNAc-Gal" ;
+  dc:identifier "G03509EL" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G44345UH>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac)a2-6)Gal" ;
+  dc:identifier "G44345UH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G44345UH>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-6)Gal" ;
+  dc:identifier "G44345UH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93910CU>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc" ;
+  dc:identifier "G93910CU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G21066IE>
+  a gn:Motif ;
+  rdfs:label "2-3 Sialyl-Lacto-N-Tetraose" ;
+  dc:identifier "G21066IE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45827GY>
+  a gn:Motif ;
+  rdfs:label "Lactotetraose" ;
+  dc:identifier "G45827GY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45827GY>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Neotetraose" ;
+  dc:identifier "G45827GY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45827GY>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Tetraose" ;
+  dc:identifier "G45827GY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G60859DF>
+  a gn:Motif ;
+  rdfs:label "GalNAc(b1-4)Gal" ;
+  dc:identifier "G60859DF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G29406SZ>
+  a gn:Motif ;
+  rdfs:label "GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)" ;
+  dc:identifier "G29406SZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G57548NB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-4)[Fuc(a1-3)]Glc(b1)" ;
+  dc:identifier "G57548NB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G61149BD>
+  a gn:Motif ;
+  rdfs:label "GalNAc(b1-3)Gal(b1-4)GlcNAc" ;
+  dc:identifier "G61149BD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G95233MF>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G95233MF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G48236KP>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-3)Gal(b1-4)GlcNAc" ;
+  dc:identifier "G48236KP" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G32969VW>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G32969VW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45058HZ>
+  a gn:Motif ;
+  rdfs:label "GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1)" ;
+  dc:identifier "G45058HZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G61424BA>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-8)Neu5Ac(a2-3)Gal" ;
+  dc:identifier "G61424BA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82775QT>
+  a gn:Motif ;
+  rdfs:label "Sia(a2-8)Sia(a2-3)Gal" ;
+  dc:identifier "G82775QT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82775QT>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal" ;
+  dc:identifier "G82775QT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G16142UJ>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-8)Neu5Gc(a2-3)Gal" ;
+  dc:identifier "G16142UJ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82974JM>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Gc(a2-3)Gal" ;
+  dc:identifier "G82974JM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G53517XC>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-3)Gal" ;
+  dc:identifier "G53517XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G53517XC>
+  a gn:Motif ;
+  rdfs:label "Neu5Gc(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G53517XC" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G57709BH>
+  a gn:Motif ;
+  rdfs:label "Fuc(a1-3)GalNac(b1)" ;
+  dc:identifier "G57709BH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G57709BH>
+  a gn:Motif ;
+  rdfs:label "Fuc(a1-3)GalNAc(b1)" ;
+  dc:identifier "G57709BH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G94956AW>
+  a gn:Motif ;
+  rdfs:label "Blood Group B Type 2" ;
+  dc:identifier "G94956AW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54826OZ>
+  a gn:Motif ;
+  rdfs:label "A-Ley" ;
+  dc:identifier "G54826OZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54826OZ>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 2)  (A-Lewis Y)" ;
+  dc:identifier "G54826OZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54826OZ>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 2) (A-Ley)" ;
+  dc:identifier "G54826OZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54826OZ>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 2)" ;
+  dc:identifier "G54826OZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54826OZ>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 2 (difucosyl)" ;
+  dc:identifier "G54826OZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G97501MA>
+  a gn:Motif ;
+  rdfs:label "A-Leb" ;
+  dc:identifier "G97501MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G97501MA>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 1)  (A-Lewis b)" ;
+  dc:identifier "G97501MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G97501MA>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 1) (A-Leb)" ;
+  dc:identifier "G97501MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G97501MA>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 1)" ;
+  dc:identifier "G97501MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G97501MA>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 1 (difucosyl)" ;
+  dc:identifier "G97501MA" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G17480GI>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 4" ;
+  dc:identifier "G17480GI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "A antigen (type 3)" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "A antigen (type 3)" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "A antigen (type 3)" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "A antigen (type 3)" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 3" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 3" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 3" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G99315PE>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 3" ;
+  dc:identifier "G99315PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74353FF>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 2)" ;
+  dc:identifier "G74353FF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74353FF>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 2" ;
+  dc:identifier "G74353FF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G66163TI>
+  a gn:Motif ;
+  rdfs:label "Blood group A (type 1)" ;
+  dc:identifier "G66163TI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G66163TI>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Type 1" ;
+  dc:identifier "G66163TI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G35778AN>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 4" ;
+  dc:identifier "G35778AN" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "H antigen (type 3)" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "H antigen (type 3)" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "H antigen (type 3)" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "H antigen (type 3)" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 3" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 3" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 3" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G94435QH>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 3" ;
+  dc:identifier "G94435QH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G61459JW>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 2" ;
+  dc:identifier "G61459JW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G40696TO>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Type 1" ;
+  dc:identifier "G40696TO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93855LZ>
+  a gn:Motif ;
+  rdfs:label "2-6 Sialyl Lewis x" ;
+  dc:identifier "G93855LZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93855LZ>
+  a gn:Motif ;
+  rdfs:label "2-6 Sialyl i-Lewis x" ;
+  dc:identifier "G93855LZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G64227KZ>
+  a gn:Motif ;
+  rdfs:label "Mono-fucosyl LN" ;
+  dc:identifier "G64227KZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G64227KZ>
+  a gn:Motif ;
+  rdfs:label "Internal Lewis x" ;
+  dc:identifier "G64227KZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G64227KZ>
+  a gn:Motif ;
+  rdfs:label "Mono-fucosyl LN5" ;
+  dc:identifier "G64227KZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G28420BK>
+  a gn:Motif ;
+  rdfs:label "Lewis a (b1-3)Gal" ;
+  dc:identifier "G28420BK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G69030AU>
+  a gn:Motif ;
+  rdfs:label "Lewis y (extended)" ;
+  dc:identifier "G69030AU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G69030AU>
+  a gn:Motif ;
+  rdfs:label "Lewis y (extended) / Hexasaccharide" ;
+  dc:identifier "G69030AU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G27798EJ>
+  a gn:Motif ;
+  rdfs:label "Alpha-Galactosyl Epitope" ;
+  dc:identifier "G27798EJ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G31736BK>
+  a gn:Motif ;
+  rdfs:label "LacdiNAc" ;
+  dc:identifier "G31736BK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G31736BK>
+  a gn:Motif ;
+  rdfs:label "LacdiNAc (LDN)" ;
+  dc:identifier "G31736BK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G31736BK>
+  a gn:Motif ;
+  rdfs:label "LDN" ;
+  dc:identifier "G31736BK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G41392LY>
+  a gn:Motif ;
+  rdfs:label "6,6,6'-Sulfo LacNAc" ;
+  dc:identifier "G41392LY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G24270KX>
+  a gn:Motif ;
+  rdfs:label "6, 6'-Sulfo LacNAc" ;
+  dc:identifier "G24270KX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G24270KX>
+  a gn:Motif ;
+  rdfs:label "6,6'-Sulfo LacNAc" ;
+  dc:identifier "G24270KX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G99745QX>
+  a gn:Motif ;
+  rdfs:label "Sulfated sialyl-3-N-acetyllactosamine" ;
+  dc:identifier "G99745QX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G99745QX>
+  a gn:Motif ;
+  rdfs:label "Sialyl 6-Sulfo LacNAc" ;
+  dc:identifier "G99745QX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G89307GT>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo Lewis x" ;
+  dc:identifier "G89307GT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G13157WZ>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo LacNAc" ;
+  dc:identifier "G13157WZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G06580KR>
+  a gn:Motif ;
+  rdfs:label "LacNAc-Gal" ;
+  dc:identifier "G06580KR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56045WU>
+  a gn:Motif ;
+  rdfs:label "I' antigen" ;
+  dc:identifier "G56045WU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56045WU>
+  a gn:Motif ;
+  rdfs:label "‘‘I’’ antigen" ;
+  dc:identifier "G56045WU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56045WU>
+  a gn:Motif ;
+  rdfs:label "I' antigen'" ;
+  dc:identifier "G56045WU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56045WU>
+  a gn:Motif ;
+  rdfs:label "I Antigen" ;
+  dc:identifier "G56045WU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G72548RZ>
+  a gn:Motif ;
+  rdfs:label "Seminolipid" ;
+  dc:identifier "G72548RZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G72548RZ>
+  a gn:Motif ;
+  rdfs:label "Seminolipid" ;
+  dc:identifier "G72548RZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G72548RZ>
+  a gn:Motif ;
+  rdfs:label "SM4s" ;
+  dc:identifier "G72548RZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G72548RZ>
+  a gn:Motif ;
+  rdfs:label "SM4s" ;
+  dc:identifier "G72548RZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G72548RZ>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G72548RZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G72548RZ>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G72548RZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30187JM>
+  a gn:Motif ;
+  rdfs:label "2-9, 2-6 Disialyllactosylceramide" ;
+  dc:identifier "G30187JM" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30187JM>
+  a gn:Motif ;
+  rdfs:label "2-9,2-6 Disialyllactosylceramide" ;
+  dc:identifier "G30187JM" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G67988RO>
+  a gn:Motif ;
+  rdfs:label "Galabiosylceramide" ;
+  dc:identifier "G67988RO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G54733XO>
+  a gn:Motif ;
+  rdfs:label "GQ1b alpha" ;
+  dc:identifier "G54733XO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G54733XO>
+  a gn:Motif ;
+  rdfs:label "GQ1ba" ;
+  dc:identifier "G54733XO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G02149VR>
+  a gn:Motif ;
+  rdfs:label "GT1a alpha" ;
+  dc:identifier "G02149VR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G02149VR>
+  a gn:Motif ;
+  rdfs:label "GT1aa" ;
+  dc:identifier "G02149VR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G07394RV>
+  a gn:Motif ;
+  rdfs:label "GD1 alpha (pentasaccharide)" ;
+  dc:identifier "G07394RV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G07394RV>
+  a gn:Motif ;
+  rdfs:label "GD1 alpha(Pentasaccharide)" ;
+  dc:identifier "G07394RV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82612XX>
+  a gn:Motif ;
+  rdfs:label "KDN-Gal" ;
+  dc:identifier "G82612XX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G42911NE>
+  a gn:Motif ;
+  rdfs:label "Poly-KDN" ;
+  dc:identifier "G42911NE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G95717TY>
+  a gn:Motif ;
+  rdfs:label "Poly-N-Glycolylneuraminic Acid" ;
+  dc:identifier "G95717TY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80631ZD>
+  a gn:Motif ;
+  rdfs:label "Poly-N-Acetylneuraminic Acid" ;
+  dc:identifier "G80631ZD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G32254QI>
+  a gn:Motif ;
+  rdfs:label "Sialosyl galactosyl globoside" ;
+  dc:identifier "G32254QI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G32254QI>
+  a gn:Motif ;
+  rdfs:label "GL-7 globoseries ganglioside (SSEA-4)" ;
+  dc:identifier "G32254QI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G32254QI>
+  a gn:Motif ;
+  rdfs:label "Monosialyl Gb5" ;
+  dc:identifier "G32254QI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G32254QI>
+  a gn:Motif ;
+  rdfs:label "SSEA-4" ;
+  dc:identifier "G32254QI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G32254QI>
+  a gn:Motif ;
+  rdfs:label "GL-7 globoseries ganglioside" ;
+  dc:identifier "G32254QI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G97932OH>
+  a gn:Motif ;
+  rdfs:label "Disialosyl galactosyl globoside" ;
+  dc:identifier "G97932OH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G97932OH>
+  a gn:Motif ;
+  rdfs:label "Disialyl Gb5" ;
+  dc:identifier "G97932OH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G97932OH>
+  a gn:Motif ;
+  rdfs:label "Disialosyl globopentaosylceramide" ;
+  dc:identifier "G97932OH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G33532XU>
+  a gn:Motif ;
+  rdfs:label "GalNAc Disialyl Lc4" ;
+  dc:identifier "G33532XU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G33532XU>
+  a gn:Motif ;
+  rdfs:label "GalNAc Disialyl Lc4 (Hexasaccharide)" ;
+  dc:identifier "G33532XU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G14000ZZ>
+  a gn:Motif ;
+  rdfs:label "Disialyl Lewis c" ;
+  dc:identifier "G14000ZZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54937EM>
+  a gn:Motif ;
+  rdfs:label "Disialyl-branched Type 2" ;
+  dc:identifier "G54937EM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54937EM>
+  a gn:Motif ;
+  rdfs:label "Disialyl I" ;
+  dc:identifier "G54937EM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74917JX>
+  a gn:Motif ;
+  rdfs:label "Trifucosyl-Lewis y antigen" ;
+  dc:identifier "G74917JX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74917JX>
+  a gn:Motif ;
+  rdfs:label "Trifucosyl-Lewis y Antigen" ;
+  dc:identifier "G74917JX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G79535HZ>
+  a gn:Motif ;
+  rdfs:label "Lex-Lex" ;
+  dc:identifier "G79535HZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G79535HZ>
+  a gn:Motif ;
+  rdfs:label "Lewis X–Lewis X" ;
+  dc:identifier "G79535HZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G79535HZ>
+  a gn:Motif ;
+  rdfs:label "Dimeric Lewis x" ;
+  dc:identifier "G79535HZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G79535HZ>
+  a gn:Motif ;
+  rdfs:label "Lex–Lex" ;
+  dc:identifier "G79535HZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74578MX>
+  a gn:Motif ;
+  rdfs:label "Trifucosyl-Lewis b antigen" ;
+  dc:identifier "G74578MX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74578MX>
+  a gn:Motif ;
+  rdfs:label "Trifucosyl-Lewis b Antigen" ;
+  dc:identifier "G74578MX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G07357YR>
+  a gn:Motif ;
+  rdfs:label "Lewis a-Lewis x hybrid" ;
+  dc:identifier "G07357YR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G07357YR>
+  a gn:Motif ;
+  rdfs:label "Lewis a- Lewis x Hybrid Antigen" ;
+  dc:identifier "G07357YR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G21808VY>
+  a gn:Motif ;
+  rdfs:label "Dimeric Lewis a" ;
+  dc:identifier "G21808VY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G25575JK>
+  a gn:Motif ;
+  rdfs:label "Acharan Sulfate" ;
+  dc:identifier "G25575JK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G17927IW>
+  a gn:Motif ;
+  rdfs:label "Delta-Heparan Sulfate" ;
+  dc:identifier "G17927IW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G82109MW>
+  a gn:Motif ;
+  rdfs:label "Keratan Sulfate" ;
+  dc:identifier "G82109MW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46732TY>
+  a gn:Motif ;
+  rdfs:label "Chodroitin Sulfate D Unit" ;
+  dc:identifier "G46732TY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46732TY>
+  a gn:Motif ;
+  rdfs:label "Chindroitin Sulfate D Unit" ;
+  dc:identifier "G46732TY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G34992DF>
+  a gn:Motif ;
+  rdfs:label "Chondroitin-6-Sulfate" ;
+  dc:identifier "G34992DF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G19059PI>
+  a gn:Motif ;
+  rdfs:label "Chondroitin-4-Sulfate" ;
+  dc:identifier "G19059PI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G43702JT>
+  a gn:Motif ;
+  rdfs:label "Chondroitin" ;
+  dc:identifier "G43702JT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G63813EJ>
+  a gn:Motif ;
+  rdfs:label "SD1a" ;
+  dc:identifier "G63813EJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G20044TD>
+  a gn:Motif ;
+  rdfs:label "SM3" ;
+  dc:identifier "G20044TD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G84224TW>
+  a gn:Motif ;
+  rdfs:label "Lactosylceramide" ;
+  dc:identifier "G84224TW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G83513YI>
+  a gn:Motif ;
+  rdfs:label "Sialylparagloboside" ;
+  dc:identifier "G83513YI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G83513YI>
+  a gn:Motif ;
+  rdfs:label "2-6 Sialylparagloboside" ;
+  dc:identifier "G83513YI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G83513YI>
+  a gn:Motif ;
+  rdfs:label "Monosialylganglioside LSTb" ;
+  dc:identifier "G83513YI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G01767JJ>
+  a gn:Motif ;
+  rdfs:label "Sialosylparagloboside" ;
+  dc:identifier "G01767JJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G01767JJ>
+  a gn:Motif ;
+  rdfs:label "2-3 Sialylparagloboside" ;
+  dc:identifier "G01767JJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G58896AZ>
+  a gn:Motif ;
+  rdfs:label "Neolactotetraosylceramide" ;
+  dc:identifier "G58896AZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G58896AZ>
+  a gn:Motif ;
+  rdfs:label "Paragloboside" ;
+  dc:identifier "G58896AZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91649BT>
+  a gn:Motif ;
+  rdfs:label "Gal-CTH" ;
+  dc:identifier "G91649BT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G93899SO>
+  a gn:Motif ;
+  rdfs:label "GT3" ;
+  dc:identifier "G93899SO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G18625KA>
+  a gn:Motif ;
+  rdfs:label "GQ1b" ;
+  dc:identifier "G18625KA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65889KE>
+  a gn:Motif ;
+  rdfs:label "Galactose" ;
+  dc:identifier "G65889KE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65889KE>
+  a gn:Motif ;
+  rdfs:label "Beta Galoctose" ;
+  dc:identifier "G65889KE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65889KE>
+  a gn:Motif ;
+  rdfs:label "Galactosylceramide" ;
+  dc:identifier "G65889KE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65889KE>
+  a gn:Motif ;
+  rdfs:label "Bata Galactose" ;
+  dc:identifier "G65889KE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G40183QN>
+  a gn:Motif ;
+  rdfs:label "Trisialogangliotetraosylceramide" ;
+  dc:identifier "G40183QN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G40183QN>
+  a gn:Motif ;
+  rdfs:label "GT1b" ;
+  dc:identifier "G40183QN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G68110IF>
+  a gn:Motif ;
+  rdfs:label "GT1a" ;
+  dc:identifier "G68110IF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G47325QT>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl Sialic Acid" ;
+  dc:identifier "G47325QT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G74121RX>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl GD3" ;
+  dc:identifier "G74121RX" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G84891DZ>
+  a gn:Motif ;
+  rdfs:label "N-Glycolyl GD3" ;
+  dc:identifier "G84891DZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98544DH>
+  a gn:Motif ;
+  rdfs:label "N-Acetyl GD3" ;
+  dc:identifier "G98544DH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98544DH>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl GD3" ;
+  dc:identifier "G98544DH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98544DH>
+  a gn:Motif ;
+  rdfs:label "GD3" ;
+  dc:identifier "G98544DH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G02657AK>
+  a gn:Motif ;
+  rdfs:label "GD2" ;
+  dc:identifier "G02657AK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G37184KW>
+  a gn:Motif ;
+  rdfs:label "Disialogangliotetraosylceramide" ;
+  dc:identifier "G37184KW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G37184KW>
+  a gn:Motif ;
+  rdfs:label "GD1b" ;
+  dc:identifier "G37184KW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G92175CL>
+  a gn:Motif ;
+  rdfs:label "GalNAc-GD1a" ;
+  dc:identifier "G92175CL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G57920AK>
+  a gn:Motif ;
+  rdfs:label "Fuc-gangliotetraosylceramide" ;
+  dc:identifier "G57920AK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G57920AK>
+  a gn:Motif ;
+  rdfs:label "Fucosyl Asialo-GM1" ;
+  dc:identifier "G57920AK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G46677TE>
+  a gn:Motif ;
+  rdfs:label "Disialogangliotetraosylceramide" ;
+  dc:identifier "G46677TE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G46677TE>
+  a gn:Motif ;
+  rdfs:label "GD1a" ;
+  dc:identifier "G46677TE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1)" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1)" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1)" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1)" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G30207PZ>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G30207PZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G75789AR>
+  a gn:Motif ;
+  rdfs:label "N-Glycolyl GM3" ;
+  dc:identifier "G75789AR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91237TK>
+  a gn:Motif ;
+  rdfs:label "Monosialodihexosylganglioside" ;
+  dc:identifier "G91237TK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91237TK>
+  a gn:Motif ;
+  rdfs:label "Sialyl-3-lactose" ;
+  dc:identifier "G91237TK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91237TK>
+  a gn:Motif ;
+  rdfs:label "N-Acetyl GM3" ;
+  dc:identifier "G91237TK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91237TK>
+  a gn:Motif ;
+  rdfs:label "GM3" ;
+  dc:identifier "G91237TK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56478LD>
+  a gn:Motif ;
+  rdfs:label "N-Glycolyl GM2" ;
+  dc:identifier "G56478LD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56478LD>
+  a gn:Motif ;
+  rdfs:label "N-Glycolyl-GM2" ;
+  dc:identifier "G56478LD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G79389NT>
+  a gn:Motif ;
+  rdfs:label "N-Acetyl GM2" ;
+  dc:identifier "G79389NT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G79389NT>
+  a gn:Motif ;
+  rdfs:label "GM2" ;
+  dc:identifier "G79389NT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48558GR>
+  a gn:Motif ;
+  rdfs:label "Monosialogangliotetraosylceramide" ;
+  dc:identifier "G48558GR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48558GR>
+  a gn:Motif ;
+  rdfs:label "GM1" ;
+  dc:identifier "G48558GR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91532KA>
+  a gn:Motif ;
+  rdfs:label "Fucosyl GM1" ;
+  dc:identifier "G91532KA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91532KA>
+  a gn:Motif ;
+  rdfs:label "2-Fucosyl-GM1" ;
+  dc:identifier "G91532KA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G03277YI>
+  a gn:Motif ;
+  rdfs:label "cisGM1 (GM1b)" ;
+  dc:identifier "G03277YI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G03277YI>
+  a gn:Motif ;
+  rdfs:label "GM1b" ;
+  dc:identifier "G03277YI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G03277YI>
+  a gn:Motif ;
+  rdfs:label "cisGM1" ;
+  dc:identifier "G03277YI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G21856LC>
+  a gn:Motif ;
+  rdfs:label "Gangliotetraosylceramide" ;
+  dc:identifier "G21856LC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G21856LC>
+  a gn:Motif ;
+  rdfs:label "Asialo GM1" ;
+  dc:identifier "G21856LC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G21856LC>
+  a gn:Motif ;
+  rdfs:label "Asialo-GM1" ;
+  dc:identifier "G21856LC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G55205ZV>
+  a gn:Motif ;
+  rdfs:label "P1 Antigen" ;
+  dc:identifier "G55205ZV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G06000DZ>
+  a gn:Motif ;
+  rdfs:label "Pk Antigen" ;
+  dc:identifier "G06000DZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G84263XI>
+  a gn:Motif ;
+  rdfs:label "SSEA-4" ;
+  dc:identifier "G84263XI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G06597DS>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis x-i" ;
+  dc:identifier "G06597DS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G85497PI>
+  a gn:Motif ;
+  rdfs:label "SSEA" ;
+  dc:identifier "G85497PI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G85497PI>
+  a gn:Motif ;
+  rdfs:label "SSEA-1" ;
+  dc:identifier "G85497PI" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46776WR>
+  a gn:Motif ;
+  rdfs:label "Sialyl-Lewis c" ;
+  dc:identifier "G46776WR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46776WR>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis c" ;
+  dc:identifier "G46776WR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G93400AK>
+  a gn:Motif ;
+  rdfs:label "Disialyl Lewis a" ;
+  dc:identifier "G93400AK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G25129BT>
+  a gn:Motif ;
+  rdfs:label "SSEA-3" ;
+  dc:identifier "G25129BT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G47379VH>
+  a gn:Motif ;
+  rdfs:label "M3FX" ;
+  dc:identifier "G47379VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80062GG>
+  a gn:Motif ;
+  rdfs:label "Forssman Antigen" ;
+  dc:identifier "G80062GG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G80062GG>
+  a gn:Motif ;
+  rdfs:label "Forssman glycolipid" ;
+  dc:identifier "G80062GG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G99053DY>
+  a gn:Motif ;
+  rdfs:label "SSEA" ;
+  dc:identifier "G99053DY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G99053DY>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3) globoside" ;
+  dc:identifier "G99053DY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G99053DY>
+  a gn:Motif ;
+  rdfs:label "Galactosylgloboside" ;
+  dc:identifier "G99053DY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G99053DY>
+  a gn:Motif ;
+  rdfs:label "SSEA-3" ;
+  dc:identifier "G99053DY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G99053DY>
+  a gn:Motif ;
+  rdfs:label "Gb5" ;
+  dc:identifier "G99053DY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G62554JH>
+  a gn:Motif ;
+  rdfs:label "Lactogangliotetraosylceramide" ;
+  dc:identifier "G62554JH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G62554JH>
+  a gn:Motif ;
+  rdfs:label "LcGg4" ;
+  dc:identifier "G62554JH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G78818SP>
+  a gn:Motif ;
+  rdfs:label "C-Series Gangliosides / Gangliotetraosyl Core" ;
+  dc:identifier "G78818SP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G78818SP>
+  a gn:Motif ;
+  rdfs:label "C-Series Gangliosides Oligosaccharide / Gangliotetraosyl Core Structure" ;
+  dc:identifier "G78818SP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G78818SP>
+  a gn:Motif ;
+  rdfs:label "GT1c" ;
+  dc:identifier "G78818SP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G45770AV>
+  a gn:Motif ;
+  rdfs:label "C-Series Gangliosides / Hemato- or Ganglio-Type" ;
+  dc:identifier "G45770AV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45770AV>
+  a gn:Motif ;
+  rdfs:label "C-Series Gangliosides  Oligosaccharide / Hemato- or Ganglio-Type" ;
+  dc:identifier "G45770AV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G61730RY>
+  a gn:Motif ;
+  rdfs:label "F1 Alpha" ;
+  dc:identifier "G61730RY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G01614ZM>
+  a gn:Motif ;
+  rdfs:label "Disialyl T Antigen" ;
+  dc:identifier "G01614ZM" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G01614ZM>
+  a gn:Motif ;
+  rdfs:label "Di-sialyl T antigen" ;
+  dc:identifier "G01614ZM" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn Antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn Antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn Antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn Antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G36123IU>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn antigen" ;
+  dc:identifier "G36123IU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G57321FI>
+  a gn:Motif ;
+  rdfs:label "Tn antigen" ;
+  dc:identifier "G57321FI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G57321FI>
+  a gn:Motif ;
+  rdfs:label "Tn Antigen" ;
+  dc:identifier "G57321FI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G22418PV>
+  a gn:Motif ;
+  rdfs:label "VIM-2" ;
+  dc:identifier "G22418PV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G11148DZ>
+  a gn:Motif ;
+  rdfs:label "Cyclic Sialyl 6-Sulfo Lewis x" ;
+  dc:identifier "G11148DZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00659GQ>
+  a gn:Motif ;
+  rdfs:label "6,6'-Disulfo Sialyl Lewis x" ;
+  dc:identifier "G00659GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00659GQ>
+  a gn:Motif ;
+  rdfs:label "6,6'-bissulfo Lex" ;
+  dc:identifier "G00659GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00659GQ>
+  a gn:Motif ;
+  rdfs:label "6,6-bisSulfo-Lewis x (6,60-bissulfo Lewis x )" ;
+  dc:identifier "G00659GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00659GQ>
+  a gn:Motif ;
+  rdfs:label "6,6'-DiSulfo Sialyl Lewis x" ;
+  dc:identifier "G00659GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00659GQ>
+  a gn:Motif ;
+  rdfs:label "6,6'- Disulfo Sialyl Lewis x" ;
+  dc:identifier "G00659GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00659GQ>
+  a gn:Motif ;
+  rdfs:label "6,6'-bisSulfo-Lewis x" ;
+  dc:identifier "G00659GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80722US>
+  a gn:Motif ;
+  rdfs:label "6-sulfo SLex" ;
+  dc:identifier "G80722US" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80722US>
+  a gn:Motif ;
+  rdfs:label "6-sulfo sialyl Lewis X" ;
+  dc:identifier "G80722US" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80722US>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo-sialyl Lewis x (6-sulfo SLex)" ;
+  dc:identifier "G80722US" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80722US>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo Sialyl Lewis x" ;
+  dc:identifier "G80722US" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80722US>
+  a gn:Motif ;
+  rdfs:label "Sialyl 6-Sulfo Lewis x" ;
+  dc:identifier "G80722US" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G80722US>
+  a gn:Motif ;
+  rdfs:label "Cyclic sialyl 6-sulfo Lewis x" ;
+  dc:identifier "G80722US" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00672PE>
+  a gn:Motif ;
+  rdfs:label "6'-sulfo SLex" ;
+  dc:identifier "G00672PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00672PE>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo-sialyl Lewis x (6-sulfo SLewis x)" ;
+  dc:identifier "G00672PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00672PE>
+  a gn:Motif ;
+  rdfs:label "6'-Sulfo Sialyl Lewis x" ;
+  dc:identifier "G00672PE" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G12295TB>
+  a gn:Motif ;
+  rdfs:label "3'-sulfo Lex" ;
+  dc:identifier "G12295TB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G12295TB>
+  a gn:Motif ;
+  rdfs:label "3-Sulfo-Lewis x (3-sulfo LewisX)" ;
+  dc:identifier "G12295TB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G12295TB>
+  a gn:Motif ;
+  rdfs:label "3'-Sulfo Lewis x" ;
+  dc:identifier "G12295TB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G78706CK>
+  a gn:Motif ;
+  rdfs:label "3'-Sulfo Lea" ;
+  dc:identifier "G78706CK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G78706CK>
+  a gn:Motif ;
+  rdfs:label "3-Sulfo-Lewis a (30-Sulfo Lewis a)" ;
+  dc:identifier "G78706CK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G78706CK>
+  a gn:Motif ;
+  rdfs:label "3'-Sulfo Lewis a" ;
+  dc:identifier "G78706CK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G39023AU>
+  a gn:Motif ;
+  rdfs:label "Lewis a" ;
+  dc:identifier "G39023AU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G39023AU>
+  a gn:Motif ;
+  rdfs:label "Lewis y" ;
+  dc:identifier "G39023AU" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G36855WW>
+  a gn:Motif ;
+  rdfs:label "O-Fucose / Thrombospondin Type 1 Repeat" ;
+  dc:identifier "G36855WW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G36855WW>
+  a gn:Motif ;
+  rdfs:label "O-Fucose Glycan /Thrombospondin Type 1 Repeat" ;
+  dc:identifier "G36855WW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G39294YF>
+  a gn:Motif ;
+  rdfs:label "O-Fucose Glycan /EGF Repeat" ;
+  dc:identifier "G39294YF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G49108TO>
+  a gn:Motif ;
+  rdfs:label "O-GlcNAc" ;
+  dc:identifier "G49108TO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G25559RS>
+  a gn:Motif ;
+  rdfs:label "O-Mannosyl Glycan-Yeast" ;
+  dc:identifier "G25559RS" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G25559RS>
+  a gn:Motif ;
+  rdfs:label "O-Mannosyl Glycan / Yeast" ;
+  dc:identifier "G25559RS" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G59126YU>
+  a gn:Motif ;
+  rdfs:label "O-Linked mannose" ;
+  dc:identifier "G59126YU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G59126YU>
+  a gn:Motif ;
+  rdfs:label "O-Mannosyl Glycan-Mammalian" ;
+  dc:identifier "G59126YU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G59126YU>
+  a gn:Motif ;
+  rdfs:label "O-Mannosyl Glycan / Mammalian" ;
+  dc:identifier "G59126YU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G43040ZY>
+  a gn:Motif ;
+  rdfs:label "HNK-expressing SGLPG" ;
+  dc:identifier "G43040ZY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G72506RN>
+  a gn:Motif ;
+  rdfs:label "Monosialylganglioside LSTb" ;
+  dc:identifier "G72506RN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G91326YS>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lea glycolipid" ;
+  dc:identifier "G91326YS" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G06148DR>
+  a gn:Motif ;
+  rdfs:label "Dimeric Lea" ;
+  dc:identifier "G06148DR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G75811PV>
+  a gn:Motif ;
+  rdfs:label "Extended tetrafucosyl-Leb338" ;
+  dc:identifier "G75811PV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G80291PD>
+  a gn:Motif ;
+  rdfs:label "Mono-fucosyl LN3" ;
+  dc:identifier "G80291PD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G93536PN>
+  a gn:Motif ;
+  rdfs:label "Mono-fucosyl LN5" ;
+  dc:identifier "G93536PN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G86139YL>
+  a gn:Motif ;
+  rdfs:label "GH1ca" ;
+  dc:identifier "G86139YL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G16999RL>
+  a gn:Motif ;
+  rdfs:label "GP1ca" ;
+  dc:identifier "G16999RL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G77608BK>
+  a gn:Motif ;
+  rdfs:label "GP1c" ;
+  dc:identifier "G77608BK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G54442GQ>
+  a gn:Motif ;
+  rdfs:label "GQ1c" ;
+  dc:identifier "G54442GQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G49791FJ>
+  a gn:Motif ;
+  rdfs:label "GQ1ba" ;
+  dc:identifier "G49791FJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G17077FL>
+  a gn:Motif ;
+  rdfs:label "GQ1b" ;
+  dc:identifier "G17077FL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G26199BG>
+  a gn:Motif ;
+  rdfs:label "GQ1aa" ;
+  dc:identifier "G26199BG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G50762GU>
+  a gn:Motif ;
+  rdfs:label "GT1c" ;
+  dc:identifier "G50762GU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G05952XV>
+  a gn:Motif ;
+  rdfs:label "GT1b" ;
+  dc:identifier "G05952XV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G17486WU>
+  a gn:Motif ;
+  rdfs:label "GT1aa" ;
+  dc:identifier "G17486WU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G93468NI>
+  a gn:Motif ;
+  rdfs:label "GT1a" ;
+  dc:identifier "G93468NI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G35228ZS>
+  a gn:Motif ;
+  rdfs:label "GT2" ;
+  dc:identifier "G35228ZS" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G97612UN>
+  a gn:Motif ;
+  rdfs:label "GD1b" ;
+  dc:identifier "G97612UN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G69277LC>
+  a gn:Motif ;
+  rdfs:label "GD1a" ;
+  dc:identifier "G69277LC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G13258LA>
+  a gn:Motif ;
+  rdfs:label "GD1a" ;
+  dc:identifier "G13258LA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G24638PB>
+  a gn:Motif ;
+  rdfs:label "GD1" ;
+  dc:identifier "G24638PB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G29966WK>
+  a gn:Motif ;
+  rdfs:label "B-GD1b" ;
+  dc:identifier "G29966WK" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G67383AR>
+  a gn:Motif ;
+  rdfs:label "2-Fucosyl-GD1b" ;
+  dc:identifier "G67383AR" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G46884IT>
+  a gn:Motif ;
+  rdfs:label "B-GM1" ;
+  dc:identifier "G46884IT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56526JU>
+  a gn:Motif ;
+  rdfs:label "2-Fucosyl-GM1" ;
+  dc:identifier "G56526JU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G14633CL>
+  a gn:Motif ;
+  rdfs:label "cisGM1" ;
+  dc:identifier "G14633CL" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00407UJ>
+  a gn:Motif ;
+  rdfs:label "Asialo-GM1" ;
+  dc:identifier "G00407UJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G46613JI>
+  a gn:Motif ;
+  rdfs:label "GM1" ;
+  dc:identifier "G46613JI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G96400MT>
+  a gn:Motif ;
+  rdfs:label "Sialopentaosylceramide" ;
+  dc:identifier "G96400MT" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G18221CF>
+  a gn:Motif ;
+  rdfs:label "N-Glycolyl-GM2" ;
+  dc:identifier "G18221CF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G61168WC>
+  a gn:Motif ;
+  rdfs:label "GM2" ;
+  dc:identifier "G61168WC" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G41759HA>
+  a gn:Motif ;
+  rdfs:label "GD2" ;
+  dc:identifier "G41759HA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G33570YF>
+  a gn:Motif ;
+  rdfs:label "GT3" ;
+  dc:identifier "G33570YF" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "9-O-Acetyl GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G81928IQ>
+  a gn:Motif ;
+  rdfs:label "GD3" ;
+  dc:identifier "G81928IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Sialyl-3-lactose" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Sialyl-3-lactose" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Sialyl-3-lactose" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Sialyl-3-lactose" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-4)Glc" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "GM3" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "GM3" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "GM3" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G56516VH>
+  a gn:Motif ;
+  rdfs:label "GM3" ;
+  dc:identifier "G56516VH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal / Monosialoganglioside" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G77824XV>
+  a gn:Motif ;
+  rdfs:label "GM4" ;
+  dc:identifier "G77824XV" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G88356HA>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G88356HA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G65112QB>
+  a gn:Motif ;
+  rdfs:label "Blood group B" ;
+  dc:identifier "G65112QB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98848EU>
+  a gn:Motif ;
+  rdfs:label "para-Forssman glycolipid" ;
+  dc:identifier "G98848EU" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G75814EP>
+  a gn:Motif ;
+  rdfs:label "Disialosyl globopentaosylceramide" ;
+  dc:identifier "G75814EP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G98750DB>
+  a gn:Motif ;
+  rdfs:label "Sialosyl paragloboside" ;
+  dc:identifier "G98750DB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G42784QY>
+  a gn:Motif ;
+  rdfs:label "GL-7 globoseries ganglioside" ;
+  dc:identifier "G42784QY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G83120FP>
+  a gn:Motif ;
+  rdfs:label "GL-6 fucosylated" ;
+  dc:identifier "G83120FP" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Neolactotetrose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Neolactotetrose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Neolactotetrose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Neolactotetrose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Neotetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Neotetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Neotetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Neotetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Tetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Tetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Tetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Lacto-N-Tetraose" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Paragloboside" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Paragloboside" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Paragloboside" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G48059CD>
+  a gn:Motif ;
+  rdfs:label "Paragloboside" ;
+  dc:identifier "G48059CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G19298OA>
+  a gn:Motif ;
+  rdfs:label "SSEA-3" ;
+  dc:identifier "G19298OA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G19298OA>
+  a gn:Motif ;
+  rdfs:label "Gb5" ;
+  dc:identifier "G19298OA" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G85237WB>
+  a gn:Motif ;
+  rdfs:label "Lactogangliotetraosylceramide" ;
+  dc:identifier "G85237WB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G85237WB>
+  a gn:Motif ;
+  rdfs:label "LcGg4" ;
+  dc:identifier "G85237WB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G56133NW>
+  a gn:Motif ;
+  rdfs:label "Sulfo-isogloboside" ;
+  dc:identifier "G56133NW" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G50866KI>
+  a gn:Motif ;
+  rdfs:label "Mono-sulfated globotetraosylceramide" ;
+  dc:identifier "G50866KI" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G19926LY>
+  a gn:Motif ;
+  rdfs:label "Cytolipin R" ;
+  dc:identifier "G19926LY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G19926LY>
+  a gn:Motif ;
+  rdfs:label "Isoglobotetraosylceramide" ;
+  dc:identifier "G19926LY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G87727XV>
+  a gn:Motif ;
+  rdfs:label "Lactotriaosylceramide" ;
+  dc:identifier "G87727XV" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G59736KH>
+  a gn:Motif ;
+  rdfs:label "Monosulfated gangliotetraosylceramide" ;
+  dc:identifier "G59736KH" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G04416BG>
+  a gn:Motif ;
+  rdfs:label "Ceramide dihexosyl sulfate" ;
+  dc:identifier "G04416BG" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G74621DY>
+  a gn:Motif ;
+  rdfs:label "Lactosylceramide" ;
+  dc:identifier "G74621DY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Galactose 3-O-Sulfate" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Galactose 3-O-Sulfate" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Galactose 3-O-Sulfate" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Galactose 3-O-Sulfate" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G40843KY>
+  a gn:Motif ;
+  rdfs:label "Sulfatide" ;
+  dc:identifier "G40843KY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G60606QD>
+  a gn:Motif ;
+  rdfs:label "HNK-1 on O-mannose" ;
+  dc:identifier "G60606QD" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G54406UD>
+  a gn:Motif ;
+  rdfs:label "HNK-1" ;
+  dc:identifier "G54406UD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54406UD>
+  a gn:Motif ;
+  rdfs:label "HNK-1 antigen" ;
+  dc:identifier "G54406UD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G72060BE>
+  a gn:Motif ;
+  rdfs:label "O-Mannose Lex" ;
+  dc:identifier "G72060BE" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G71121NN>
+  a gn:Motif ;
+  rdfs:label "SLex Core 2 O-glycan glycan" ;
+  dc:identifier "G71121NN" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G55583HW>
+  a gn:Motif ;
+  rdfs:label "Sialylated LDN" ;
+  dc:identifier "G55583HW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G18464VS>
+  a gn:Motif ;
+  rdfs:label "4-sulfated LDN" ;
+  dc:identifier "G18464VS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G18464VS>
+  a gn:Motif ;
+  rdfs:label "4'-sulfated LDN" ;
+  dc:identifier "G18464VS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G48600JD>
+  a gn:Motif ;
+  rdfs:label "A Lewis b" ;
+  dc:identifier "G48600JD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G48600JD>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G48600JD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G60395SO>
+  a gn:Motif ;
+  rdfs:label "B Lewis b" ;
+  dc:identifier "G60395SO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G60395SO>
+  a gn:Motif ;
+  rdfs:label "Blood group B" ;
+  dc:identifier "G60395SO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G49963IQ>
+  a gn:Motif ;
+  rdfs:label "Ley" ;
+  dc:identifier "G49963IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G49963IQ>
+  a gn:Motif ;
+  rdfs:label "Lewis y (Lewis Y)" ;
+  dc:identifier "G49963IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G49963IQ>
+  a gn:Motif ;
+  rdfs:label "Lewis y (Ley)" ;
+  dc:identifier "G49963IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G49963IQ>
+  a gn:Motif ;
+  rdfs:label "Lewis b" ;
+  dc:identifier "G49963IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G49963IQ>
+  a gn:Motif ;
+  rdfs:label "Lewis y" ;
+  dc:identifier "G49963IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G49963IQ>
+  a gn:Motif ;
+  rdfs:label "Blood group H" ;
+  dc:identifier "G49963IQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G58507AZ>
+  a gn:Motif ;
+  rdfs:label "Antigen A" ;
+  dc:identifier "G58507AZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G58507AZ>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G58507AZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G26934CO>
+  a gn:Motif ;
+  rdfs:label "Blood group B" ;
+  dc:identifier "G26934CO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G50899UD>
+  a gn:Motif ;
+  rdfs:label "Blood group H" ;
+  dc:identifier "G50899UD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G19804SF>
+  a gn:Motif ;
+  rdfs:label "Blood group A2" ;
+  dc:identifier "G19804SF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G03986GH>
+  a gn:Motif ;
+  rdfs:label "Blood group A1" ;
+  dc:identifier "G03986GH" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G33888AF>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G33888AF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G17108EX>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G17108EX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G41865GQ>
+  a gn:Motif ;
+  rdfs:label "Blood group B" ;
+  dc:identifier "G41865GQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G43391VM>
+  a gn:Motif ;
+  rdfs:label "Blood group H" ;
+  dc:identifier "G43391VM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G10203DW>
+  a gn:Motif ;
+  rdfs:label "3′-sialyl-N-acetyllactosamine" ;
+  dc:identifier "G10203DW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G10203DW>
+  a gn:Motif ;
+  rdfs:label "3-Sialyl-LN (type 2)" ;
+  dc:identifier "G10203DW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G10203DW>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-4)GlcNAc" ;
+  dc:identifier "G10203DW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G10203DW>
+  a gn:Motif ;
+  rdfs:label "3-Sialyl-LN" ;
+  dc:identifier "G10203DW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G69360KJ>
+  a gn:Motif ;
+  rdfs:label "SDLex" ;
+  dc:identifier "G69360KJ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45673KX>
+  a gn:Motif ;
+  rdfs:label "Lex–Lex" ;
+  dc:identifier "G45673KX" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G36845IZ>
+  a gn:Motif ;
+  rdfs:label "3'-Sulfo-Lewis a" ;
+  dc:identifier "G36845IZ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G26555CS>
+  a gn:Motif ;
+  rdfs:label "3'-Sulfo-Lewis x" ;
+  dc:identifier "G26555CS" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G46799JK>
+  a gn:Motif ;
+  rdfs:label "6,6'-bisSulfo-Lewis x" ;
+  dc:identifier "G46799JK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G41145LF>
+  a gn:Motif ;
+  rdfs:label "2,6-sialyl-Sulfo-LN" ;
+  dc:identifier "G41145LF" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G77659VW>
+  a gn:Motif ;
+  rdfs:label "6'-Sulfo-sialyl Lewis x" ;
+  dc:identifier "G77659VW" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G81971FM>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis a" ;
+  dc:identifier "G81971FM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G23322RK>
+  a gn:Motif ;
+  rdfs:label "Cyclic Sialyl 6-Sulfo Lewis x" ;
+  dc:identifier "G23322RK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G23322RK>
+  a gn:Motif ;
+  rdfs:label "6-Sulfo-sialyl Lewis x" ;
+  dc:identifier "G23322RK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G23322RK>
+  a gn:Motif ;
+  rdfs:label "Cyclic sialyl 6-sulfo Lewis x" ;
+  dc:identifier "G23322RK" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G02240AO>
+  a gn:Motif ;
+  rdfs:label "LDNF" ;
+  dc:identifier "G02240AO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G02240AO>
+  a gn:Motif ;
+  rdfs:label "Fucosylated LDN (LDNF)" ;
+  dc:identifier "G02240AO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G02240AO>
+  a gn:Motif ;
+  rdfs:label "LDN-F" ;
+  dc:identifier "G02240AO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G02240AO>
+  a gn:Motif ;
+  rdfs:label "Fucosylated LDN" ;
+  dc:identifier "G02240AO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G65191ST>
+  a gn:Motif ;
+  rdfs:label "Di-sialyl T antigen" ;
+  dc:identifier "G65191ST" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G65191ST>
+  a gn:Motif ;
+  rdfs:label "Di-sialyl T antigen" ;
+  dc:identifier "G65191ST" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-3)GalNAc" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-3)GalNAc" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-3)GalNAc" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-3)Gal(b1-3)GalNAc" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Sialyl T antigen" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Sialyl T antigen" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Sialyl T antigen" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G56299XO>
+  a gn:Motif ;
+  rdfs:label "Sialyl T antigen" ;
+  dc:identifier "G56299XO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G08371CD>
+  a gn:Motif ;
+  rdfs:label "Neu5Ac(a2-6)GalNAc" ;
+  dc:identifier "G08371CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G08371CD>
+  a gn:Motif ;
+  rdfs:label "6-Sialyl-GalNAc or 6-Sialyl LN" ;
+  dc:identifier "G08371CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G08371CD>
+  a gn:Motif ;
+  rdfs:label "Sialyl Tn antigen" ;
+  dc:identifier "G08371CD" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G71832QJ>
+  a gn:Motif ;
+  rdfs:label "A antigen" ;
+  dc:identifier "G71832QJ" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G46868TY>
+  a gn:Motif ;
+  rdfs:label "H antigen" ;
+  dc:identifier "G46868TY" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukocyte common antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Leukosialin" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "Gal(b1-3)GalNAc" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "T or TF antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "T or TF antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Other" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "T or TF antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "T or TF antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Ser/Thr" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "T or TF antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G78436BB>
+  a gn:Motif ;
+  rdfs:label "T or TF antigen" ;
+  dc:identifier "G78436BB" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G85779MY>
+  a gn:Motif ;
+  rdfs:label "LN3" ;
+  dc:identifier "G85779MY" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G11259JT>
+  a gn:Motif ;
+  rdfs:label "LN2" ;
+  dc:identifier "G11259JT" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G04616ST>
+  a gn:Motif ;
+  rdfs:label "Globotetraosylceramide" ;
+  dc:identifier "G04616ST" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G04616ST>
+  a gn:Motif ;
+  rdfs:label "LN" ;
+  dc:identifier "G04616ST" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G26929DQ>
+  a gn:Motif ;
+  rdfs:label "I antigen" ;
+  dc:identifier "G26929DQ" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G45207BM>
+  a gn:Motif ;
+  rdfs:label "LN2, I antigen" ;
+  dc:identifier "G45207BM" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G54161DR>
+  a gn:Motif ;
+  rdfs:label "Heparin" ;
+  dc:identifier "G54161DR" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00072MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Globo series" ;
+  dc:identifier "G00072MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G00071MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Ganglio series" ;
+  dc:identifier "G00071MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G00070MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Neo-lacto series" ;
+  dc:identifier "G00070MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G00069MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Lacto series" ;
+  dc:identifier "G00069MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "R" .
+<G00068MO>
+  a gn:Motif ;
+  rdfs:label "Blood Group H" ;
+  dc:identifier "G00068MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00068MO>
+  a gn:Motif ;
+  rdfs:label "Blood Group H Disaccharide" ;
+  dc:identifier "G00068MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00068MO>
+  a gn:Motif ;
+  rdfs:label "Blood group H" ;
+  dc:identifier "G00068MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00068MO>
+  a gn:Motif ;
+  rdfs:label "Blood group H" ;
+  dc:identifier "G00068MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00067MO>
+  a gn:Motif ;
+  rdfs:label "Blood Group B" ;
+  dc:identifier "G00067MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00067MO>
+  a gn:Motif ;
+  rdfs:label "Blood group B" ;
+  dc:identifier "G00067MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00066MO>
+  a gn:Motif ;
+  rdfs:label "Blood Group A Trisaccharide" ;
+  dc:identifier "G00066MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00066MO>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G00066MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00066MO>
+  a gn:Motif ;
+  rdfs:label "Blood group A" ;
+  dc:identifier "G00066MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00065MO>
+  a gn:Motif ;
+  rdfs:label "3′-sialyl-N-acetyllactosamine" ;
+  dc:identifier "G00065MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00065MO>
+  a gn:Motif ;
+  rdfs:label "Polysialic acid" ;
+  dc:identifier "G00065MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00065MO>
+  a gn:Motif ;
+  rdfs:label "Sialosyl paragloboside" ;
+  dc:identifier "G00065MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00065MO>
+  a gn:Motif ;
+  rdfs:label "VIM-2" ;
+  dc:identifier "G00065MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00065MO>
+  a gn:Motif ;
+  rdfs:label "VIM" ;
+  dc:identifier "G00065MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00065MO>
+  a gn:Motif ;
+  rdfs:label "VIM" ;
+  dc:identifier "G00065MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00064MO>
+  a gn:Motif ;
+  rdfs:label "Forssman glycolipid" ;
+  dc:identifier "G00064MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00064MO>
+  a gn:Motif ;
+  rdfs:label "Forssman glycolipid" ;
+  dc:identifier "G00064MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00064MO>
+  a gn:Motif ;
+  rdfs:label "Forssmann" ;
+  dc:identifier "G00064MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00064MO>
+  a gn:Motif ;
+  rdfs:label "Forssmann" ;
+  dc:identifier "G00064MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00064MO>
+  a gn:Motif ;
+  rdfs:label "Forssmann" ;
+  dc:identifier "G00064MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00063MO>
+  a gn:Motif ;
+  rdfs:label "CAD" ;
+  dc:identifier "G00063MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00062MO>
+  a gn:Motif ;
+  rdfs:label "Sda/CT antigen" ;
+  dc:identifier "G00062MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00062MO>
+  a gn:Motif ;
+  rdfs:label "SDA" ;
+  dc:identifier "G00062MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00062MO>
+  a gn:Motif ;
+  rdfs:label "SDA" ;
+  dc:identifier "G00062MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Gb4" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Gb4" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globoside(P antigen)  (Gb4)" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globoside(P antigen)  (Gb4)" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globotetraosylceramide" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globotetraosylceramide" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globoside (P antigen) (Gb4)" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globoside (P antigen) (Gb4)" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globoside" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "Globoside" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "P antigen" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "P antigen" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "P-Antigen" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "P-Antigen" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00061MO>
+  a gn:Motif ;
+  rdfs:label "P-Antigen" ;
+  dc:identifier "G00061MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00060MO>
+  a gn:Motif ;
+  rdfs:label "P1 antigen" ;
+  dc:identifier "G00060MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00060MO>
+  a gn:Motif ;
+  rdfs:label "P1 antigen" ;
+  dc:identifier "G00060MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00060MO>
+  a gn:Motif ;
+  rdfs:label "P1-Antigen" ;
+  dc:identifier "G00060MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00060MO>
+  a gn:Motif ;
+  rdfs:label "P1-Antigen" ;
+  dc:identifier "G00060MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00060MO>
+  a gn:Motif ;
+  rdfs:label "P1-Antigen" ;
+  dc:identifier "G00060MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "globotriaosylceramide" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "globotriaosylceramide" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Globotriaosylceramide" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Globotriaosylceramide" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk antigen (Gb3, globotriaosylceramide)" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk antigen (Gb3, globotriaosylceramide)" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Gb3" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Gb3" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk Antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk Antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk-Antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk-Antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00059MO>
+  a gn:Motif ;
+  rdfs:label "Pk-Antigen" ;
+  dc:identifier "G00059MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "I' antigen" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "Type 2 LN2" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "Type 2 LN2 (‘‘I’’ antigen)" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "Type 2 LN2 (I' antigen)'" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "i antigen" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "i Antigen" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "Polylactosamine" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00058MO>
+  a gn:Motif ;
+  rdfs:label "Polylactosamine" ;
+  dc:identifier "G00058MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00057MO>
+  a gn:Motif ;
+  rdfs:label "LDN,  LacdiNAc" ;
+  dc:identifier "G00057MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00057MO>
+  a gn:Motif ;
+  rdfs:label "LacDiNAc" ;
+  dc:identifier "G00057MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00057MO>
+  a gn:Motif ;
+  rdfs:label "LacDiNAc" ;
+  dc:identifier "G00057MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00056MO>
+  a gn:Motif ;
+  rdfs:label "Type 1 LN" ;
+  dc:identifier "G00056MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00056MO>
+  a gn:Motif ;
+  rdfs:label "Lactosamine Type 1" ;
+  dc:identifier "G00056MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00056MO>
+  a gn:Motif ;
+  rdfs:label "Neo Lactosamine" ;
+  dc:identifier "G00056MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00056MO>
+  a gn:Motif ;
+  rdfs:label "Neo Lactosamine" ;
+  dc:identifier "G00056MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "N-acetyllactosamine" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "Type 2 LN" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "Type 2 LN (N-acetyllactosamine)" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "Lactosamine Type 2" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "LN, N-acetyllactosamine" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "Lactosamine motif" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00055MO>
+  a gn:Motif ;
+  rdfs:label "Lactosamine motif" ;
+  dc:identifier "G00055MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00054MO>
+  a gn:Motif ;
+  rdfs:label "Slex" ;
+  dc:identifier "G00054MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00054MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl-Lewis X" ;
+  dc:identifier "G00054MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00054MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis x (SLex)" ;
+  dc:identifier "G00054MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00054MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis x" ;
+  dc:identifier "G00054MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00054MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis X" ;
+  dc:identifier "G00054MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00054MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis X" ;
+  dc:identifier "G00054MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "CA19-9 antigen" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "Slea" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis a (SLea)  (CA19-9 antigen)" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis a (SLea)(CA19-9 antigen)" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis a" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis A" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00053MO>
+  a gn:Motif ;
+  rdfs:label "Sialyl Lewis A" ;
+  dc:identifier "G00053MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Ley" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Leb" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis b (Lewis b)" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Blood group H (type 2)  (Lewis Y)" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Blood group H (type 2) (Ley)" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Blood group H (type 2)" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis b (Leb)" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis b" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis a" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis y" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis Y" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00052MO>
+  a gn:Motif ;
+  rdfs:label "Lewis Y" ;
+  dc:identifier "G00052MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00051MO>
+  a gn:Motif ;
+  rdfs:label "Lewis x" ;
+  dc:identifier "G00051MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00051MO>
+  a gn:Motif ;
+  rdfs:label "Lewis X" ;
+  dc:identifier "G00051MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00051MO>
+  a gn:Motif ;
+  rdfs:label "Lewis X" ;
+  dc:identifier "G00051MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00050MO>
+  a gn:Motif ;
+  rdfs:label "Lewis D" ;
+  dc:identifier "G00050MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00050MO>
+  a gn:Motif ;
+  rdfs:label "Lewis D" ;
+  dc:identifier "G00050MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00050MO>
+  a gn:Motif ;
+  rdfs:label "Lewis D" ;
+  dc:identifier "G00050MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00049MO>
+  a gn:Motif ;
+  rdfs:label "Lactotetraosylceramide" ;
+  dc:identifier "G00049MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00049MO>
+  a gn:Motif ;
+  rdfs:label "Lactotetraosylceramide" ;
+  dc:identifier "G00049MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00049MO>
+  a gn:Motif ;
+  rdfs:label "Lewis C" ;
+  dc:identifier "G00049MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Cer" .
+<G00049MO>
+  a gn:Motif ;
+  rdfs:label "Lewis C" ;
+  dc:identifier "G00049MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00049MO>
+  a gn:Motif ;
+  rdfs:label "Lewis C" ;
+  dc:identifier "G00049MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Cer" .
+<G00048MO>
+  a gn:Motif ;
+  rdfs:label "Lewis b" ;
+  dc:identifier "G00048MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00048MO>
+  a gn:Motif ;
+  rdfs:label "Lewis B" ;
+  dc:identifier "G00048MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00048MO>
+  a gn:Motif ;
+  rdfs:label "Lewis B" ;
+  dc:identifier "G00048MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00047MO>
+  a gn:Motif ;
+  rdfs:label "Lea" ;
+  dc:identifier "G00047MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00047MO>
+  a gn:Motif ;
+  rdfs:label "Lewis a (Lea)" ;
+  dc:identifier "G00047MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00047MO>
+  a gn:Motif ;
+  rdfs:label "Lewis a" ;
+  dc:identifier "G00047MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00047MO>
+  a gn:Motif ;
+  rdfs:label "Lewis A" ;
+  dc:identifier "G00047MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00047MO>
+  a gn:Motif ;
+  rdfs:label "Lewis A" ;
+  dc:identifier "G00047MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00046MO>
+  a gn:Motif ;
+  rdfs:label "a-Gal antigen" ;
+  dc:identifier "G00046MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00046MO>
+  a gn:Motif ;
+  rdfs:label "Galalpha1-3Gal epitope" ;
+  dc:identifier "G00046MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00046MO>
+  a gn:Motif ;
+  rdfs:label "Galalpha1-3Gal epitope" ;
+  dc:identifier "G00046MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00045MO>
+  a gn:Motif ;
+  rdfs:label "GPI anchor core" ;
+  dc:identifier "G00045MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "R" .
+<G00044MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 7 fuzzy" ;
+  dc:identifier "G00044MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00044MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 7 fuzzy" ;
+  dc:identifier "G00044MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00043MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 7" ;
+  dc:identifier "G00043MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00043MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 7" ;
+  dc:identifier "G00043MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00042MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 6 Fuzzy" ;
+  dc:identifier "G00042MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00042MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 6 Fuzzy" ;
+  dc:identifier "G00042MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00041MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 6" ;
+  dc:identifier "G00041MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00041MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 6" ;
+  dc:identifier "G00041MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00040MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 5 fuzzy" ;
+  dc:identifier "G00040MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00040MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 5 fuzzy" ;
+  dc:identifier "G00040MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00039MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 5" ;
+  dc:identifier "G00039MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00039MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 5" ;
+  dc:identifier "G00039MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00038MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 4 fuzzy" ;
+  dc:identifier "G00038MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00038MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 4 fuzzy" ;
+  dc:identifier "G00038MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00037MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 4" ;
+  dc:identifier "G00037MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00037MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 4" ;
+  dc:identifier "G00037MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00036MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 3 fuzzy" ;
+  dc:identifier "G00036MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00036MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 3 fuzzy" ;
+  dc:identifier "G00036MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00035MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 3" ;
+  dc:identifier "G00035MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00035MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 3" ;
+  dc:identifier "G00035MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00034MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 2 fuzzy" ;
+  dc:identifier "G00034MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00034MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 2 fuzzy" ;
+  dc:identifier "G00034MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00033MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 2" ;
+  dc:identifier "G00033MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00033MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 2" ;
+  dc:identifier "G00033MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00032MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 1 fuzzy" ;
+  dc:identifier "G00032MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00032MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 1 fuzzy" ;
+  dc:identifier "G00032MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "TF antigen" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "T antigen" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "T (also TF)  antigen" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "T (also TF) antigen" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "Core 1 / T antigen" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "T Antigen" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 1" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00031MO>
+  a gn:Motif ;
+  rdfs:label "O-Glycan core 1" ;
+  dc:identifier "G00031MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Ser/Thr" .
+<G00030MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan complex" ;
+  dc:identifier "G00030MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00030MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan complex" ;
+  dc:identifier "G00030MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00029MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan hybrid" ;
+  dc:identifier "G00029MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00029MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan hybrid" ;
+  dc:identifier "G00029MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00028MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan high mannose" ;
+  dc:identifier "G00028MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00028MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan high mannose" ;
+  dc:identifier "G00028MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00027MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan truncated motif. First GlcpNAC cut off" ;
+  dc:identifier "G00027MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00026MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan core basic" ;
+  dc:identifier "G00026MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00026MO>
+  a gn:Motif ;
+  rdfs:label "N-Glycan core basic" ;
+  dc:identifier "G00026MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00025MO>
+  a gn:Motif ;
+  rdfs:label "Cellulose like Glc(1-4)n" ;
+  dc:identifier "G00025MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00024MO>
+  a gn:Motif ;
+  rdfs:label "Beta-glucan" ;
+  dc:identifier "G00024MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00023MO>
+  a gn:Motif ;
+  rdfs:label "Peptidoglycan" ;
+  dc:identifier "G00023MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00022MO>
+  a gn:Motif ;
+  rdfs:label "LPS core" ;
+  dc:identifier "G00022MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00021MO>
+  a gn:Motif ;
+  rdfs:label "Heparin" ;
+  dc:identifier "G00021MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00020MO>
+  a gn:Motif ;
+  rdfs:label "Keratansulfate" ;
+  dc:identifier "G00020MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00019MO>
+  a gn:Motif ;
+  rdfs:label "Dermatansulfate" ;
+  dc:identifier "G00019MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00018MO>
+  a gn:Motif ;
+  rdfs:label "Chondroitin 4S" ;
+  dc:identifier "G00018MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00017MO>
+  a gn:Motif ;
+  rdfs:label "Hyluronan" ;
+  dc:identifier "G00017MO" ;
+  gn:has_reducingend "false" ;
+  gn:has_aglycon "Asn" .
+<G00016MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Gala series" ;
+  dc:identifier "G00016MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00015MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Mollu series" ;
+  dc:identifier "G00015MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00014MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Arthro series" ;
+  dc:identifier "G00014MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00013MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Muco series" ;
+  dc:identifier "G00013MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
+<G00012MO>
+  a gn:Motif ;
+  rdfs:label "Glycosphingolipid Isoglobo series" ;
+  dc:identifier "G00012MO" ;
+  gn:has_reducingend "true" ;
+  gn:has_aglycon "Asn" .
