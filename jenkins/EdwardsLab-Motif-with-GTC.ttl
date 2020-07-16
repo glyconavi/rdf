@@ -1,4 +1,4 @@
-@base <http://glytoucan.org/Structures/Glycans/> .
+@base <http://rdf.glycoinfo.org/glycan/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix gn: <http://glyconavi.org/owl#> .
 @prefix dc: <http://purl.org/dc/terms/> .
