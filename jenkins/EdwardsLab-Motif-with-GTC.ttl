@@ -5170,7 +5170,7 @@
   gn:has_aglycon "Asn" .
 <G00017MO>
   a gn:Motif ;
-  rdfs:label "Hyluronan" ;
+  rdfs:label "Hyaluronan" ;
   dc:identifier "G00017MO" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "Asn" .
