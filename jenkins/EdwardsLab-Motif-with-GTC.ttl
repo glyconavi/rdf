@@ -7700,11 +7700,11 @@
 <http://wurcs.org/sha256/803f2568b426a8bdbb3a053a55a26d26e2549fcec73a71f689ac4bbef88f45c4> gn:has_wurcs "WURCS=2.0/3,3,2/[a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5_3*OSO/3=O/3=O][a1221m-1a_1-5]/1-2-3/a3-b1_a4-c1" .
 <G78706CK>
   a gn:Motif ;
-  rdfs:label "3-Sulfo-Lewis a (30-Sulfo Lewis a)" ;
+  rdfs:label "3-Sulfo-Lewis a (3O-Sulfo Lewis a)" ;
   dc:identifier "G78706CK" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "3-Sulfo-Lewis a (30-Sulfo Lewis a)" ;
+  gn:has_preferred_name "3-Sulfo-Lewis a (3O-Sulfo Lewis a)" ;
   gn:has_wurcs "WURCS=2.0/3,3,2/[a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5_3*OSO/3=O/3=O][a1221m-1a_1-5]/1-2-3/a3-b1_a4-c1" ;
   gn:has_wurcs_md5 "1a3ded905288587091419b7d9e3e6ca9" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/1a3ded905288587091419b7d9e3e6ca9> ;
@@ -8023,11 +8023,11 @@
 <http://wurcs.org/sha256/02cd4414926b9f428f1a23146545c0023b5b42c64e9b719a3c5fb2e2562cf4c3> gn:has_wurcs "WURCS=2.0/4,4,3/[a2122h-1b_1-5_2*NCC/3=O_6*OSO/3=O/3=O][a1221m-1a_1-5][a2112h-1b_1-5_6*OSO/3=O/3=O][Aad21122h-2a_2-6_5*NCC/3=O]/1-2-3-4/a3-b1_a4-c1_c3-d2" .
 <G00659GQ>
   a gn:Motif ;
-  rdfs:label "6,6-bisSulfo-Lewis x (6,60-bissulfo Lewis x )" ;
+  rdfs:label "6,6-bisSulfo-Lewis x (6,6O-bissulfo Lewis x )" ;
   dc:identifier "G00659GQ" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "6,6-bisSulfo-Lewis x (6,60-bissulfo Lewis x )" ;
+  gn:has_preferred_name "6,6-bisSulfo-Lewis x (6,6O-bissulfo Lewis x )" ;
   gn:has_wurcs "WURCS=2.0/4,4,3/[a2122h-1b_1-5_2*NCC/3=O_6*OSO/3=O/3=O][a1221m-1a_1-5][a2112h-1b_1-5_6*OSO/3=O/3=O][Aad21122h-2a_2-6_5*NCC/3=O]/1-2-3-4/a3-b1_a4-c1_c3-d2" ;
   gn:has_wurcs_md5 "1b1c56c2ddd40dc02e93f18e89debc95" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/1b1c56c2ddd40dc02e93f18e89debc95> ;
@@ -13851,11 +13851,11 @@
 <http://wurcs.org/sha256/763b3e6388fbf07609105605082cb2da423fcec797a43bb5be2fd57ad85eb6d9> gn:has_wurcs "WURCS=2.0/4,5,4/[a2112h-1x_1-5][a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5][a1221m-1a_1-5]/1-2-3-4-4/a3-b1_b3-c1_b4-e1_c2-d1" .
 <G31301MT>
   a gn:Motif ;
-  rdfs:label "40-sulfated LDN" ;
+  rdfs:label "4O-sulfated LDN" ;
   dc:identifier "G31301MT" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "40-sulfated LDN" ;
+  gn:has_preferred_name "4O-sulfated LDN" ;
   gn:has_wurcs "WURCS=2.0/2,2,1/[a2122h-1x_1-5_2*NCC/3=O][a2112h-1b_1-5_2*NCC/3=O_4*SO/2=O/2=O]/1-2/a4-b1" ;
   gn:has_wurcs_md5 "b751d7fee51dc583bb722ddf181a6d22" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/b751d7fee51dc583bb722ddf181a6d22> ;
@@ -13927,11 +13927,11 @@
 <http://wurcs.org/sha256/7a0f881eaa1d0a17f4dd729e84b843de8b3dc46a9375dd83799dc46e0bced4da> gn:has_wurcs "WURCS=2.0/4,4,3/[a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5][Aad21122h-2a_2-6_5*NCC/3=O][a2112h-1b_1-5_2*NCC/3=O]/1-2-3-4/a4-b1_b3-c2_b4-d1" .
 <G14395NH>
   a gn:Motif ;
-  rdfs:label "30-Sulfo-Lewis a (30-Sulfo Lea)" ;
+  rdfs:label "3O-Sulfo-Lewis a (3O-Sulfo Lea)" ;
   dc:identifier "G14395NH" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "30-Sulfo-Lewis a (30-Sulfo Lea)" ;
+  gn:has_preferred_name "3O-Sulfo-Lewis a (3O-Sulfo Lea)" ;
   gn:has_wurcs "WURCS=2.0/3,3,2/[a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5_3*SO/2=O/2=O][a1221m-1a_1-5]/1-2-3/a3-b1_a4-c1" ;
   gn:has_wurcs_md5 "25b521ce2951d1093acc10b406af7b83" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/25b521ce2951d1093acc10b406af7b83> ;
@@ -14763,11 +14763,11 @@
 <http://wurcs.org/sha256/14b062e5b5d160eba2598260f1826d5da4d41e8b1da952f2dee9e765c5566a95> gn:has_wurcs "WURCS=2.0/3,3,2/[h2112h_2*NCC/3=O][a1221m-1a_1-5][a2112h-1b_1-5]/1-2-3/a3-b1_a4-c1" .
 <G06378CG>
   a gn:Motif ;
-  rdfs:label "60-Sulfo-sialyl Lewis x (60-sulfo SLex)" ;
+  rdfs:label "6O-Sulfo-sialyl Lewis x (6O-sulfo SLex)" ;
   dc:identifier "G06378CG" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "60-Sulfo-sialyl Lewis x (60-sulfo SLex)" ;
+  gn:has_preferred_name "6O-Sulfo-sialyl Lewis x (6O-sulfo SLex)" ;
   gn:has_wurcs "WURCS=2.0/4,4,3/[a2122h-1b_1-5_2*NCC/3=O][a1221m-1a_1-5][a2112h-1b_1-5_6*SO/2=O/2=O][Aad21122h-2a_2-6_5*NCC/3=O]/1-2-3-4/a3-b1_a4-c1_c3-d2" ;
   gn:has_wurcs_md5 "741b3346b0397168aa8f106b1f986049" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/741b3346b0397168aa8f106b1f986049> ;
@@ -15599,11 +15599,11 @@
 <http://wurcs.org/sha256/2fa4f084fb54fb92122d9a231e26d3a21cc8cc6e0a3c1d1098ebc9ca83effe4e> gn:has_wurcs "WURCS=2.0/2,2,1/[a2112h-1b_1-5_2*NCC/3=O][Aad21122h-2a_2-6_5*NCC/3=O]/1-2/a6-b2" .
 <G23094GH>
   a gn:Motif ;
-  rdfs:label "6,60-bisSulfo-Lewis x (6,60-bissulfo Lex))" ;
+  rdfs:label "6,6O-bisSulfo-Lewis x (6,6O-bissulfo Lex))" ;
   dc:identifier "G23094GH" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "6,60-bisSulfo-Lewis x (6,60-bissulfo Lex))" ;
+  gn:has_preferred_name "6,6O-bisSulfo-Lewis x (6,6O-bissulfo Lex))" ;
   gn:has_wurcs "WURCS=2.0/4,4,3/[a2122h-1b_1-5_2*NCC/3=O_6*SO/2=O/2=O][a1221m-1a_1-5][a2112h-1b_1-5_6*SO/2=O/2=O][Aad21122h-2a_2-6_5*NCC/3=O]/1-2-3-4/a3-b1_a4-c1_c3-d2" ;
   gn:has_wurcs_md5 "4dbcf8646acad25571bf70e7c33caf5d" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/4dbcf8646acad25571bf70e7c33caf5d> ;
@@ -16302,11 +16302,11 @@
 <http://wurcs.org/sha256/bfe9c02bc1bbb68f6b93f6624ebd90459d3150e85eebdeb4b322b35d90e6e08a> gn:has_wurcs "WURCS=2.0/2,2,1/[a1122h-1x_1-5][a1122h-1a_1-5]/1-2/a3-b1" .
 <G51907PX>
   a gn:Motif ;
-  rdfs:label "30-Sulfo-Lewis x (30-sulfo Lex))" ;
+  rdfs:label "3O-Sulfo-Lewis x (3O-sulfo Lex))" ;
   dc:identifier "G51907PX" ;
   gn:has_reducingend "false" ;
   gn:has_aglycon "R" ;
-  gn:has_preferred_name "30-Sulfo-Lewis x (30-sulfo Lex))" ;
+  gn:has_preferred_name "3O-Sulfo-Lewis x (3O-sulfo Lex))" ;
   gn:has_wurcs "WURCS=2.0/3,3,2/[a2122h-1b_1-5_2*NCC/3=O][a1221m-1a_1-5][a2112h-1b_1-5_3*SO/2=O/2=O]/1-2-3/a3-b1_a4-c1" ;
   gn:has_wurcs_md5 "b82600dbc094ea22fe19ca34451586d3" ;
   gn:has_wurcs_md5_resource <http://wurcs.org/md5/b82600dbc094ea22fe19ca34451586d3> ;
